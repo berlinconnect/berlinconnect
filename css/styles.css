@@ -10,8 +10,18 @@ h1{font-family:"brandon-grotesque",sans-serif}
 .right{float:right}
 .left{float:left}
 .clearfix{clear:both}
+@font-face{font-family:'entypo';src:url("../fonts/entypo/entypo.eot");src:url("../fonts/entypo/entypo.eot?iefix") format('eot'),url("../fonts/entypo/entypo.woff") format('woff'),url("../fonts/entypo/entypo.ttf") format('truetype'),url("../fonts/entypo/entypo.svg#webfonthOIcM5wm") format('svg');font-weight:400;font-style:normal}
+@font-face{font-family:'entypo-social';src:url("../fonts/entypo/entypo-social.eot");src:url("../fonts/entypo/entypo-social.eot?iefix") format('eot'),url("../fonts/entypo/entypo-social.woff") format('woff'),url("../fonts/entypo/entypo-social.ttf") format('truetype'),url("../fonts/entypo/entypo-social.svg#webfonthOIcM5wm") format('svg');font-weight:400;font-style:normal}
+.entypo-social{font-family:'entypo-social'}
+.entypo{font-family:'entypo'}
+.entypo,.entypo-social{padding:0;margin:0;font-weight:normal;display:inline-block;vertical-align:middle;text-align:center;}
+.entypo.medium,.entypo-social.medium{color:#a2a2a2;font-size:60px;line-height:62px;}
+.entypo.medium:hover,.entypo-social.medium:hover{color:$blue}
+.entypo.big,.entypo-social.big{color:$blue;font-size:109px;line-height:109px}
+.entypo.arrow:before{content:''}
 .hero{width:100%;background-image:url("../img/hero.jpg");-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;background-position:center center;background-repeat:no-repeat;text-align:center;color:#fff;}
-.hero .wrapper{padding:80px 0 160px}
-.hero .logo{background:url("../img/logo.png");background-image:url("../img/logo.svg"),none;background-position:center;background-repeat:no-repeat;height:180px;width:180px;margin:0 auto}
+.hero .wrapper{padding:60px 0 140px;position:relative}
+.hero .logo{background:url("../img/logo.png");background-image:url("../img/logo.svg"),none;background-position:center center;background-repeat:no-repeat;height:200px;width:200px;-webkit-background-size:200px;-moz-background-size:200px;background-size:200px;margin:0 auto}
 .hero h1{font-size:100px;font-weight:700;text-transform:uppercase;letter-spacing:3px;padding:40px 0 10px}
 .hero p{font-size:28px;line-height:40px;width:540px;margin:0 auto;font-style:italic}
+.hero .arrow{font-size:80px;width:100%;left:0;text-align:center;position:absolute;bottom:0}
