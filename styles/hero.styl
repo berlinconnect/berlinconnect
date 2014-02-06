@@ -8,15 +8,17 @@
   color: $white
   
   .wrapper
-    padding: 80px 0 160px
+    padding: 60px 0 140px
+    position: relative
   
   .logo
     background: url('../img/logo.png');
     background-image: url('../img/logo.svg'), none;
-    background-position: center
+    background-position: center center
     background-repeat: no-repeat
-    height: 180px
+    height: 200px
     width: @height
+    background-size: @height
     margin: 0 auto
     
   h1
@@ -32,3 +34,12 @@
     width: 540px
     margin: 0 auto
     font-style: italic
+    
+  .arrow
+    font-size: 80px
+    width: 100%
+    left:0
+    text-align: center
+    position: absolute
+    bottom:0px
+    
