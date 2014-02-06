@@ -1,0 +1,134 @@
+section
+  .intro
+    padding: 100px 0
+    
+    h2
+      font-weight: 200
+      color: $light
+      font-size: 46px
+      line-height: @font-size
+      font-style: italic
+      margin: 0 0 20px
+      padding: 0
+      
+    h1
+      text-transform: uppercase
+      font-size: 60px
+      line-height: @font-size
+      color: $dark
+      margin-bottom: 20px
+      
+    p
+      font-size: 22px
+      line-height: @font-size + 18px
+      padding: 0 120px
+      color: $mid
+      
+.slates
+  font-size: 0
+  width: 100%
+  height: 100%
+  display: block
+  
+  .slate
+    position: relative
+    float:left
+    cursor:pointer
+    overflow: hidden
+    background: white
+
+    .background-image
+      position: absolute
+      width: 100%
+      height: 100%
+      background-size:cover
+      background-position: center center
+      background-repeat: no-repeat
+      transition: all 300ms ease
+      opacity: 0.8
+      
+    &:hover
+      .background-image
+        transform:scale(1.05)
+    
+    .caption
+      color: $white
+      position: absolute
+      bottom: 30px
+      left: 30px
+      right: 30px
+      
+      h2
+        font-size: 34px
+        line-height: @font-size + 6px
+        font-family: $heading
+        text-transform: uppercase
+        font-weight: 900
+        letter-spacing: 1px
+      p
+        font-size:22px
+        font-style: italic
+
+    &.full
+      vertical-align: top
+      width:100%
+      height: 0
+      padding-bottom: 50%
+      display:inline-block
+
+      .caption
+        text-align: center
+        top: 50%
+        bottom: inherit
+        
+        h2
+          font-size: 70px
+          width: 100%
+          letter-spacing: 3px
+          
+        p
+          font-size: 44px
+          
+
+    &.square.big
+      vertical-align: top
+      width:50%
+      height: 0
+      padding-bottom: 50%
+      display:inline-block
+
+    &.rectangle
+      vertical-align: top
+      width:50%
+      height: 0
+      padding-bottom: 25%
+      display:inline-block
+      
+    &#sunday
+      .background-image
+        background-image: url('http://distilleryimage5.ak.instagram.com/ebfd48b644a711e39a4622000a9e067e_8.jpg')
+      
+    &#guest-speakers
+      .background-image
+        background-image: url('https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-ash3/t1/1524862_582133021868755_1881762454_n.jpg')
+      
+    &#youth
+      .background-image
+        background-image: url('http://cdn0.stocksy.com/a/bLH000/z0/66687.jpg')
+        
+    &#dinner-party
+      .background-image
+        background-image: url('http://cdn2.stocksy.com/a/CAU000/z0/115952.jpg')
+      
+    &#sisterhood
+      .background-image
+        background-image: url('http://cdn1.stocksy.com/a/EuD000/z0/53458.jpg')
+        
+    &#kindness
+      .background-image
+        background-image: url('http://cdn2.stocksy.com/a/844000/z0/15632.jpg')
+      
+    &#futureminded
+      .background-image
+        background-image: url('http://cl.ly/TlnD/Screen%20Shot%202014-02-06%20at%204.46.35%20PM.png')
+    

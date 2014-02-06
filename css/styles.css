@@ -19,9 +19,33 @@ h1{font-family:"brandon-grotesque",sans-serif}
 .entypo.medium:hover,.entypo-social.medium:hover{color:$blue}
 .entypo.big,.entypo-social.big{color:$blue;font-size:109px;line-height:109px}
 .entypo.arrow:before{content:''}
-.hero{width:100%;background-image:url("../img/hero.jpg");-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;background-position:center center;background-repeat:no-repeat;text-align:center;color:#fff;}
+.hero{width:100%;background:url("../img/hero.jpg") center center no-repeat fixed;-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;text-align:center;color:#fff;}
 .hero .wrapper{padding:60px 0 140px;position:relative}
 .hero .logo{background:url("../img/logo.png");background-image:url("../img/logo.svg"),none;background-position:center center;background-repeat:no-repeat;height:200px;width:200px;-webkit-background-size:200px;-moz-background-size:200px;background-size:200px;margin:0 auto}
 .hero h1{font-size:100px;font-weight:700;text-transform:uppercase;letter-spacing:3px;padding:40px 0 10px}
 .hero p{font-size:28px;line-height:40px;width:540px;margin:0 auto;font-style:italic}
 .hero .arrow{font-size:80px;width:100%;left:0;text-align:center;position:absolute;bottom:0}
+section .intro{padding:100px 0;}
+section .intro h2{font-weight:200;color:#a2a2a2;font-size:46px;line-height:46px;font-style:italic;margin:0 0 20px;padding:0}
+section .intro h1{text-transform:uppercase;font-size:60px;line-height:60px;color:#212121;margin-bottom:20px}
+section .intro p{font-size:22px;line-height:40px;padding:0 120px;color:#414141}
+.slates{font-size:0;width:100%;height:100%;display:block;}
+.slates .slate{position:relative;float:left;cursor:pointer;overflow:hidden;background:#fff;}
+.slates .slate .background-image{position:absolute;width:100%;height:100%;-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;background-position:center center;background-repeat:no-repeat;-webkit-transition:all 300ms ease;-moz-transition:all 300ms ease;-o-transition:all 300ms ease;-ms-transition:all 300ms ease;transition:all 300ms ease;opacity:.8;-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";filter:alpha(opacity=80)}
+.slates .slate:hover .background-image{-webkit-transform:scale(1.05);-moz-transform:scale(1.05);-o-transform:scale(1.05);-ms-transform:scale(1.05);transform:scale(1.05)}
+.slates .slate .caption{color:#fff;position:absolute;bottom:30px;left:30px;right:30px;}
+.slates .slate .caption h2{font-size:34px;line-height:40px;font-family:"brandon-grotesque",sans-serif;text-transform:uppercase;font-weight:900;letter-spacing:1px}
+.slates .slate .caption p{font-size:22px;font-style:italic}
+.slates .slate.full{vertical-align:top;width:100%;height:0;padding-bottom:50%;display:inline-block;}
+.slates .slate.full .caption{text-align:center;top:50%;bottom:inherit;}
+.slates .slate.full .caption h2{font-size:70px;width:100%;letter-spacing:3px}
+.slates .slate.full .caption p{font-size:44px}
+.slates .slate.square.big{vertical-align:top;width:50%;height:0;padding-bottom:50%;display:inline-block}
+.slates .slate.rectangle{vertical-align:top;width:50%;height:0;padding-bottom:25%;display:inline-block}
+.slates .slate#sunday .background-image{background-image:url("http://distilleryimage5.ak.instagram.com/ebfd48b644a711e39a4622000a9e067e_8.jpg")}
+.slates .slate#guest-speakers .background-image{background-image:url("https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-ash3/t1/1524862_582133021868755_1881762454_n.jpg")}
+.slates .slate#youth .background-image{background-image:url("http://cdn0.stocksy.com/a/bLH000/z0/66687.jpg")}
+.slates .slate#dinner-party .background-image{background-image:url("http://cdn2.stocksy.com/a/CAU000/z0/115952.jpg")}
+.slates .slate#sisterhood .background-image{background-image:url("http://cdn1.stocksy.com/a/EuD000/z0/53458.jpg")}
+.slates .slate#kindness .background-image{background-image:url("http://cdn2.stocksy.com/a/844000/z0/15632.jpg")}
+.slates .slate#futureminded .background-image{background-image:url("http://cl.ly/TlnD/Screen%20Shot%202014-02-06%20at%204.46.35%20PM.png")}

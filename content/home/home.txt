@@ -6,3 +6,57 @@ HeroTitle: Welcome Home
 
 HeroCopy: A new local church in the heart of Berlin changing people's perceptions about Jesus and His Church.
 ----
+
+SundaySubTitle: A little about...
+----
+SundayTitle: Berlin Connect
+----
+SundayCopy: Overwhelmed by the gift of salvation we have found in Jesus, we have a heart for authentic worship, are passionate about the local church, and are on mission to see God’s kingdom established across the earth.
+----
+
+SundayCelebrationTitle: Sunday Celebrations
+----
+SundayCelebrationIntro: Sundays are Jesus focused & people empowering
+----
+
+GuestSpeakersTitle: Guest Speakers
+----
+GuestSpeakersIntro: Mal Fletcher, Sebastian Schlüter & More...
+----
+
+YouthTitle: Youth & Children
+----
+YouthIntro: Preparing the next generation
+----
+
+CommunitySubTitle: Connecting to our Midweek
+----
+CommunityTitle: Community
+----
+CommunityCopy: As the church gets bigger it also has to get smaller. These informal get-togethers happen in homes, cafes and bars across Berlin.
+----
+
+DinnerPartyTitle: Dinner Parties
+----
+DinnerPartyIntro: Take your place at the table
+----
+
+SisterhoodTitle: Sisterhood
+----
+SisterhoodIntro: Placing value on women so we in turn can place value on humanity
+----
+
+SocialSubTitle: Representing Christ in our daily lives
+----
+SocialTitle: Social Enterprise
+----
+SocialCopy: Our desire is for everyone who calls Berlin Connect home to be involved in expressing social kindness within our communities and society. The Gospel empowers us to love our neighbour who is anyone and everyone in society.
+----
+KindnessTitle: Social Kindness
+----
+KindnessIntro: Expressing social kindness within our communities and society
+----
+FutureMindedTitle: Future Minded
+----
+FutureMindedIntro: Focusing on social change and leadership innovation
+----
