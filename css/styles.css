@@ -1,10 +1,17 @@
 *{margin:0;padding:0;border:none;text-decoration:none;outline:none;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}
 a{outline:none}
 ul{list-style:none}
-body{-webkit-font-smoothing:antialiased;background:#fdfcfa;margin:0 auto;height:100%}
+body{-webkit-font-smoothing:antialiased;background:#fff;margin:0 auto;height:100%;font-family:"clavo",sans-serif;}
+body .wrapper{width:940px;padding:0 10px;margin:0 auto}
+h1{font-family:"brandon-grotesque",sans-serif}
 .hidden{display:none !important}
 .center{text-align:center}
 .inline{display:inline}
 .right{float:right}
 .left{float:left}
 .clearfix{clear:both}
+.hero{width:100%;background-image:url("../img/hero.jpg");-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;background-position:center center;background-repeat:no-repeat;text-align:center;color:#fff;}
+.hero .wrapper{padding:80px 0 160px}
+.hero .logo{background:url("../img/logo.png");background-image:url("../img/logo.svg"),none;background-position:center;background-repeat:no-repeat;height:180px;width:180px;margin:0 auto}
+.hero h1{font-size:100px;font-weight:700;text-transform:uppercase;letter-spacing:3px;padding:40px 0 10px}
+.hero p{font-size:28px;line-height:40px;width:540px;margin:0 auto;font-style:italic}

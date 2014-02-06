@@ -9,6 +9,10 @@
 
   <?php echo css('css/styles.css') ?>
 
+  <!-- Typekit -->
+  <script type="text/javascript" src="//use.typekit.net/xkv4ghj.js"></script>
+  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
   <? if($page->hasImages()): ?>
     <link rel="image_src" href="<?= $page->images()->first()->url(); ?>">
   <? endif ?>
