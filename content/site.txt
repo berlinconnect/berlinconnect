@@ -5,3 +5,4 @@ Author: Berlin Connect
 Description: A new local church in the heart of Berlin changing people s perceptions about Jesus and His Church.
 ----
 Copyright: Berlin Connect 2014
+----

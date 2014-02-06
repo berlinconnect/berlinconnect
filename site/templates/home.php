@@ -82,6 +82,7 @@
         <p><?= $page->futuremindedintro() ?></p>
       </div>
     </div>
+    <div class="clearfix"></div>
   </slates>
 </section>
 <?php snippet('footer') ?>

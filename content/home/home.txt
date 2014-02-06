@@ -11,7 +11,7 @@ SundaySubTitle: A little about...
 ----
 SundayTitle: Berlin Connect
 ----
-SundayCopy: Overwhelmed by the gift of salvation we have found in Jesus, we have a heart for authentic worship, are passionate about the local church, and are on mission to see God’s kingdom established across the earth.
+SundayCopy: Berlin Connect started with a small group of people from Hillsong London. The purpose was to establish a connect group in the capital city of Germany. Mark was asked to go to Berlin to encourage the team that was already there.
 ----
 
 SundayCelebrationTitle: Sunday Celebrations

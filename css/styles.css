@@ -10,6 +10,7 @@ h1{font-family:"brandon-grotesque",sans-serif}
 .right{float:right}
 .left{float:left}
 .clearfix{clear:both}
+.footer{padding:50px 0}
 @font-face{font-family:'entypo';src:url("../fonts/entypo/entypo.eot");src:url("../fonts/entypo/entypo.eot?iefix") format('eot'),url("../fonts/entypo/entypo.woff") format('woff'),url("../fonts/entypo/entypo.ttf") format('truetype'),url("../fonts/entypo/entypo.svg#webfonthOIcM5wm") format('svg');font-weight:400;font-style:normal}
 @font-face{font-family:'entypo-social';src:url("../fonts/entypo/entypo-social.eot");src:url("../fonts/entypo/entypo-social.eot?iefix") format('eot'),url("../fonts/entypo/entypo-social.woff") format('woff'),url("../fonts/entypo/entypo-social.ttf") format('truetype'),url("../fonts/entypo/entypo-social.svg#webfonthOIcM5wm") format('svg');font-weight:400;font-style:normal}
 .entypo-social{font-family:'entypo-social'}
