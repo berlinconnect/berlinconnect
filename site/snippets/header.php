@@ -8,6 +8,7 @@
   <meta name="robots" content="index, follow" />
 
   <?php echo css('css/styles.css') ?>
+  <?php echo css('css/libs/animate.css') ?>
 
   <!-- Typekit -->
   <script type="text/javascript" src="//use.typekit.net/xkv4ghj.js"></script>

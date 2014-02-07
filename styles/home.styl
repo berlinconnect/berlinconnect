@@ -1,3 +1,6 @@
+.wow:first-child
+  visibility: hidden
+
 section
   .intro
     padding: 100px 0
@@ -46,10 +49,15 @@ section
       background-repeat: no-repeat
       transition: all 300ms ease
       opacity: 0.8
+      box-shadow: inset 0 0 0 1000px rgba(0,0,0,0.0)
       
     &:hover
       .background-image
         transform:scale(1.05)
+        box-shadow: inset 0 0 0 1000px rgba($yellow,0.8)
+        
+      .caption
+        color: $dark
     
     .caption
       color: $white
@@ -121,19 +129,19 @@ section
       
     &#youth
       .background-image
-        background-image: url('http://cdn0.stocksy.com/a/bLH000/z0/66687.jpg')
+        background-image: url('../img/youth.jpg')
         
     &#children
       .background-image
-        background-image: url('http://cdn0.stocksy.com/a/VAF000/z0/58311.jpg')
+        background-image: url('../img/kids.jpg')
         
     &#dinner-party
       .background-image
-        background-image: url('http://cdn2.stocksy.com/a/CAU000/z0/115952.jpg')
+        background-image: url('../img/dinnerparty.jpg')
       
     &#sisterhood
       .background-image
-        background-image: url('http://cdn1.stocksy.com/a/EuD000/z0/53458.jpg')
+        background-image: url('https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-prn1/t1/1424465_554864931262231_1745032518_n.jpg')
         
     &#kindness
       .background-image

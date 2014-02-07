@@ -29,7 +29,7 @@ YouthTitle: Youth
 YouthIntro: Preparing the next generation
 ----
 
-ChildrenTitle: Children
+ChildrenTitle: Kids
 ----
 ChildrenIntro: Preparing the next generation
 ----
@@ -48,7 +48,7 @@ DinnerPartyIntro: Take your place at the table
 
 SisterhoodTitle: Sisterhood
 ----
-SisterhoodIntro: Placing value on women so we in turn can place value on humanity
+SisterhoodIntro: Placing value on women so we can place value on humanity
 ----
 
 SocialSubTitle: Representing Christ in our daily lives
