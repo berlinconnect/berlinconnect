@@ -136,8 +136,7 @@ body .slates .slate{width:100% !important;padding-bottom:50% !important}
 body .hero .logo{height:120px;width:120px;-webkit-background-size:120px;-moz-background-size:120px;background-size:120px}
 body .hero h1{font-size:30px;line-height:40px;font-weight:700;text-transform:uppercase;letter-spacing:1px;padding:40px 0 0}
 body .hero p{font-size:16px;line-height:26px;width:100%;padding:0 20px}
-body .hero .slates .slate{position:relative;}
-body .hero .slates .slate .caption{top:50%;left:10px;right:10px;text-align:center;margin-top:-13px;display:table-cell;vertical-align:middle;}
-body .hero .slates .slate .caption h2{font-size:24px;line-height:30px;font-family:"brandon-grotesque",sans-serif;text-transform:uppercase;font-weight:900;letter-spacing:1px}
-body .hero .slates .slate .caption p{display:none}
+body section .slates .slate .caption{top:50%;left:10px;right:10px;text-align:center;margin-top:-13px;display:table-cell;vertical-align:middle;}
+body section .slates .slate .caption h2{font-size:24px;line-height:30px;font-family:"brandon-grotesque",sans-serif;text-transform:uppercase;font-weight:900;letter-spacing:1px}
+body section .slates .slate .caption p{display:none}
 }
