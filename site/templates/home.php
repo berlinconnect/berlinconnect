@@ -92,4 +92,5 @@
     <div class="clearfix"></div>
   </slates>
 </section>
+<?php snippet('lightbox') ?>
 <?php snippet('footer') ?>

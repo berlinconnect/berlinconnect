@@ -13,3 +13,15 @@ else {
 
   wow.init();
 }
+
+$(function(){
+  $('.slate').click(function() {
+    // get class name of the element
+    var elementClassName = $(this).attr('id');
+    //find the divs with this class name and show them
+    $('div.'+elementClassName).removeClass('hidden');
+  });
+  $('.lightbox').click(function() {
+    $(this).addClass('hidden');
+  });
+});
