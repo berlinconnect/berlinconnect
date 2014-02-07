@@ -7,7 +7,7 @@
   <meta name="description" content="<?php echo html($site->description()) ?>" />
   <meta name="robots" content="index, follow" />
 
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
 
   <?php echo css('css/styles.css') ?>
   <?php echo css('css/libs/animate.css') ?>

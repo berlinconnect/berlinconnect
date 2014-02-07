@@ -1,3 +1,8 @@
+if(jQuery.browser.mobile) {
+
+}
+
+else {
 
   wow = new WOW(
     {
@@ -5,5 +10,6 @@
       offset:       200
     }
   );
-  wow.init();
 
+  wow.init();
+}
