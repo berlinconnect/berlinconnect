@@ -65,59 +65,9 @@
 @media $media-mobile
 
   body
-
     .wrapper
       width: 100%
-    
-    .hero
-      width: 100%
-      background-size: cover
-      text-align: center
-      color: $white
-    
-      .wrapper
-        padding: 30px 0 100px
-        position: relative
-        
-      h1
-        font-size: 65px
-        line-height: 70px
-        font-weight: 700
-        text-transform: uppercase
-        letter-spacing: 3px
-        padding: 40px 0 10px
-        
-      p
-        font-size: 22px
-        line-height: 36px
-        width: 100% !important
-        padding: 0 20px
       
-    section
-      .intro
-        h2
-          font-size: 36px
-          line-height: @font-size
-          margin: 0 0 10px
-        h1
-          font-size: 50px
-          line-height: @font-size
-          
-        p
-          font-size: 18px
-          line-height:34px
-          padding: 0 40px
-      
-    .slates
-      .slate
-        width:100%  !important
-        padding-bottom: 50%  !important
-        
-
-
-@media $media-mobile-portrait
-  
-  body
     .hero
       background-size: cover
       background-attachment: scroll
@@ -147,7 +97,7 @@
         line-height: 26px
         width: 100%
         padding: 0 20px
-        
+      
     section
       .intro
         padding: 60px 0
@@ -164,14 +114,45 @@
           font-size: 17px
           line-height:30px
           padding: 0 20px
+      
+    .slates
+      .slate
+        width:100%  !important
+        padding-bottom: 50%  !important
+        
+
+
+@media $media-mobile-portrait
+  
+  body
+    .hero
+      .wrapper
+        padding: 30px 0 100px
+        position: relative
+        
+      .logo
+        height: 120px
+        width: @height
+        background-size: @height
+        
+      h1
+        font-size: 30px
+        line-height: 40px
+        font-weight: 700
+        text-transform: uppercase
+        letter-spacing: 1px
+        padding: 40px 0 0
+        
+      p
+        font-size: 16px
+        line-height: 26px
+        width: 100%
+        padding: 0 20px
           
       .slates
         .slate   
           position:relative
 
-          .background-image
-            box-shadow: inset 0 0 0 1000px rgba(0,0,0,0.3)
-                   
           .caption
             top: 50%
             left: 10px

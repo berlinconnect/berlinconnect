@@ -102,15 +102,7 @@ body section .slates .slate .caption h2{font-size:28px;line-height:34px;font-fam
 body section .slates .slate .caption p{font-size:17px;font-style:italic}
 }@media all and (max-width: 800px){body .wrapper{width:100%}
 }@media all and (max-width: 640px){body .wrapper{width:100%}
-body .hero{width:100%;-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;text-align:center;color:#fff;}
-body .hero .wrapper{padding:30px 0 100px;position:relative}
-body .hero h1{font-size:65px;line-height:70px;font-weight:700;text-transform:uppercase;letter-spacing:3px;padding:40px 0 10px}
-body .hero p{font-size:22px;line-height:36px;width:100% !important;padding:0 20px}
-body section .intro h2{font-size:36px;line-height:36px;margin:0 0 10px}
-body section .intro h1{font-size:50px;line-height:50px}
-body section .intro p{font-size:18px;line-height:34px;padding:0 40px}
-body .slates .slate{width:100% !important;padding-bottom:50% !important}
-}@media all and (max-width: 480px){body .hero{-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;background-attachment:scroll;text-align:center;color:#fff;width:100%;}
+body .hero{-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;background-attachment:scroll;text-align:center;color:#fff;width:100%;}
 body .hero .wrapper{padding:30px 0 100px;position:relative}
 body .hero .logo{height:120px;width:120px;-webkit-background-size:120px;-moz-background-size:120px;background-size:120px}
 body .hero h1{font-size:30px;line-height:40px;font-weight:700;text-transform:uppercase;letter-spacing:1px;padding:40px 0 0}
@@ -119,9 +111,13 @@ body section .intro{padding:60px 0;}
 body section .intro h2{font-size:24px;line-height:34px;margin:0}
 body section .intro h1{font-size:28px;line-height:34px}
 body section .intro p{font-size:17px;line-height:30px;padding:0 20px}
-body section .slates .slate{position:relative;}
-body section .slates .slate .background-image{-webkit-box-shadow:inset 0 0 0 1000px rgba(0,0,0,0.3);box-shadow:inset 0 0 0 1000px rgba(0,0,0,0.3)}
-body section .slates .slate .caption{top:50%;left:10px;right:10px;text-align:center;margin-top:-13px;display:table-cell;vertical-align:middle;}
-body section .slates .slate .caption h2{font-size:24px;line-height:30px;font-family:"brandon-grotesque",sans-serif;text-transform:uppercase;font-weight:900;letter-spacing:1px}
-body section .slates .slate .caption p{display:none}
+body .slates .slate{width:100% !important;padding-bottom:50% !important}
+}@media all and (max-width: 480px){body .hero .wrapper{padding:30px 0 100px;position:relative}
+body .hero .logo{height:120px;width:120px;-webkit-background-size:120px;-moz-background-size:120px;background-size:120px}
+body .hero h1{font-size:30px;line-height:40px;font-weight:700;text-transform:uppercase;letter-spacing:1px;padding:40px 0 0}
+body .hero p{font-size:16px;line-height:26px;width:100%;padding:0 20px}
+body .hero .slates .slate{position:relative;}
+body .hero .slates .slate .caption{top:50%;left:10px;right:10px;text-align:center;margin-top:-13px;display:table-cell;vertical-align:middle;}
+body .hero .slates .slate .caption h2{font-size:24px;line-height:30px;font-family:"brandon-grotesque",sans-serif;text-transform:uppercase;font-weight:900;letter-spacing:1px}
+body .hero .slates .slate .caption p{display:none}
 }
