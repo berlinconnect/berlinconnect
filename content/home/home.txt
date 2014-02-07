@@ -24,9 +24,14 @@ GuestSpeakersTitle: Guest Speakers
 GuestSpeakersIntro: Mal Fletcher, Sebastian Schlüter & More...
 ----
 
-YouthTitle: Youth & Children
+YouthTitle: Youth
 ----
 YouthIntro: Preparing the next generation
+----
+
+ChildrenTitle: Children
+----
+ChildrenIntro: Preparing the next generation
 ----
 
 CommunitySubTitle: Connecting to our Midweek

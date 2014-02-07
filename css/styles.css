@@ -29,7 +29,7 @@ h1{font-family:"brandon-grotesque",sans-serif}
 section .intro{padding:100px 0;}
 section .intro h2{font-weight:200;color:#a2a2a2;font-size:46px;line-height:46px;font-style:italic;margin:0 0 20px;padding:0}
 section .intro h1{text-transform:uppercase;font-size:60px;line-height:60px;color:#212121;margin-bottom:20px}
-section .intro p{font-size:22px;line-height:40px;padding:0 120px;color:#414141}
+section .intro p{font-size:22px;line-height:40px;padding:0 140px;color:#414141}
 .slates{font-size:0;width:100%;height:100%;display:block;}
 .slates .slate{position:relative;float:left;cursor:pointer;overflow:hidden;background:#fff;}
 .slates .slate .background-image{position:absolute;width:100%;height:100%;-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;background-position:center center;background-repeat:no-repeat;-webkit-transition:all 300ms ease;-moz-transition:all 300ms ease;-o-transition:all 300ms ease;-ms-transition:all 300ms ease;transition:all 300ms ease;opacity:.8;-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";filter:alpha(opacity=80)}
@@ -42,10 +42,12 @@ section .intro p{font-size:22px;line-height:40px;padding:0 120px;color:#414141}
 .slates .slate.full .caption h2{font-size:70px;width:100%;letter-spacing:3px}
 .slates .slate.full .caption p{font-size:44px}
 .slates .slate.square.big{vertical-align:top;width:50%;height:0;padding-bottom:50%;display:inline-block}
+.slates .slate.square.small{vertical-align:top;width:25%;height:0;padding-bottom:25%;display:inline-block}
 .slates .slate.rectangle{vertical-align:top;width:50%;height:0;padding-bottom:25%;display:inline-block}
 .slates .slate#sunday .background-image{background-image:url("http://distilleryimage5.ak.instagram.com/ebfd48b644a711e39a4622000a9e067e_8.jpg")}
 .slates .slate#guest-speakers .background-image{background-image:url("https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-ash3/t1/1524862_582133021868755_1881762454_n.jpg")}
 .slates .slate#youth .background-image{background-image:url("http://cdn0.stocksy.com/a/bLH000/z0/66687.jpg")}
+.slates .slate#children .background-image{background-image:url("http://cdn0.stocksy.com/a/VAF000/z0/58311.jpg")}
 .slates .slate#dinner-party .background-image{background-image:url("http://cdn2.stocksy.com/a/CAU000/z0/115952.jpg")}
 .slates .slate#sisterhood .background-image{background-image:url("http://cdn1.stocksy.com/a/EuD000/z0/53458.jpg")}
 .slates .slate#kindness .background-image{background-image:url("http://cdn2.stocksy.com/a/844000/z0/15632.jpg")}

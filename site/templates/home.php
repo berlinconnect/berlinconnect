@@ -23,11 +23,18 @@
         <p><?= $page->guestspeakersintro() ?></p>
       </div>
     </div>
-    <div id="youth" class="slate rectangle">
+    <div id="youth" class="slate square small">
       <div class="background-image"></div>
       <div class="caption">
         <h2><?= $page->youthtitle() ?></h2>
         <p><?= $page->youthintro() ?></p>
+      </div>
+    </div>
+    <div id="children" class="slate square small">
+      <div class="background-image"></div>
+      <div class="caption">
+        <h2><?= $page->childrentitle() ?></h2>
+        <p><?= $page->childrenintro() ?></p>
       </div>
     </div>
     <div class="clearfix"></div>
