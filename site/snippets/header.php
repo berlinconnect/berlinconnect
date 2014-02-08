@@ -12,6 +12,8 @@
   <?php echo css('css/styles.css') ?>
   <?php echo css('css/libs/animate.css') ?>
 
+  <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
+
   <!-- Typekit -->
   <script type="text/javascript" src="//use.typekit.net/xkv4ghj.js"></script>
   <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
