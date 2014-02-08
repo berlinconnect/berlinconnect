@@ -1,5 +1,15 @@
-Title: Sunday Celebration
+Id: futureminded
 ----
+Umbrella: Social
+----
+SlateSize: rectangle
+----
+
+Title: Future Minded
+----
+Intro: Focusing on social change and leadership innovation
+----
+
 Text: Connect Berlin began with a small group of people from Hillsong London. The purpose was to establish a connection group in the capital of Germany. Mark was asked to go to Berlin to promote the team that was already there.
 
 Connect Berlin began with a small group of people from Hillsong London. The purpose was to establish a connection group in the capital of Germany. Mark was asked to go to Berlin to promote the team that was already there.

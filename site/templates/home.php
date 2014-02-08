@@ -9,34 +9,15 @@
     </div>
   </div>
   <div class="slates">
-    <div id="sunday" class="slate square big wow fadeIn" data-wow-delay="0.25s">
-      <div class="background-image"></div>
-      <div class="caption">
-        <h2><?= $page->sundaycelebrationtitle() ?></h2>
-        <p><?= $page->sundaycelebrationintro() ?></p>
+    <?php foreach($pages->find('sections')->children()->filterBy('umbrella', 'Sundays', ',') as $section): ?>
+      <div id="<?= $section->id() ?>" class="slate <?= $section->slatesize() ?> wow fadeIn" data-wow-delay="0.25s">
+        <div class="background-image" style="background-image: url(<?= $section->images()->last()->url(); ?>)"></div>
+        <div class="caption">
+          <h2><?= html($section->title()) ?></h2>
+          <p><?= html($section->intro()) ?></p>
+        </div>
       </div>
-    </div>
-    <div id="guest-speakers" class="slate rectangle wow fadeIn" data-wow-delay="0.5s">
-      <div class="background-image"></div>
-      <div class="caption">
-        <h2><?= $page->guestspeakerstitle() ?></h2>
-        <p><?= $page->guestspeakersintro() ?></p>
-      </div>
-    </div>
-    <div id="youth" class="slate square small wow fadeIn" data-wow-delay="0.7s">
-      <div class="background-image"></div>
-      <div class="caption">
-        <h2><?= $page->youthtitle() ?></h2>
-        <p><?= $page->youthintro() ?></p>
-      </div>
-    </div>
-    <div id="children" class="slate square small wow fadeIn" data-wow-delay="1s">
-      <div class="background-image"></div>
-      <div class="caption">
-        <h2><?= $page->childrentitle() ?></h2>
-        <p><?= $page->childrenintro() ?></p>
-      </div>
-    </div>
+    <?php endforeach ?>
     <div class="clearfix"></div>
   </div>
 </section>
@@ -49,20 +30,15 @@
     </div>
   </div>
   <div class="slates">
-    <div id="dinner-party" class="slate rectangle big wow fadeIn" data-wow-delay="0.25s">
-      <div class="background-image"></div>
-      <div class="caption">
-        <h2><?= $page->dinnerpartytitle() ?></h2>
-        <p><?= $page->dinnerpartyintro() ?></p>
+    <?php foreach($pages->find('sections')->children()->filterBy('umbrella','Community') as $section): ?>
+      <div id="<?= $section->id() ?>" class="slate <?= $section->slatesize() ?> wow fadeIn" data-wow-delay="0.25s">
+        <div class="background-image" style="background-image: url(<?= $section->images()->last()->url(); ?>)"></div>
+        <div class="caption">
+          <h2><?= html($section->title()) ?></h2>
+          <p><?= html($section->intro()) ?></p>
+        </div>
       </div>
-    </div>
-    <div id="sisterhood" class="slate rectangle big wow fadeIn" data-wow-delay="0.5s">
-      <div class="background-image"></div>
-      <div class="caption">
-        <h2><?= $page->sisterhoodtitle() ?></h2>
-        <p><?= $page->sisterhoodintro() ?></p>
-      </div>
-    </div>
+    <?php endforeach ?>
     <div class="clearfix"></div>
   </div>
 </section>
@@ -75,20 +51,15 @@
     </div>
   </div>
   <div class="slates">
-    <div id="kindness" class="slate rectangle wow fadeIn" data-wow-delay="0.25s">
-      <div class="background-image"></div>
-      <div class="caption">
-        <h2><?= $page->kindnesstitle() ?></h2>
-        <p><?= $page->kindnessintro() ?></p>
+    <?php foreach($pages->find('sections')->children()->filterBy('umbrella','Social') as $section): ?>
+      <div id="<?= $section->id() ?>" class="slate <?= $section->slatesize() ?> wow fadeIn" data-wow-delay="0.25s">
+        <div class="background-image" style="background-image: url(<?= $section->images()->last()->url(); ?>)"></div>
+        <div class="caption">
+          <h2><?= html($section->title()) ?></h2>
+          <p><?= html($section->intro()) ?></p>
+        </div>
       </div>
-    </div>
-    <div id="futureminded" class="slate rectangle wow fadeIn" data-wow-delay="0.5s">
-      <div class="background-image"></div>
-      <div class="caption">
-        <h2><?= $page->futuremindedtitle() ?></h2>
-        <p><?= $page->futuremindedintro() ?></p>
-      </div>
-    </div>
+    <?php endforeach ?>
     <div class="clearfix"></div>
   </slates>
 </section>
