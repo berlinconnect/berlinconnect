@@ -65,3 +65,14 @@ FutureMindedTitle: Future Minded
 ----
 FutureMindedIntro: Die Konzentration auf den sozialen Wandel und Führung Innovation
 ----
+
+GivingSubTitle: Wohnen Gottes Weg
+----
+GivingTitle: Verabreichung
+----
+GivingCopy: Wenn Sie möchten, unterstützen und finanziell an der Arbeit des 'Berlin Connect' verwenden Sie bitte folgende Kontodaten. Wenn Sie eine Quittung benötigen, geben Sie bitte Ihre Postadresse in der Referenz Ihrer Transaktion. Wenn Sie Online-geben wollen, nutzen Sie bitte den PayPal-Knopf klicken. Danke für die Hilfe bauen das Haus Gottes hier in Berlin.
+----
+LearnMoreButton: Erfahren Sie mehr
+----
+GivingButton: Jetzt geben
+----

@@ -1,6 +1,7 @@
 section
   .intro
     padding: 100px 0
+    position: relative
     
     h2
       font-weight: 200
@@ -23,6 +24,32 @@ section
       line-height: @font-size + 18px
       padding: 0 140px
       color: $mid
+      
+    .button
+      display: inline-block
+      margin: 40px 10px 10px
+
+    small
+      display: block
+      color: $light
+      font-style: italic
+    
+    &#home
+      margin-top: 0
+       
+      &:before
+        display: none
+        content:''
+        position: absolute
+        width: 436px
+        height: 465px
+        background: url('../img/tower.png') no-repeat center center
+        background-size: 70%
+        top: -200px
+        left: 50%
+        margin-left: -218px
+        opacity: 0.4
+      
       
 .slates
   font-size: 0

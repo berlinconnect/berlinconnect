@@ -65,3 +65,14 @@ FutureMindedTitle: Future Minded
 ----
 FutureMindedIntro: Focusing on social change and leadership innovation
 ----
+
+GivingSubTitle: Living God's Way
+----
+GivingTitle: Giving
+----
+GivingCopy: If you would like to support & contribute financially to the work of ‘Berlin Connect’ please use the following account details. If you require a receipt, please provide your postal address in the reference of your transaction. If you want to give online, please use the PayPal-Button below. Thank you for helping build God’s house here in Berlin.
+----
+LearnMoreButton: Learn More
+----
+GivingButton: Give Now
+----

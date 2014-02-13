@@ -24,4 +24,14 @@ $(function(){
   $('.lightbox').click(function() {
     $(this).addClass('hidden');
   });
+
+});
+
+$(document).ready(function() {
+
+  $(window).on("scroll", function() {
+      var fromTop = $(window).scrollTop();
+      console.log(fromTop);
+      $(".menu").toggleClass("down", (fromTop > 820));
+  });
 });

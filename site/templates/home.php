@@ -1,8 +1,10 @@
 <?php snippet('header') ?>
+<?php snippet('menu') ?>
+<div class="content">
 <?php snippet('hero') ?>
 <section class="sundays">
   <div class="wrapper">
-    <div class="intro center wow fadeInUp" data-wow-delay="0.25s">
+    <div id="home" class="intro center wow fadeInUp" data-wow-delay="0.25s">
       <h2><?= $page->sundaysubtitle() ?></h2>
       <h1><?= $page->sundaytitle() ?></h1>
       <p><?= $page->sundaycopy() ?></p>
@@ -62,6 +64,18 @@
     <?php endforeach ?>
     <div class="clearfix"></div>
   </slates>
+</section>
+<section class="giving">
+  <div class="wrapper">
+    <div class="intro center wow fadeInUp" data-wow-delay="0.25s">
+      <h2><?= $page->givingsubtitle() ?></h2>
+      <h1><?= $page->givingtitle() ?></h1>
+      <p><?= $page->givingcopy() ?></p>
+      <a class="button"><?= $page->learnmorebutton() ?></a>
+      <a class="button giving"><?= $page->givingbutton() ?></a>
+      <small>All online payments are taken via <a href="">PayPal</a></small>
+    </div>
+  </div>
 </section>
 <?php snippet('lightbox') ?>
 <?php snippet('footer') ?>
