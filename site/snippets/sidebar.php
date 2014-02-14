@@ -1,6 +1,6 @@
 <div class="sidebar">
   <ul class="sidebar-container">
-    <li class="lvl-1"><a href="#">Home</a><span class="entypo close"></span></li>
+    <li class="lvl-1"><a href="<?php echo thisURL() ?>">Home</a><span class="entypo close"></span></li>
     <li class="lvl-1"><a href="#">About</a></li>
     <?php foreach($pages->find('sections')->children() as $section): ?>
     <li id="<?= $section->id() ?>" class="lvl-1">
@@ -18,4 +18,6 @@
   <div class="social-links">
     <span class="entypo-social facebook"></span><span class="entypo-social twitter"></span><span class="entypo-social instagram"></span>
   </div>
+
+  <div class="logo-outline"></div>
 </div>

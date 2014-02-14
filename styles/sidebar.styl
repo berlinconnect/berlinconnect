@@ -2,7 +2,8 @@
 body.active
     
   .sidebar
-    transform: translateX(0)
+    transform: translateX(0) scale(1)
+    
     
     .social-links
       opacity: 1
@@ -10,6 +11,9 @@ body.active
     .sidebar-container     
       li
         opacity: 1
+        
+    .logo-outline
+      opacity: 0.4
         
     
   .content
@@ -23,7 +27,7 @@ body.active
   background-color: $dark
   right: 0
   top: 0
-  transform: translateX(260px)
+  transform: translateX(260px) scale(0.98)
   transition: all 600ms 20ms $easing
   overflow: scroll
       
@@ -80,6 +84,14 @@ body.active
       
       &:hover
         opacity: 1
-      
-    
+  
+  .logo-outline
+    background-image: url('../img/logo-outline.svg')
+    background-position: center center
+    background-repeat: no-repeat
+    height: 60px
+    width: @height
+    background-size: @height
+    margin-left: 20px
+    opacity: 0   
 
