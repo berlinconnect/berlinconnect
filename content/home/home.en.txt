@@ -11,59 +11,23 @@ SundaySubTitle: A little about...
 ----
 SundayTitle: Berlin Connect
 ----
-SundayCopy: Berlin Connect started with a small group of people from Hillsong London. The purpose was to establish a connect group in the capital city of Germany. Mark was asked to go to Berlin to encourage the team that was already there.
+SundayCopy: Berlin Connect is a local church in the heart of our city. We believe that in our Church people from all walks of life and of all ages can feel at home. In the atmosphere of God´s love they can flourish, find friends and make a difference in society.
+
+We want to create an atmosphere where you can form a living relationship with God and with people around you so that your life can enhance while you are experiencing your God-given potential in Christ Jesus.
 ----
 
-SundayCelebrationTitle: Sunday Celebrations
-----
-SundayCelebrationIntro: Sundays are Jesus focused & people empowering
-----
-
-GuestSpeakersTitle: Guest Speakers
-----
-GuestSpeakersIntro: Mal Fletcher, Sebastian Schlüter & More...
-----
-
-YouthTitle: Youth
-----
-YouthIntro: Preparing the next generation
-----
-
-ChildrenTitle: Kids
-----
-ChildrenIntro: Preparing the next generation
-----
-
-CommunitySubTitle: Connecting to our Midweek
+CommunitySubTitle: Connecting our Sundays to our Midweek
 ----
 CommunityTitle: Community
 ----
-CommunityCopy: As the church gets bigger it also has to get smaller. These informal get-togethers happen in homes, cafes and bars across Berlin.
+CommunityCopy: Friendships & family are important to us all! During the week we get together in homes, cafés and bars across Berlin.
 ----
 
-DinnerPartyTitle: Dinner Parties
-----
-DinnerPartyIntro: Take your place at the table
-----
-
-SisterhoodTitle: Sisterhood
-----
-SisterhoodIntro: Placing value on women so we can place value on humanity
-----
-
-SocialSubTitle: Representing Christ in our daily lives
+SocialSubTitle: Shining brightly in society
 ----
 SocialTitle: Social Enterprise
 ----
-SocialCopy: Our desire is for everyone who calls Berlin Connect home to be involved in expressing social kindness within our communities and society. The Gospel empowers us to love our neighbour who is anyone and everyone in society.
-----
-KindnessTitle: Social Kindness
-----
-KindnessIntro: Expressing social kindness within our communities and society
-----
-FutureMindedTitle: Future Minded
-----
-FutureMindedIntro: Focusing on social change and leadership innovation
+SocialCopy: Out of an overflow we want to serve our city through restoring value, giving and equipping leaders in business and civic areas.
 ----
 
 GivingSubTitle: Living God's Way

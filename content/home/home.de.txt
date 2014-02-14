@@ -14,41 +14,11 @@ SundayTitle: Berlin Connect
 SundayCopy: Berlin Connect begann mit einer kleinen Gruppe von Menschen aus Hillsong London. Der Zweck war, eine Verbindungsgruppe in der Hauptstadt von Deutschland zu etablieren. Mark wurde gebeten, nach Berlin zu gehen, um das Team, die schon da war, zu fördern.
 ----
 
-SundayCelebrationTitle: Sonntag Feiern
-----
-SundayCelebrationIntro: Sonntage sind Jesus und fokussierten Menschen befähigen
-----
-
-GuestSpeakersTitle: Gastredner
-----
-GuestSpeakersIntro: Mal Fletcher, Sebastian Schlüter & More...
-----
-
-YouthTitle: Jugend
-----
-YouthIntro: Vorbereitung der neuen Generation
-----
-
-ChildrenTitle: Kinder
-----
-ChildrenIntro: Vorbereitung der neuen Generation
-----
-
 CommunitySubTitle: Anschluss an unsere Midweek
 ----
 CommunityTitle: Gemeinde
 ----
 CommunityCopy: Als die Kirche immer größer es hat auch kleiner werden. Diese informellen Beisammensein passieren zu Hause, in Cafés und Bars in ganz Berlin.
-----
-
-DinnerPartyTitle: Tischgesellschaft
-----
-DinnerPartyIntro: Nehmen Sie Ihren Platz am Tisch
-----
-
-SisterhoodTitle: Sisterhood
-----
-SisterhoodIntro: Platzieren Wert auf Frauen, so dass wir Wert auf Menschlichkeit legen
 ----
 
 SocialSubTitle: Stellvertretend für Christus in unserem täglichen Leben
@@ -57,14 +27,7 @@ SocialTitle: Social Enterprise
 ----
 SocialCopy: Unser Wunsch ist für alle, die Berlin Connect ruft die Heimat in sozialen Güte in unseren Gemeinden und der Gesellschaft zum Ausdruck einbezogen werden. Das Evangelium gibt uns zu unserem Nachbarn, der alle und jeden in der Gesellschaft ist zu lieben.
 ----
-KindnessTitle: Social Kindness
-----
-KindnessIntro: Ausdruck sozialer Güte in unseren Gemeinden und Gesellschaft
-----
-FutureMindedTitle: Future Minded
-----
-FutureMindedIntro: Die Konzentration auf den sozialen Wandel und Führung Innovation
-----
+
 
 GivingSubTitle: Wohnen Gottes Weg
 ----

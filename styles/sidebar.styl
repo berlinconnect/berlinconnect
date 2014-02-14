@@ -1,0 +1,85 @@
+
+body.active
+    
+  .sidebar
+    transform: translateX(0)
+    
+    .social-links
+      opacity: 1
+      
+    .sidebar-container     
+      li
+        opacity: 1
+        
+    
+  .content
+  .menu
+    transform: translate3d(-260px, 0, 0)
+    
+.sidebar
+  position: fixed
+  width: 260px
+  height: 100%
+  background-color: $dark
+  right: 0
+  top: 0
+  transform: translateX(260px)
+  transition: all 600ms 20ms $easing
+  overflow: scroll
+      
+  .entypo
+    &.close
+      font-size: 40px !important
+      position: fixed
+      color: white
+      z-index: 10
+      right: 20px
+      top: 25px
+      transition: all 300ms ease
+      opacity: 0.5
+      
+      &:hover
+        opacity: 1
+  
+  .sidebar-container
+    font-family: $heading
+    color: $white
+    font-size: 15px
+    padding: 30px 25px 0
+    text-transform: uppercase
+    font-weight: 700
+    letter-spacing: 1px
+    
+    li
+      margin-top: 6px
+      cursor: pointer
+      transition: all 300ms ease
+      display: block
+      opacity: 0
+      
+      a
+        color: $white
+        opacity: 0.5
+        text-decoration: none
+        
+        &:hover
+          opacity: 1.0
+          
+  .social-links
+    color: white
+    font-size: 50px
+    margin: 20px
+    opacity: 0
+    transition: all 300ms ease
+    
+    span
+      margin-right: 10px
+      opacity: 0.5
+      cursor: pointer
+      transition: all 300ms ease
+      
+      &:hover
+        opacity: 1
+      
+    
+

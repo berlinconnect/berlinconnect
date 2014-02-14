@@ -1,3 +1,10 @@
+.content
+  background: $white
+  position: relative
+  transition: all 600ms $easing
+  left: 0
+  top: 0
+  
 section
   .intro
     padding: 100px 0
@@ -21,13 +28,14 @@ section
       
     p
       font-size: 22px
-      line-height: @font-size + 18px
-      padding: 0 140px
+      line-height: @font-size + 16px
+      padding: 0 120px
       color: $mid
+      margin-bottom: 20px
       
     .button
       display: inline-block
-      margin: 40px 10px 10px
+      margin: 10px 10px 10px
 
     small
       display: block
@@ -50,6 +58,9 @@ section
         margin-left: -218px
         opacity: 0.4
       
+    &#giving
+      p
+        margin-bottom: 40px
       
 .slates
   font-size: 0

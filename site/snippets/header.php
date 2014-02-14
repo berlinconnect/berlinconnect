@@ -24,4 +24,4 @@
   
 </head>
 
-<body class="<?=$site->uri()->path()->first();?>">
+<body class="<?=$page->title()?>">

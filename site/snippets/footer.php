@@ -26,9 +26,6 @@
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
   <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.8.3.min.js"><\/script>')</script>
 
-  <script src="http://fsasso.com/labs/blur/js/StackBlur.js" type="text/javascript"></script>
-  <script src="http://fsasso.com/labs/blur/js/html2canvas.js" type="text/javascript"></script>
-
   <?php echo js('js/plugins/wow.js') ?>
   <?php echo js('js/plugins/mobile.js') ?>
   <?php echo js('js/main.js') ?>

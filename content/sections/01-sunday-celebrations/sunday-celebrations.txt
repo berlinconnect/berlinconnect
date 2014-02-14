@@ -2,19 +2,15 @@ Id: sunday
 ----
 Umbrella: Sundays
 ----
-SlateSize: square big
+SlateSize: rectangle
 ----
 
-Title: Sunday Celebrations
+Title: Sunday Experience
 ----
-Intro: Sundays are Jesus focused & people empowering
+Intro: Sundays are Jesus focused and people empowering.
 ----
 
-Text: Connect Berlin began with a small group of people from Hillsong London. The purpose was to establish a connection group in the capital of Germany. Mark was asked to go to Berlin to promote the team that was already there.
+Text: Sundays are Jesus focused and people empowering. Our desire is that Sundays will be a place where God´s sons and daughters can be encouraged and empowered to live from their New Identity found in Christ, as well as a place where lost sons and daughters can come as they are, see and experience the Father´s love. 
 
-Connect Berlin began with a small group of people from Hillsong London. The purpose was to establish a connection group in the capital of Germany. Mark was asked to go to Berlin to promote the team that was already there.
-
-Connect Berlin began with a small group of people from Hillsong London. The purpose was to establish a connection group in the capital of Germany. Mark was asked to go to Berlin to promote the team that was already there.
-
-Connect Berlin began with a small group of people from Hillsong London. The purpose was to establish a connection group in the capital of Germany. Mark was asked to go to Berlin to promote the team that was already there.
+We have four services at **10.30am**, **12.30am**, **4pm** and **6pm** every Sunday. Our Sunday Experiences include live music, kids & youth activities for ages 1-18 yrs & translation for German and Spanish speakers. For more information contact Conny.
 ----
