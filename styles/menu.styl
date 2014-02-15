@@ -7,6 +7,9 @@
 
   100%
     opacity: 1
+.home
+  .menu
+    animation: fade 5000ms ease
     
 .menu
   width: 100%
@@ -14,27 +17,40 @@
   z-index: 2
   left: 0
   top: 0
-  padding: 20px 0
+  padding: 40px 0
   font-family: $heading
   text-transform: uppercase
   transition: transform 600ms $easing
-  animation: fade 3000ms ease
+  animation: fade 500ms ease
+  color: $white
 
   &.down
     transform: translateY(0)
   
   .typelogo
-    width: 250px
-    margin-top: 8px
+    font-family: $berlin-connect
+    font-size: 36px
+    font-weight: 400
+    -webkit-font-kerning: normal;
+    letter-spacing: -1px
+    
+    
+  .logo
+    background: url('../img/logo.png');
+    background-image: url('../img/logo.svg'), none;
+    background-position: center center
+    background-repeat: no-repeat
+    height: 40px
+    width: @height
+    background-size: @height
   
   .sidebar-control
     float: right
     font-weight: 600
     posiiton: relative
     font-size: 20px
-    padding-top: 6px
+    margin-top: -5px
     cursor: pointer
-    color: $white
     
     &:after
       content: '☰'

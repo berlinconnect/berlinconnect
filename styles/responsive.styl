@@ -24,19 +24,19 @@
         line-height: 36px
         padding: 0 20px
     
-    section
-      .intro
-        h2
-          font-size: 40px
-          line-height: @font-size + 10
-          margin: 0 0 10px
-        h1
-          font-size: 54px
-          line-height: @font-size
-          
-        p
-          font-size: 20px
-          padding: 0 60px
+    section .intro
+    .wrapper.page
+      h2
+        font-size: 40px
+        line-height: @font-size + 10
+        margin: 0 0 10px
+      h1
+        font-size: 54px
+        line-height: @font-size
+        
+      p
+        font-size: 20px
+        padding: 0 60px
           
       .slates
         .slate          
@@ -79,6 +79,14 @@
 @media $media-mobile
   
   body
+    .sidebar
+      .entypo
+        &.close
+          top: 0
+          
+      .sidebar-container
+        padding-top: 20px
+
     a.button
       position: relative
       padding: 18px 0 17px
@@ -88,8 +96,8 @@
       padding: 13px 0
   
       .typelogo
-        height: 30px
-        width: 200px
+        padding-top: 3px
+        font-size: 28px
         
       .sidebar
         padding-top: 2px
@@ -101,7 +109,7 @@
       background-attachment: scroll
       
       .wrapper
-        padding: 30px 0 100px
+        padding: 100px 0 150px
         position: relative
         
       .logo
@@ -115,34 +123,34 @@
         font-weight: 700
         text-transform: uppercase
         letter-spacing: 1px
-        padding: 40px 0 0
+        padding: 100px 0 0
         
       p
         font-size: 16px
         line-height: 26px
         width: 100%
         padding: 0 20px
+    
+    section .intro
+    .wrapper.page
+      padding: 40px 0
       
-    section
-      .intro
-        padding: 60px 0
+      h2
+        font-size: 24px
+        line-height: @font-size + 10px
+        margin: 0
+      h1
+        font-size: 28px
+        line-height: @font-size + 6px
         
-        h2
-          font-size: 24px
-          line-height: @font-size + 10px
-          margin: 0
-        h1
-          font-size: 28px
-          line-height: @font-size + 6px
-          
-        p
-          font-size: 17px
-          line-height:30px
-          padding: 0 20px
-          
-        .button 
-          margin-left: 0
-          margin-right: 0
+      p
+        font-size: 17px
+        line-height:30px
+        padding: 0 20px
+        
+      .button 
+        margin-left: 0
+        margin-right: 0
       
     .slates
       .slate

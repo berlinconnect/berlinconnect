@@ -9,11 +9,11 @@
       </a>
     </li>
     <?php endforeach ?>
-    <li class="lvl-1"><a href="#">Giving</a></li>
-    <li class="lvl-2"><a href="#">Contact</a></li>
-    <li class="lvl-2"><a href="#">FAQ</a></li>
-    <li class="lvl-2"><a href="#">Resources</a></li>
-    <li class="lvl-2"><a href="#">Imprint</a></li>
+    <li class="lvl-1"><a href="<?php echo url('giving') ?>">Giving</a></li>
+    <li class="lvl-2"><a href="<?php echo url('contact') ?>">Contact</a></li>
+    <li class="lvl-2"><a href="<?php echo url('faq') ?>">FAQ</a></li>
+    <li class="lvl-2"><a href="<?php echo url('resources') ?>">Resources</a></li>
+    <li class="lvl-2"><a href="<?php echo url('imprint') ?>">Imprint</a></li>
   </ul>  
   <div class="social-links">
     <span class="entypo-social facebook"></span><span class="entypo-social twitter"></span><span class="entypo-social instagram"></span>

@@ -1,6 +1,8 @@
 <header class="menu">
   <div class="wrapper">
     <div class="sidebar-control">Menu</div>
-    <img class="typelogo" src="/img/typelogo.svg" alt="Kiwi standing on oval">
+    <!-- <div class="logo"></div> -->
+    <!-- <img class="typelogo" src="/img/typelogo.png"> -->
+    <h1 class="typelogo">Berlin Connect</h1>
   </div>
 </header>

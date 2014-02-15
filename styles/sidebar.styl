@@ -1,9 +1,15 @@
 
 body.active
+  
+  .sidebar-container
+    transform: scale(1)
     
   .sidebar
-    transform: translateX(0) scale(1)
+    transform: translateX(0)
     
+    &:before
+      transform: scale(0.98)
+      opacity: 0
     
     .social-links
       opacity: 1
@@ -15,7 +21,6 @@ body.active
     .logo-outline
       opacity: 0.4
         
-    
   .content
   .menu
     transform: translate3d(-260px, 0, 0)
@@ -24,13 +29,27 @@ body.active
   position: fixed
   width: 260px
   height: 100%
-  background-color: $dark
+  background: $dark
   right: 0
   top: 0
-  transform: translateX(260px) scale(0.98)
-  transition: all 600ms 20ms $easing
   overflow: scroll
-      
+  transform: translateX(260px)
+  transition: all 600ms $easing
+  
+  &:before
+    content: ''
+    position: absolute
+    height:100%
+    width: 100%
+    background-image: url('../content/sections/01-sunday-celebrations/background.jpg')
+    background-size: 600%
+    background-repeat: none
+    background-position:  bottom center
+    -webkit-filter:blur(13px)
+    opacity: 0
+    transform: scale(0.99)
+    transition: all 600ms $easing
+
   .entypo
     &.close
       font-size: 40px !important
@@ -53,6 +72,8 @@ body.active
     text-transform: uppercase
     font-weight: 700
     letter-spacing: 1px
+    transition: all 600ms $easing
+    transform: scale(0.98)
     
     li
       margin-top: 6px
