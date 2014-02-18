@@ -78,6 +78,7 @@ a
   clear:both
 
 // BUTTONS
+
 a.button
   position: relative
   color: $light
@@ -112,3 +113,38 @@ a.button
     left: 20px
     top: 12px
     position: absolute
+
+// TABLES
+
+$border = 1px solid #e1e1e1
+
+table
+  border: $border
+  border-collapse: collapse
+  vertical-align: top
+  font-size: 14px
+  line-height: @font-size + 8px
+  color: $mid
+  box-shadow: 0 2px 3px rgba(black, 0.06)
+  
+  thead
+    display: none
+    
+  tbody  
+    tr
+      padding: 0
+      vertical-align: top
+      
+      &:nth-child(even)
+        background: #f9f9f9
+        
+        td
+          &:first-child
+            border-right: $border
+            font-weight: 600
+      td
+        padding: 10px
+        
+        &:first-child
+          border-right: $border
+          font-weight: 600

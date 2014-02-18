@@ -135,7 +135,7 @@ embedded flash videos from youtube or vimeo
 
 */
 
-c::set('kirbytext.video.width', 480); 
+c::set('kirbytext.video.width', 600); 
 c::set('kirbytext.video.height', 358); 
 
 
@@ -158,7 +158,7 @@ or markdown extra: http://michelf.com/projects/php-markdown/extra/
 
 c::set('markdown', true);
 c::set('markdown.breaks', true);
-c::set('markdown.extra', false);
+c::set('markdown.extra', true);
 
 
 /* 

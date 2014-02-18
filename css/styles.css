@@ -17,6 +17,13 @@ a.button:hover{color:#212121;border:2px solid #212121}
 a.button.giving{color:#fff;background-color:#414141;border-color:#414141;}
 a.button.giving:hover{background-color:#212121;border-color:#212121}
 a.button span{font-size:44px;line-height:30px;left:20px;top:12px;position:absolute}
+table{border:1px solid #e1e1e1;border-collapse:collapse;vertical-align:top;font-size:14px;line-height:22px;color:#414141;-webkit-box-shadow:0 2px 3px rgba(0,0,0,0.06);box-shadow:0 2px 3px rgba(0,0,0,0.06);}
+table thead{display:none}
+table tbody tr{padding:0;vertical-align:top;}
+table tbody tr:nth-child(even){background:#f9f9f9;}
+table tbody tr:nth-child(even) td:first-child{border-right:1px solid #e1e1e1;font-weight:600}
+table tbody tr td{padding:10px;}
+table tbody tr td:first-child{border-right:1px solid #e1e1e1;font-weight:600}
 .footer{padding:30px 0;border-top:2px solid #a2a2a2;display:none;}
 .footer ul{font-size:0;display:inline-block;width:33%;vertical-align:top;}
 .footer ul li{font-size:16px;margin-bottom:10px;}
@@ -169,6 +176,8 @@ section .intro{padding:100px 0;position:relative;}
 section .intro h2{font-weight:200;color:#a2a2a2;font-size:46px;line-height:56px;font-style:italic;margin:0 0 10px;padding:0}
 section .intro h1{text-transform:uppercase;font-size:60px;line-height:60px;color:#212121;margin-bottom:20px}
 section .intro p{font-size:22px;line-height:38px;padding:0 120px;color:#414141;margin-bottom:20px}
+section .intro .video-container{margin-top:40px;}
+section .intro .video-container iframe{width:600px;-webkit-border-radius:6px;border-radius:6px;overflow:hidden}
 section .intro .button{display:inline-block;margin:10px 10px 10px}
 section .intro small{display:block;color:#a2a2a2;font-style:italic}
 section .intro#home{margin-top:0;}
@@ -225,12 +234,14 @@ body section .intro,body .wrapper.page{padding:40px 0;}
 body section .intro h2,body .wrapper.page h2{font-size:24px;line-height:34px;margin:0}
 body section .intro h1,body .wrapper.page h1{font-size:28px;line-height:34px}
 body section .intro p,body .wrapper.page p{font-size:17px;line-height:30px;padding:0 20px}
+body section .intro .video-container iframe,body .wrapper.page .video-container iframe{width:400px;height:250px}
 body section .intro .button,body .wrapper.page .button{margin-left:0;margin-right:0}
 body .slates .slate{width:100% !important;padding-bottom:50% !important}
 }@media all and (max-width: 480px){body .hero .wrapper{padding:30px 0 100px;position:relative}
 body .hero .logo{height:120px;width:120px;-webkit-background-size:120px;-moz-background-size:120px;background-size:120px}
 body .hero h1{font-size:30px;line-height:40px;font-weight:700;text-transform:uppercase;letter-spacing:1px;padding:40px 0 0}
 body .hero p{font-size:16px;line-height:26px;width:100%;padding:0 20px}
+body section .intro .video-container iframe,body .wrapper.page .video-container iframe{width:300px;height:150px}
 body section .slates .slate .caption{top:50%;left:10px;right:10px;text-align:center;margin-top:-13px;display:table-cell;vertical-align:middle;}
 body section .slates .slate .caption h2{font-size:24px;line-height:30px;font-family:"brandon-grotesque",sans-serif;text-transform:uppercase;font-weight:900;letter-spacing:1px}
 body section .slates .slate .caption p{display:none}
