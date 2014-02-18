@@ -66,15 +66,12 @@
       <div class="clearfix"></div>
     </slates>
   </section>
-  <section class="giving">
+  <section class="comejoinus">
     <div class="wrapper">
-      <div id="giving" class="intro center wow fadeInUp" data-wow-delay="0.25s">
-        <h2><?= $page->givingsubtitle() ?></h2>
-        <h1><?= $page->givingtitle() ?></h1>
-        <p><?= kirbytext($page->givingcopy()) ?></p>
-        <a class="button"><?= $page->learnmorebutton() ?></a>
-        <a class="button giving"><?= $page->givingbutton() ?></a>
-        <small>All online payments are taken via <a href="">PayPal</a></small>
+      <div class="intro center wow fadeInUp" data-wow-delay="0.25s">
+        <h2><?= $page->joinussubtitle() ?></h2>
+        <h1><?= $page->joinustitle() ?></h1>
+        <p><?= kirbytext($page->joinuscopy()) ?></p>
       </div>
     </div>
   </section>
