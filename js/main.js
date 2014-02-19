@@ -22,8 +22,19 @@ $(function(){
     $('div.'+elementClassName).removeClass('hidden');
   });
 
-  $('.lightbox').click(function() {
-    $(this).addClass('hidden');
+  // setTimeout(function() {
+  //   if (location.hash) {
+  //     window.scrollTo(0, 0);
+  //   }
+  // }, 1);
+
+  // $(".slate").click(function(e) {
+  //     window.location.hash = $(this).attr("id");
+  //     e.preventDefault();
+  // });
+
+  $('.lightbox .close').click(function() {
+    $('.lightbox').addClass('hidden');
   });
 
   $('.sidebar-control').click(function() {
