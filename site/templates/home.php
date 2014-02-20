@@ -9,6 +9,10 @@
         <h2><?= $page->sundaysubtitle() ?></h2>
         <h1><?= $page->sundaytitle() ?></h1>
         <p><?= kirbytext($page->sundaycopy()) ?></p>
+        <div class="welcome-home">
+          <span class="entypo play"></span>
+          <p>Watch Video</a>
+        </div>
       </div>
     </div>
     <div class="slates">

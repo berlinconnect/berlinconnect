@@ -1,17 +1,69 @@
 .footer
-  padding: 30px 0
-  border-top: 2px solid $light
-  display: none
+  padding: 50px 0
+  background: $dark
   
-  ul
-    font-size: 0
+  .white-logo
+    width: 120px
+    height: @width
     display: inline-block
-    width: 33%
-    vertical-align: top
+    background: url('../img/logo.png');
+    background-image: url('../img/logo-outline.svg'), none;
+    background-position: center center
+    background-repeat: no-repeat
+    background-size: @height
+    vertical-align: middle
+    opacity: 0.2
+  
+  .nav-links
+    float: right
+    display: inline-block
+    width: 652px
     
-    li
+    ul
+      font-family: $heading
+      font-size: 0
+      display: inline-block
+      max-width: 30%
+      vertical-align: top
+      color: white
+      text-transform: uppercase
       font-size: 16px
-      margin-bottom: 10px
+      font-weight: 800
+      letter-spacing: 1px
+      margin-left: 100px
       
-      &.heading
-        font-weight: 600
+      &.first
+        margin-left: 0px
+      
+      li
+        font-size: 14px
+        margin-bottom: 5px
+        color: $light
+        transition: color all ease
+        cursor: pointer
+        
+        &:hover
+          color: white
+        a
+          color: $light
+          text-decoration: none
+          
+          &:hover
+            color: white
+          
+  .copyrights
+    color: $light
+    border-top: 1px solid rgba(white,0.1)
+    padding: 30px 0 0
+    margin-top: 30px
+    
+    .social-links
+      float:right
+      display: inline-block
+      font-size: 45px
+      margin-top: -25px
+      
+      a
+        color: $light
+        margin-left: 10px
+        text-decoration: none

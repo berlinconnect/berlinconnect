@@ -15,7 +15,7 @@ else {
 }
 
 $(function(){
-  $('.slate, .sidebar-container li').click(function() {
+  $('.slate, .sidebar-container li, .nav-links ul li').click(function() {
     // get class name of the element
     var elementClassName = $(this).attr('id');
     //find the divs with this class name and show them
