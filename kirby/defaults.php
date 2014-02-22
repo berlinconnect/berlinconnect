@@ -19,7 +19,10 @@ c::set('root.cache',     c::get('root.site') . '/cache');
 c::set('root.parsers',   c::get('root.kirby') . '/parsers');
 
 // define the default site url
-c::set('scheme', (server::get('https')) ? 'https://' : 'http://');
+// our fpm config is port 9000 in nginx, this will force https for the deployed app only
+$isProduction = strpos($_SERVER['SERVER_NAME'], 'www.wunderlist.com') !== FALSE;
+$isStaging = strpos($_SERVER['SERVER_NAME'], 'staging.wunderlist.com') !== FALSE;
+c::set('scheme', (server::get('https')) || $isStaging || $isProduction ? 'https://' : 'http://');
 c::set('url', c::get('scheme') . server::get('http_host'));
 
 // rewrite url setup

@@ -376,7 +376,7 @@ class kirbytext {
     if(empty($id)) return false;
     
     // build the embed url for the iframe    
-    $url = 'http://www.youtube.com/embed/' . $id;
+    $url = 'https://www.youtube.com/embed/' . $id;
     
     // default width and height if no custom values are set
     if(empty($params['width']))  $params['width']  = c::get('kirbytext.video.width');
@@ -402,7 +402,7 @@ class kirbytext {
     if(empty($id)) return false;    
 
     // build the embed url for the iframe    
-    $url = 'http://player.vimeo.com/video/' . $id;
+    $url = 'https://player.vimeo.com/video/' . $id;
 
     // default width and height if no custom values are set
     if(empty($params['width']))  $params['width']  = c::get('kirbytext.video.width');

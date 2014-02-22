@@ -117,7 +117,7 @@ class site extends obj {
         $path  = $this->uri->path->toArray();
         $obj   = $pages;
         $found = false;
-    
+
         foreach($path as $p) {    
           
           // first try to find the page by uid
@@ -200,7 +200,7 @@ class site extends obj {
             
     if(empty($cacheData)) {
       // load the main template
-      $html = tpl::load($page->template(), array(), true);
+      $html = tpl::load($page->template(), false, true);
       if($this->htmlCacheEnabled) cache::set($cacheID, (string)$html, true);
     } else {
       $html = $cacheData;
@@ -421,7 +421,7 @@ class site extends obj {
 
     // get the raw uri
     $uri = uri::raw();
-       
+
     // get the current language code      
     $code = a::first(explode('/', $uri));
 
@@ -449,9 +449,28 @@ class site extends obj {
     // http://yourdomain.com/error
     // will redirect to http://yourdomain.com/en/error
     if($code == c::get('404')) go(url('error', c::get('lang.default')));
-            
+
     // validate the code and switch back to the homepage if it is invalid
-    if(!in_array($code, c::get('lang.available'))) go(url());
+    if(!in_array($code, c::get('lang.available'))) {
+
+      if(c::get('lang.detect')) {      
+        // detect the current language
+        $detected = str::split(server::get('http_accept_language'), '-');
+        $detected = str::trim(a::first($detected));
+        $detected = (!in_array($detected, $available)) ? c::get('lang.default') : $detected;
+
+        // set the detected code as current code          
+        $code = $detected;
+
+      } else {
+        $code = c::get('lang.default');
+      }
+
+      // TODO: this is a hack, fix fix fix!
+      if (strpos($uri, 'blog') !== 0) {
+        go(url($code . '/' . $uri));
+      }
+    }
 
     // set the current language
     c::set('lang.current', $code);

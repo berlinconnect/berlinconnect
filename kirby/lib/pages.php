@@ -186,10 +186,20 @@ class page extends obj {
       }
                 
       $uri = $uri;
+
       return u($uri, $lang);      
                     
     } else {
-      return u(($this->translatedURI != '') ? $this->translatedURI : $this->uri);
+      $uri = u(($this->translatedURI != '') ? $this->translatedURI : $this->uri);
+
+      // HACKETYHACK!!!
+      if (strpos($uri, 'blog') > 0) {
+
+        $lang = "/".c::get('lang.current');
+        $uri = str_replace($lang, "", $uri);
+      }
+      
+      return $uri;
     }
   }
 
