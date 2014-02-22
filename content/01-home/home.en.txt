@@ -1,0 +1,39 @@
+Title: Home
+----
+
+HeroTitle: Welcome Home
+----
+
+HeroCopy: A new local church in the heart of Berlin changing people's perceptions about Jesus and His Church.
+----
+
+SundaySubTitle: A little about...
+----
+SundayTitle: Berlin Connect
+----
+SundayCopy: Berlin Connect is a local church in the heart of our city. We believe that in our Church people from all walks of life and of all ages can feel at home. In the atmosphere of God´s love they can flourish, find friends and make a difference in society.
+
+We want to create an atmosphere where you can form a living relationship with God and with people around you so that your life can enhance while you are experiencing your God-given potential in Christ Jesus.
+
+----
+
+CommunitySubTitle: Connecting our Sundays to our Midweek
+----
+CommunityTitle: Community
+----
+CommunityCopy: Friendships & family are important to us all! During the week we get together in homes, cafés and bars across Berlin.
+----
+
+SocialSubTitle: Shining brightly in society
+----
+SocialTitle: Social Enterprise
+----
+SocialCopy: Out of an overflow we want to serve our city through restoring value, giving and equipping leaders in business and civic areas.
+----
+
+JoinUsSubTitle: Are you free this Sunday?
+----
+JoinUsTitle: Come join us
+----
+JoinUsCopy: We are unashamedly passionate about the House of God. We welcome visitors at Berlin Connect and would love to have you join us in church this weekend.
+----
