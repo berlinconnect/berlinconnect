@@ -18,6 +18,25 @@
   <script type="text/javascript" src="//use.typekit.net/xkv4ghj.js"></script>
   <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 
+  <!-- Scripts -->
+    <?
+      $isProduction = (strpos($site->url(), 'myberlinconnect.com') > 0);
+      if ($isProduction) {
+        $mainJS = 'main.build';
+      }
+      else {
+        $mainJS = 'main';
+      }
+    ?>
+    <script type="text/javascript" src="/js/vendor/require.js"></script>
+    <script type="text/javascript">
+      window.require = requirejs.config({
+        'baseUrl': '/js',
+        'context': 'bc'
+      });
+    </script>
+    <script type="text/javascript" src="/js/<?= $mainJS ?>.js?v=<?= time(); ?>"></script>
+
   <? if($page->hasImages()): ?>
     <link rel="image_src" href="<?= $page->images()->first()->url(); ?>">
   <? endif ?>
