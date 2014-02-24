@@ -14,8 +14,8 @@ define([
 
     'events': {
 
-      'click .jobs a[href*=#]': 'scrollToAnchor',
-      'click .slate, .sidebar-container li, .nav-links ul li': 'openLightbox',
+      'click .scroll a[href*=#]': 'scrollToAnchor',
+      'click .slate, .sidebar-container li, .nav-links ul li': 'onLickLightboxLink',
       'click .lightbox .close, .lightbox .lightbox-overlay': 'closeLightbox',
       'click .sidebar-control, .sidebar .close': 'toggleSidebar',
       'mousedown a[data-track]': 'onClickAnylyticsLink',
@@ -30,6 +30,18 @@ define([
 
       // Check Scroll Position
       self.checkScrollPosition();
+
+      self.checkHash();
+    },
+
+    checkHash:function() {
+
+      var self = this;
+      var hash = window.location.hash.replace('#','');
+
+      if(hash.length === 0) return;
+
+      self.openLightbox(hash);
     },
 
     'trackEvent': function (section, area, action) {
@@ -62,7 +74,7 @@ define([
 
     },
 
-    'openLightbox': function (ev) {
+    'onLickLightboxLink': function (ev) {
 
       var self = this;
       var $target = $(ev.target);
@@ -72,9 +84,18 @@ define([
       }
 
       var elementId = $target.attr('id');
-      //find the divs with this class name and show them
-      $('.lightbox.' + elementId).removeClass('hidden');
-      $('.lightbox .lightbox-overlay').removeClass('hidden');
+
+      self.openLightbox(elementId);
+    },
+
+    openLightbox: function(id) {
+
+      document.location.hash = '!';
+
+      $('.lightbox.' + id).removeClass('hidden');
+      $('.lightbox .lightbox-overlay').removeClass('hidden'); 
+
+      window.location.hash = id;
     },
 
     'closeLightbox': function (ev) {
@@ -89,6 +110,7 @@ define([
         $lightbox.removeClass('hide');
       }, 500);
 
+      document.location.hash = '!';
     },
 
     'setRetinaInlineImages': function () {
@@ -110,17 +132,18 @@ define([
     'scrollToAnchor': function(ev) {
 
       var self = this;
-      var link = $(ev.target).attr('href');
+      var hash = $(ev.target).closest('a').attr('href');
+      
+      var $anchor = $(hash);
 
-      if (!link || link && (link.indexOf('http://') >= 0 || link.indexOf('https://') >= 0)) {
-        return;
-      } else {
+      if($anchor.length) {
+
         ev.preventDefault();
+        self.$el.animate({scrollTop:$anchor.offset().top}, 500, function () {
+
+          window.location.hash = hash;
+        });
       }
-
-      var $anchor = self.$(link);
-
-      self.$el.animate({scrollTop:$anchor.offset().top - 80}, 500);
     },
 
     'checkScrollPosition': function() {
@@ -132,7 +155,12 @@ define([
         var position = $(window).scrollTop();
 
         Backbone.Events.trigger('scroll', position);
-      }
+
+        if(position > 600) {
+
+          $("body").removeClass("active", 1000);
+        }
+      }  
 
       throttledPositionCheck = _.throttle(checkPosition, 250);
 

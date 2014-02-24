@@ -5,13 +5,12 @@
   <?php snippet('hero') ?>
   <section class="sundays">
     <div class="wrapper">
-      <div id="home" class="intro center wow fadeInUp" data-wow-delay="0.25s">
+      <div id="about" class="intro center">
         <h2><?= $page->sundaysubtitle() ?></h2>
         <h1><?= $page->sundaytitle() ?></h1>
         <p><?= kirbytext($page->sundaycopy()) ?></p>
         <div class="welcome-home">
           <span class="entypo play"></span>
-          <p>Watch Video</a>
         </div>
       </div>
     </div>
@@ -28,7 +27,7 @@
       <div class="clearfix"></div>
     </div>
   </section>
-  <section class="community">
+  <section id="community" class="community">
     <div class="wrapper">
       <div class="intro center fadeInUp">
         <h2><?= $page->communitysubtitle() ?></h2>
@@ -49,7 +48,7 @@
       <div class="clearfix"></div>
     </div>
   </section>
-  <section class="social">
+  <section id="social" class="social">
     <div class="wrapper">
       <div class="intro center fadeInUp">
         <h2><?= $page->socialsubtitle() ?></h2>
