@@ -7,32 +7,35 @@
     opacity: 1
     -webkit-transform: scale(1)
 
-
 @-moz-keyframes scaleUp
   0%
     opacity: 0
     -moz-transform: scale(0.97)
 
-
   100%
     opacity: 1
     -moz-transform: scale(1)
-
 
 @keyframes scaleUp
   0%
     opacity: 0
     transform: scale(0.97)
 
-
   100%
     opacity: 1
     transform: scale(1)
 
-
 .scaleUp {
   animation: scaleUp 200ms ease-in-out
 }
+
+@keyframes fadeIn
+  0%
+    opacity: 0
+
+  100%
+    opacity: 1
+
 
 .lightbox
   position: fixed
@@ -42,14 +45,30 @@
   height: 100%
   width: 100%
   z-index: 10
+  transition: all 400ms ease
   
+  &.hide
+    opacity: 0
+    
+    .lightbox-container
+      transform: scale(0.98)
+      
+  .lightbox-overlay
+    background: rgba(black,0.7)
+    position: fixed
+    height: 100%
+    width: 100%
+    z-index: -1
+    animation: fadeIn 200ms ease-in-out
+      
   .lightbox-container
     background: #fff
     top: 0
     width: 650px
-    box-shadow: 0 0 0 100000px rgba(0,0,0,0.6)
     z-index: 10
     margin: 100px auto
+    transition: all 400ms ease
+    transform: scale(1)
     
     .header-image
       width: 650px
@@ -59,6 +78,7 @@
       background-size: cover
       background-position: center center
       display: table
+      opacity: 0.8
       
       .overlay
         position: absolute
