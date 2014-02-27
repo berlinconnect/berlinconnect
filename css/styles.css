@@ -13,11 +13,12 @@ a{color:#414141;text-decoration:underline}
 .right{float:right}
 .left{float:left}
 .clearfix{clear:both}
-a.button{position:relative;color:#a2a2a2;border:2px solid #a2a2a2;font-family:"brandon-grotesque",sans-serif;text-transform:uppercase;font-weight:600;font-size:15px;letter-spacing:1px;padding:13px 22px 11px;-webkit-border-radius:5px;border-radius:5px;cursor:pointer;text-decoration:none;-webkit-transition:all 300ms ease;-moz-transition:all 300ms ease;-o-transition:all 300ms ease;-ms-transition:all 300ms ease;transition:all 300ms ease;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;}
-a.button:hover{color:#212121;border:2px solid #212121}
-a.button.giving{color:#fff;background-color:#414141;border-color:#414141;}
-a.button.giving:hover{background-color:#212121;border-color:#212121}
-a.button span{font-size:44px;line-height:30px;left:20px;top:12px;position:absolute}
+input.button,a.button{position:relative;color:#a2a2a2;border:2px solid #a2a2a2;font-family:"brandon-grotesque",sans-serif;text-transform:uppercase;font-size:16px;letter-spacing:1px;padding:13px 22px 11px;-webkit-border-radius:5px;border-radius:5px;cursor:pointer;text-decoration:none;-webkit-transition:all 300ms ease;-moz-transition:all 300ms ease;-o-transition:all 300ms ease;-ms-transition:all 300ms ease;transition:all 300ms ease;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;}
+input.button:hover,a.button:hover{color:#212121;border:2px solid #212121}
+input.button.giving,a.button.giving{color:#fff;background-color:#414141;border-color:#414141;}
+input.button.giving:hover,a.button.giving:hover{background-color:#212121;border-color:#212121}
+input.button span,a.button span{font-size:44px;line-height:30px;left:20px;top:12px;position:absolute}
+input.button{font-weight:500;font-size:16px;padding:18px 27px 16px}
 table{border:1px solid #e1e1e1;border-collapse:collapse;vertical-align:top;font-size:14px;line-height:22px;color:#414141;-webkit-box-shadow:0 2px 3px rgba(0,0,0,0.06);box-shadow:0 2px 3px rgba(0,0,0,0.06);}
 table thead{display:none}
 table tbody tr{padding:0;vertical-align:top;}
@@ -232,16 +233,19 @@ section .welcome-home .entypo.play{display:table-cell;vertical-align:middle;colo
 .slates .slate.square.big{vertical-align:top;width:50%;height:0;padding-bottom:50%;display:inline-block}
 .slates .slate.square.small{vertical-align:top;width:25%;height:0;padding-bottom:25%;display:inline-block}
 .slates .slate.rectangle{vertical-align:top;width:50%;height:0;padding-bottom:25%;display:inline-block}
-.giving .wrapper.page{text-align:center}
 .wrapper.page{padding:50px 70px;position:relative;margin:0 auto;}
 .wrapper.page h2{font-weight:200;color:#a2a2a2;font-size:46px;line-height:56px;font-style:italic;margin:0 0 10px;padding:0}
 .wrapper.page h1{text-transform:uppercase;font-size:80px;line-height:80px;color:#212121;margin-bottom:20px}
 .wrapper.page h3{font-size:20px;line-height:36px;margin-bottom:5px}
-.wrapper.page p,.wrapper.page li{font-size:20px;line-height:36px;color:#414141;margin-bottom:20px;}
-.wrapper.page p .button,.wrapper.page li .button{display:inline-block;margin:10px 10px 10px}
+.wrapper.page p,.wrapper.page li{font-size:20px;line-height:36px;color:#414141;margin-bottom:20px}
+.wrapper.page .button{display:inline-block;margin:20px 10px 10px}
 .wrapper.page p + h3,.wrapper.page ul + h3{margin-top:40px}
 .wrapper.page li{list-style-type:initial;margin-bottom:10px}
 .wrapper.page ol li{list-style-type:decimal}
+.giving .wrapper.page{text-align:center}
+.giving .button{display:inline-block;margin:20px 10px 10px}
+.giving .payment-icons{width:243px;height:30px;background-image:url("../img/payment-icons.svg");background-position:center center;background-repeat:no-repeat;margin:10px auto 0;opacity:.3;-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=30)";filter:alpha(opacity=30)}
+.giving small{display:block;font-style:italic}
 @media all and (min-width: 1550px){body .slates{width:1550px;height:100%;margin:0 auto}
 }@media all and (min-width: 940px){body section .intro{width:700px}
 }@media all and (max-width: 940px){body .wrapper{width:800px;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding:0 10px}

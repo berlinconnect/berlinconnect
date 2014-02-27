@@ -7,7 +7,7 @@
     <h1><?= $page->title() ?></h1>
   </div>
   <div class="wrapper page">
-    <p><?= kirbytext($page->text()) ?></p>
+    <?= kirbytext($page->text()) ?>
   </div>
 </div>
 <?php snippet('lightbox') ?>
