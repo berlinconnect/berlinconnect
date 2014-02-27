@@ -306,4 +306,5 @@ body section .slates .slate{width:100% !important;padding:0 !important;display:t
 body section .slates .slate .caption{position:relative;display:block;vertical-align:middle;text-align:center;bottom:0;left:0;right:0;width:100%;padding:100px 0;}
 body section .slates .slate .caption h2{font-size:30px;line-height:36px;text-align:center;width:100%}
 body section .slates .slate .caption p{display:none}
+}@media screen and (min-height: 1240px){body .wrapper.page{min-height:800px}
 }

@@ -272,7 +272,6 @@
 @media $media-mobile-portrait
 
   body
-    
     .menu
       .typelogo
         display: none
@@ -331,3 +330,11 @@
               width: 100%
             p
               display: none
+              
+@media $media-too-high
+  
+  // Hacky footer implementation
+  
+  body
+    .wrapper.page
+      min-height: 800px
