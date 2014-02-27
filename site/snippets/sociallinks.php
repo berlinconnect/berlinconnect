@@ -1,2 +1,2 @@
 <div class="social-links">
-  <a href="https://www.facebook.com/myberlinconnect" class="entypo-social facebook"></a><a href="https://twitter.com/berlinconnect" class="entypo-social twitter"></a><a href="http://instagram.com/BerlinConnect" class="entypo-social instagram"></a><a href="http://vimeo.com/user2363428" class="entypo-social tumblr"></a></div>
+  <a href="https://www.facebook.com/myberlinconnect" class="entypo-social facebook"></a><a href="https://twitter.com/berlinconnect" class="entypo-social twitter"></a><a href="http://instagram.com/BerlinConnect" class="entypo-social instagram"></a><a href="http://berlinconnect.tumblr.com/" class="entypo-social tumblr"></a></div>
