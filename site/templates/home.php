@@ -5,19 +5,18 @@
   <?php snippet('hero') ?>
   <section class="sundays">
     <div class="wrapper">
-      <div id="home" class="intro center wow fadeInUp" data-wow-delay="0.25s">
+      <div id="about" class="intro center">
         <h2><?= $page->sundaysubtitle() ?></h2>
         <h1><?= $page->sundaytitle() ?></h1>
         <p><?= kirbytext($page->sundaycopy()) ?></p>
         <div class="welcome-home">
           <span class="entypo play"></span>
-          <p>Watch Video</a>
         </div>
       </div>
     </div>
     <div class="slates">
       <?php foreach($pages->find('sections')->children()->filterBy('umbrella', 'Sundays', ',') as $section): ?>
-        <div id="<?= $section->id() ?>" class="slate <?= $section->slatesize() ?> wow fadeIn" data-wow-delay="0.25s">
+        <div id="<?= $section->id() ?>" class="slate <?= $section->slatesize() ?>">
           <div class="background-image" style="background-image: url(<?= $section->images()->last()->url(); ?>)"></div>
           <div class="caption">
             <h2><?= html($section->title()) ?></h2>
@@ -28,9 +27,9 @@
       <div class="clearfix"></div>
     </div>
   </section>
-  <section class="community">
+  <section id="community" class="community">
     <div class="wrapper">
-      <div class="intro center wow fadeInUp" data-wow-delay="0.25s">
+      <div class="intro center fadeInUp">
         <h2><?= $page->communitysubtitle() ?></h2>
         <h1><?= $page->communitytitle() ?></h1>
         <p><?= kirbytext($page->communitycopy()) ?></p>
@@ -38,7 +37,7 @@
     </div>
     <div class="slates">
       <?php foreach($pages->find('sections')->children()->filterBy('umbrella','Community') as $section): ?>
-        <div id="<?= $section->id() ?>" class="slate <?= $section->slatesize() ?> wow fadeIn" data-wow-delay="0.25s">
+        <div id="<?= $section->id() ?>" class="slate <?= $section->slatesize() ?>">
           <div class="background-image" style="background-image: url(<?= $section->images()->last()->url(); ?>)"></div>
           <div class="caption">
             <h2><?= html($section->title()) ?></h2>
@@ -49,9 +48,9 @@
       <div class="clearfix"></div>
     </div>
   </section>
-  <section class="social">
+  <section id="social" class="social">
     <div class="wrapper">
-      <div class="intro center wow fadeInUp" data-wow-delay="0.25s">
+      <div class="intro center fadeInUp">
         <h2><?= $page->socialsubtitle() ?></h2>
         <h1><?= $page->socialtitle() ?></h1>
         <p><?= kirbytext($page->socialcopy()) ?></p>
@@ -59,7 +58,7 @@
     </div>
     <div class="slates">
       <?php foreach($pages->find('sections')->children()->filterBy('umbrella','Social') as $section): ?>
-        <div id="<?= $section->id() ?>" class="slate <?= $section->slatesize() ?> wow fadeIn" data-wow-delay="0.25s">
+        <div id="<?= $section->id() ?>" class="slate <?= $section->slatesize() ?>">
           <div class="background-image" style="background-image: url(<?= $section->images()->last()->url(); ?>)"></div>
           <div class="caption">
             <h2><?= html($section->title()) ?></h2>
@@ -72,7 +71,7 @@
   </section>
   <section class="comejoinus">
     <div class="wrapper">
-      <div class="intro center wow fadeInUp" data-wow-delay="0.25s">
+      <div class="intro center">
         <h2><?= $page->joinussubtitle() ?></h2>
         <h1><?= $page->joinustitle() ?></h1>
         <p><?= kirbytext($page->joinuscopy()) ?></p>

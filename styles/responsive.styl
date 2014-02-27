@@ -1,87 +1,154 @@
+@media $media-desktop-big
+
+  body
+    
+    // Give slates a defined width
+    .slates
+      width: 1550px
+      height: 100%
+      margin: 0 auto
+      
+@media $media-desktop 
+
+  body
+    
+    // Intro sections on the homepage
+    section .intro
+      width: 700px
+
 @media $media-tablet
 
   body
     .wrapper
       width: 800px
-      
+      box-sizing: border-box
+      padding: 0 10px
+    
+    // Hero section
     .hero
       .wrapper
-        padding: 50px 0 120px
+        padding: 70px 0 120px
         
-      .logo
-        height: 160px
-        width: @height
-        background-size: @height
-        
-      h1
-        font-size: 80px
-        line-height: 90px
-        letter-spacing: 2px
-        padding: 30px 0 10px
-        
-      p
-        font-size: 24px
-        line-height: 36px
-        padding: 0 20px
-    
-    section .intro
-    .wrapper.page
-      h2
-        font-size: 40px
-        line-height: @font-size + 10
-        margin: 0 0 10px
-      h1
-        font-size: 54px
-        line-height: @font-size
-        
-      p
-        font-size: 20px
-        padding: 0 60px
+        h1
+          font-size: 90px
           
+        p
+          font-size: 26px
+          width: 500px
+          
+    // Footer sections
+    .footer
+      .nav-links
+        width: 538px
+        
+        ul
+          margin-left: 60px
+
+@media $media-tablet-portrait
+
+  body
+    .wrapper
+      width: 750px
+      padding: 0 20px
+      
+    // Hero section
+    .hero
+      .wrapper
+        padding: 70px 0 120px
+        
+        h1
+          font-size: 80px
+          
+        p
+          font-size: 22px
+          width: 500px
+          
+    section     
       .slates
-        .slate          
+        .slate   
           .caption
-            bottom: 20px
-            left: 20px
-            right: 20px
+            bottom: 15px
+            left: 15px
+            right: 15px
             
             h2
-              font-size: 28px
+              font-size: 26px
               line-height: @font-size + 6px
               font-family: $heading
               text-transform: uppercase
               font-weight: 900
               letter-spacing: 1px
             p
-              font-size:17px
-              font-style: italic
-              
-    .footer
-      .nav-links
-        width: 540px
-        
-        ul
-          margin-left: 60px
+              font-size: 17px
+          
+@media $media-full-width
 
-@media $media-tablet-portrait
-  
   body
     .wrapper
       width: 100%
       
+    // Hero section
     .hero
-      background-attachment: fixed
-    
-    .lightbox
-      .lightbox-container
-        width: 100%
-        height: auto
-        margin: 0 auto
+      .wrapper
+        padding: 70px 0 100px
         
-        .header-image
-          width: 100%
-          height: 240px
+        .logo
+          height: 140px
+          width: @height
+          background-size: @height
+          margin-bottom: 10px
+        
+        h1
+          font-size: 70px
+          line-height: @font-size + 8px
           
+        p
+          font-size: 22px
+          line-height: @font-size + 10px
+          width: 100%
+          padding: 0 40px
+          
+    // Intro sections on the homepage
+    section .intro
+      padding: 50px 0
+      
+      h2
+        font-size: 30px
+        line-height: @font-size + 10px
+        font-style: italic
+        margin: 0 0 10px
+        padding: 0
+        
+      h1
+        text-transform: uppercase
+        font-size: 42px
+        line-height: @font-size + 6px
+        color: $dark
+        margin-bottom: 0
+        
+      p
+        font-size: 18px
+        line-height: @font-size + 15px
+        color: $mid
+        margin-bottom: 15px
+    
+    section
+      .slates
+        .slate
+          width:100%  !important
+          padding-bottom: 50%  !important
+          
+          .caption
+            bottom: 30px
+            left: 30px
+            right: 30px
+            
+            h2
+              font-size: 36px
+              line-height: @font-size + 6px
+            p
+              font-size: 20px
+              
     .footer
       .white-logo
         display: none
@@ -92,7 +159,32 @@
         ul
           margin-left: 0px
           
+    .lightbox
+      .lightbox-container
+        width: 100%
+        height: auto
+        margin: 0 auto
+        
+        .header-image
+          width: 100%
+          height: 240px
+          
+          .header-copy
+            h2
+              font-size: 38px
+              line-height: @font-size + 6px
+              margin:0 0 10px
 
+            p
+              font-size: 20px
+              line-height: @font-size + 6px
+              width: 100%
+              font-style: italic
+              padding: 0 20px
+          
+        .container
+          padding: 40px 20px
+          
 @media $media-mobile
   
   body
@@ -118,66 +210,33 @@
         
       .sidebar
         padding-top: 2px
-      
-    .wrapper
-      width: 100%
-      
-    .hero
-      background-attachment: scroll
-      
-      .wrapper
-        padding: 100px 0 150px
-        position: relative
-        
-      .logo
-        height: 120px
-        width: @height
-        background-size: @height
-        
-      h1
-        font-size: 30px
-        line-height: 40px
-        font-weight: 700
-        text-transform: uppercase
-        letter-spacing: 1px
-        padding: 100px 0 0
-        
-      p
-        font-size: 16px
-        line-height: 26px
-        width: 100%
-        padding: 0 20px
     
-    section .intro
-    .wrapper.page
-      padding: 40px 0
-      
+    .sub-hero
       h2
-        font-size: 24px
+        font-weight: 300
+        font-size: 30px
         line-height: @font-size + 10px
-        margin: 0
+        margin: 0 0 5px
+        padding: 0
+        
       h1
-        font-size: 28px
-        line-height: @font-size + 6px
+        text-transform: uppercase
+        font-size: 55px
+        line-height: @font-size
+        margin-bottom: 20px
         
-      p
-        font-size: 17px
-        line-height:30px
-        padding: 0 20px
-        
-      .video-container
-        iframe
-          width: 400px
-          height: 250px
-        
-      .button 
-        margin-left: 0
-        margin-right: 0
+    .wrapper.page
+      padding: 30px
       
-    .slates
-      .slate
-        width:100%  !important
-        padding-bottom: 50%  !important
+      ol
+        padding-left: 20px
+      
+      p
+        font-size: 18px
+        line-height: @font-size + 15px
+        
+        .button
+          margin: 10px 0
         
     .footer
       .nav-links
@@ -209,59 +268,73 @@
             color: $light
             margin-left: 10px
             text-decoration: none
-
+              
 @media $media-mobile-portrait
-  
+
   body
+    .menu
+      .typelogo
+        display: none
+    
     .hero
       .wrapper
-        padding: 30px 0 100px
-        position: relative
+        padding: 70px 0 100px
         
-      .logo
-        height: 120px
-        width: @height
-        background-size: @height
-        
-      h1
-        font-size: 30px
-        line-height: 40px
-        font-weight: 700
-        text-transform: uppercase
-        letter-spacing: 1px
-        padding: 40px 0 0
-        
-      p
-        font-size: 16px
-        line-height: 26px
+        h1
+          font-size: 40px
+          line-height: @font-size + 6px
+          
+        p
+          font-size: 20px
+      
+    section
+      .welcome-home
         width: 100%
-        padding: 0 20px
+        height: 240px
+        background: url('../img/welcome-home.jpg')
+        background-size: cover
+        background-position: center left
+        border-radius: 4px
+        display: table
+        overflow: hidden
+        margin: 50px auto 0
+        text-align: center
+        position: relative
+        cursor: pointer
+        color: $white
         
-    section .intro
-    .wrapper.page
-      .video-container
-        iframe
-          width: 300px
-          height: 150px
-        
-    section     
+    section
       .slates
-        .slate   
+        .slate
+          width:100%  !important
+          padding: 0 !important
+          display: table
+          height: auto !important
+          position: relative
+          
           .caption
-            top: 50%
-            left: 10px
-            right: 10px
+            position: relative
+            display:block
+            vertical-align:middle
             text-align: center
-            margin-top: -13px
-            display: table-cell
-            vertical-align: middle
+            bottom: 0
+            left: 0
+            right: 0
+            width: 100%
+            padding: 100px 0
             
             h2
-              font-size: 24px
+              font-size: 30px
               line-height: @font-size + 6px
-              font-family: $heading
-              text-transform: uppercase
-              font-weight: 900
-              letter-spacing: 1px
+              text-align: center
+              width: 100%
             p
               display: none
+              
+@media $media-too-high
+  
+  // Hacky footer implementation
+  
+  body
+    .wrapper.page
+      min-height: 800px
