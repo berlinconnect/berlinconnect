@@ -18,7 +18,7 @@ input.button:hover,a.button:hover{color:#212121;border:2px solid #212121}
 input.button.giving,a.button.giving{color:#fff;background-color:#414141;border-color:#414141;}
 input.button.giving:hover,a.button.giving:hover{background-color:#212121;border-color:#212121}
 input.button span,a.button span{font-size:44px;line-height:30px;left:20px;top:12px;position:absolute}
-input.button{font-weight:500;font-size:16px;padding:18px 27px 16px}
+input.button{font-weight:500;font-size:17px;padding:18px 50px 16px}
 table{border:1px solid #e1e1e1;border-collapse:collapse;vertical-align:top;font-size:14px;line-height:22px;color:#414141;-webkit-box-shadow:0 2px 3px rgba(0,0,0,0.06);box-shadow:0 2px 3px rgba(0,0,0,0.06);}
 table thead{display:none}
 table tbody tr{padding:0;vertical-align:top;}

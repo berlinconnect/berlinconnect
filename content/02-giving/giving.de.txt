@@ -2,7 +2,17 @@ Title: Giving
 ---- 
 SubTitle: Wohnzimmer Gottes Weg 
 ---- 
-Text: Wenn Sie möchten, unterstützen und finanziell an der Arbeit des 'Berlin Connect' verwenden Sie bitte folgende Kontodaten. Wenn Sie eine Quittung benötigen, geben Sie bitte Ihre Postadresse in der Referenz Ihrer Transaktion. Wenn Sie Online-geben wollen, nutzen Sie bitte den Knopf klicken. Danke für die Hilfe bauen das Haus Gottes hier in Berlin. 
+Text: Wenn Sie möchten, unterstützen und finanziell an der Arbeit des 'Berlin Connect' verwenden Sie bitte folgende Kontodaten. Wenn Sie eine Quittung benötigen, geben Sie bitte Ihre Postadresse in der Referenz Ihrer Transaktion.
+
+**Account name:** Berlin Christian Life Centre e.V.
+**Bank:** Commerzbank Berlin
+**Account number:** 623459500
+**Bank code:** 12040000
+**Reference:** your address
+**IBAN:** DE07 1204 0000 0623 4595 00
+**BIC (SWIFT-Code):** C0BADEBB120
+
+Wenn Sie Online-geben wollen, nutzen Sie bitte den Knopf klicken. Danke für die Hilfe bauen das Haus Gottes hier in Berlin. 
 ----
 
 BankDetails:
