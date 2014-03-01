@@ -32,6 +32,9 @@ define([
       // Check Scroll Position
       self.checkScrollPosition();
 
+      // Check Scroll Position
+      self.outsideLinks();
+
       // self.checkHash();
     },
 
@@ -44,6 +47,18 @@ define([
 
     //   self.openLightbox(hash);
     // },
+
+
+    outsideLinks:function() {
+
+      var self = this;
+
+      $(document.links).filter(function() {
+          return this.hostname != window.location.hostname;
+      }).attr('target', '_blank');
+    },
+
+
 
     'trackEvent': function (section, area, action) {
 
@@ -170,7 +185,7 @@ define([
 
         Backbone.Events.trigger('scroll', position);
 
-        if(position > 600) {
+        if(position > 800) {
 
           $("body").removeClass("active", 1000);
         }

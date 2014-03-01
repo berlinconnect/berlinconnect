@@ -36,4 +36,6 @@ JoinUsSubTitle: Are you free this Sunday?
 JoinUsTitle: Come join us
 ----
 JoinUsCopy: We are unashamedly passionate about the House of God. We welcome visitors at Berlin Connect and would love to have you join us in church this weekend.
+
+(link: http://citymapper.com/berlin/superrouter?end=52.53202,13.395690000000059&eaddr=Ackerstra%C3%9Fe%20144%2C%2010115%20Berlin%2C%20Germany class: button text: Find Us on a map)
 ----
