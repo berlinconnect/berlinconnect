@@ -1,39 +1,39 @@
 Title: Home
 ----
 
-HeroTitle: Willkommen zu Hause
+HeroTitle: Welcome Home
 ----
 
-HeroCopy: Eine Neue Ortskirche im Herzen von Berlin verändernden wahrnehmung der Jesus Menschen Über und Waden Kirche.
+HeroCopy: A multicultural church in the heart of Berlin, changing people's perceptions about Jesus and His Church.
+
 ----
 
-SundaySubTitle: Ein wenig über...
+SundaySubTitle: A little about...
 ----
 SundayTitle: Berlin Connect
 ----
-SundayCopy: Berlin Connect ist eine Ortsgemeinde im Herzen unserer Stadt. Wir glauben, dass in unserer Kirche Menschen aus allen Gesellschaftsschichten und aller Altersgruppen zu Hause fühlen können. In der Atmosphäre der Liebe Gottes, sie gedeihen können, neue Freunde finden und einen Unterschied in der Gesellschaft.
+SundayCopy: Berlin Connect is a multicultural church in the heart of our city. Our philosophy is simply to love God, love people and love life.  Our motto is "come as you are".
 
-Wir wollen eine Atmosphäre, wo man eine lebendige Beziehung mit Gott und mit Menschen um Sie herum zu bilden, so dass Ihr Leben verbessern können, während Sie erleben Ihre gottgegebene Potenzial in Christus Jesus zu erstellen.
-
+(vimeo: http://vimeo.com/58633943 width: 480 height: 340)
 ----
 
-CommunitySubTitle: Anschließen unserer sonntags um unsere Midweek
+CommunitySubTitle: Connecting our Sundays to our Midweek
 ----
 CommunityTitle: Community
 ----
-CommunityCopy: Freundschaften und Familie sind wichtig für uns alle! Während der Woche treffen wir uns in Wohnungen, Cafés und Bars in ganz Berlin.
+CommunityCopy: Sitting around a table of friendship & family is important to us all! As Sundays get bigger in numbers our midweek connections need to get more meaningful and personal. What we learn on Sundays about Christ and his kindness towards us we get to put into practice midweek in our dinner parties and across every area of our lives.
 ----
 
-SocialSubTitle: Glänzende hell in der Gesellschaft
+SocialSubTitle: Shining brightly in society
 ----
 SocialTitle: Social Enterprise
 ----
-SocialCopy: Aus einem Überlauf wir für unsere Stadt durch die Wiederherstellung Wert, was die Ausstattung und Führungskräfte in Wirtschaft und zivilgesellschaftlichen Bereichen dienen soll.
+SocialCopy: Out of an overflow we want to serve our city through restoring value, giving and equipping leaders in business and civic areas.
 ----
 
-JoinUsSubTitle: Sind Sie frei an diesem Sonntag?
+JoinUsSubTitle: Are you free this Sunday?
 ----
-JoinUsTitle: Kommen Sie mit uns
+JoinUsTitle: Come join us
 ----
-JoinUsCopy: Wir sind schamlos leidenschaftlich über das Haus Gottes. Wir begrüßen die Besucher in Berlin Connect und würde gerne, wenn Sie uns in der Kirche kommen an diesem Wochenende.
+JoinUsCopy: We are unashamedly passionate about the House of God. We welcome visitors at Berlin Connect and would love to have you join us in church this weekend.
 ----

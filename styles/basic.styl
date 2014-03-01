@@ -61,6 +61,11 @@ h1
 a
   color: $mid
   text-decoration: underline
+
+blockquote
+  padding-left: 20px
+  border-left 3px solid rgba(black,0.1)
+  
   
 
 // FUNCTIONAL CLASSES
@@ -137,9 +142,26 @@ table
   line-height: @font-size + 8px
   color: $mid
   box-shadow: 0 2px 3px rgba(black, 0.06)
+  width: 100%
+  
+  & + *
+    margin-top: 20px
   
   thead
-    display: none
+    text-align: left
+    background: #fdfdfd
+    
+    tr 
+      border-bottom: $border
+      
+      th
+        padding: 10px 10px 9px
+        font-size: 14px
+        font-weight: 700
+        color: rgba(black,0.6)
+        font-family: $heading
+        text-transform: uppercase
+        letter-spacing: 0.07em
     
   tbody  
     tr
@@ -159,3 +181,21 @@ table
         &:first-child
           border-right: $border
           font-weight: 600
+          
+// COLUMNS
+
+.cols
+  font-size:0
+
+  .col
+    vertical-align: top
+    display:inline-block
+    
+  .col-50
+    width:50%
+
+  .col-60
+    width:60%
+
+  .col-40
+    width:40%

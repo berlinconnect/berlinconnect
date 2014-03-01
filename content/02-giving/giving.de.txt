@@ -1,26 +1,33 @@
-Title: Giving 
----- 
-SubTitle: Wohnzimmer Gottes Weg 
----- 
-Text: Wenn Sie möchten, unterstützen und finanziell an der Arbeit des 'Berlin Connect' verwenden Sie bitte folgende Kontodaten. Wenn Sie eine Quittung benötigen, geben Sie bitte Ihre Postadresse in der Referenz Ihrer Transaktion.
+Subtitle: Living God's Way
+----
+Title: Giving
+----
 
-**Account name:** Berlin Christian Life Centre e.V.
-**Bank:** Commerzbank Berlin
-**Account number:** 623459500
-**Bank code:** 12040000
-**Reference:** your address
-**IBAN:** DE07 1204 0000 0623 4595 00
-**BIC (SWIFT-Code):** C0BADEBB120
+Text: If you would like to support & contribute financially to the work of ‘Berlin Connect’ please use the following account details. If you require a receipt, please provide your postal address in the reference of your transaction.
 
-Wenn Sie Online-geben wollen, nutzen Sie bitte den Knopf klicken. Danke für die Hilfe bauen das Haus Gottes hier in Berlin. 
+If you want to give online, please use the button below. Thank you for helping build God’s house here in Berlin.
 ----
 
 BankDetails:
-Account name: Berlin Christian Life Centre e.V.
-Bank: Commerzbank Berlin
-Account number: 623459500
-Bank code: 12040000
-Reference: your address
-IBAN: DE07 1204 0000 0623 4595 00
-BIC (SWIFT-Code): C0BADEBB120
+**Account Name**
+Berlin Christian Life Centre e.V.
+
+**Bank:**
+Commerzbank Berlin
+
+**Account Number:**
+623459500
+
+**Bank Code:**
+12040000
+
+**Reference:**
+Your address
+
+**IBAN:**
+DE07 1204 0000 0623 4595 00
+
+**BIC (SWIFT-Code):**
+C0BADEBB120
 ----
+

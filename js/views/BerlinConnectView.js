@@ -17,7 +17,8 @@ define([
       'click .scroll a[href*=#]': 'scrollToAnchor',
       'click .slate, .sidebar-container li, .nav-links ul li': 'onLickLightboxLink',
       'click .lightbox .close, .lightbox .lightbox-overlay': 'closeLightbox',
-      'click .sidebar-control, .sidebar .close': 'toggleSidebar',
+      'click .sidebar-control': 'toggleSidebar',
+      'click .sidebar .close': 'closeSidebar',
       'mousedown a[data-track]': 'onClickAnylyticsLink',
     },
 
@@ -31,18 +32,18 @@ define([
       // Check Scroll Position
       self.checkScrollPosition();
 
-      self.checkHash();
+      // self.checkHash();
     },
 
-    checkHash:function() {
+    // checkHash:function() {
 
-      var self = this;
-      var hash = window.location.hash.replace('#','');
+    //   var self = this;
+    //   var hash = window.location.hash.replace('#','');
 
-      if(hash.length === 0) return;
+    //   if(hash.length === 0) return;
 
-      self.openLightbox(hash);
-    },
+    //   self.openLightbox(hash);
+    // },
 
     'trackEvent': function (section, area, action) {
 
@@ -72,6 +73,19 @@ define([
 
       $body.toggleClass('active');
 
+      // document.location.hash = '!';
+
+    },
+
+    'closeSidebar': function () {
+
+      var self = this;
+      var $body = $('body');
+
+      $body.removeClass('active');
+
+      // document.location.hash = '!';
+
     },
 
     'onLickLightboxLink': function (ev) {
@@ -90,12 +104,12 @@ define([
 
     openLightbox: function(id) {
 
-      document.location.hash = '!';
+      // document.location.hash = '!';
 
       $('.lightbox.' + id).removeClass('hidden');
       $('.lightbox .lightbox-overlay').removeClass('hidden'); 
 
-      window.location.hash = id;
+      // window.location.hash = id;
     },
 
     'closeLightbox': function (ev) {
@@ -110,7 +124,7 @@ define([
         $lightbox.removeClass('hide');
       }, 500);
 
-      document.location.hash = '!';
+      // document.location.hash = '!';
     },
 
     'setRetinaInlineImages': function () {

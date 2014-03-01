@@ -4,24 +4,24 @@ Title: Home
 HeroTitle: Welcome Home
 ----
 
-HeroCopy: A new local church in the heart of Berlin changing people's perceptions about Jesus and His Church.
+HeroCopy: A multicultural church in the heart of Berlin, changing people's perceptions about Jesus and His Church.
+
 ----
 
 SundaySubTitle: A little about...
 ----
 SundayTitle: Berlin Connect
 ----
-SundayCopy: Berlin Connect is a local church in the heart of our city. We believe that in our Church people from all walks of life and of all ages can feel at home. In the atmosphere of God´s love they can flourish, find friends and make a difference in society.
+SundayCopy: Berlin Connect is a multicultural church in the heart of our city. Our philosophy is simply to love God, love people and love life.  Our motto is "come as you are".
 
-We want to create an atmosphere where you can form a living relationship with God and with people around you so that your life can enhance while you are experiencing your God-given potential in Christ Jesus.
-
+(vimeo: http://vimeo.com/58633943 width: 480 height: 340)
 ----
 
 CommunitySubTitle: Connecting our Sundays to our Midweek
 ----
 CommunityTitle: Community
 ----
-CommunityCopy: Friendships & family are important to us all! During the week we get together in homes, cafés and bars across Berlin.
+CommunityCopy: Sitting around a table of friendship & family is important to us all! As Sundays get bigger in numbers our midweek connections need to get more meaningful and personal. What we learn on Sundays about Christ and his kindness towards us we get to put into practice midweek in our dinner parties and across every area of our lives.
 ----
 
 SocialSubTitle: Shining brightly in society

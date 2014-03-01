@@ -1,8 +1,8 @@
-Title: Kontakt 
----- 
-Subtitle: nach Berlin Connect Get connected 
----- 
-Text: Wir sind da, um Ihnen und der Stadt Berlin dienen. Fühlen Sie sich frei, uns anzurufen oder schreiben Sie uns eine E-Mail. 
+Title: Contact
+----
+SubTitle: Get connected to Berlin Connect
+----
+Text: We are there to serve you and the City of Berlin. Feel free to call us or drop us an email. 
 
 **Our Berlin Connect Hub (office):**
 Berlin Christian Life Centre e.V.

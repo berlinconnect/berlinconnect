@@ -42,7 +42,7 @@
         width: 538px
         
         ul
-          margin-left: 60px
+          margin-left: 50px
 
 @media $media-tablet-portrait
 
@@ -170,6 +170,8 @@
           height: 240px
           
           .header-copy
+            padding: 0 20px
+            
             h2
               font-size: 38px
               line-height: @font-size + 6px
@@ -180,7 +182,6 @@
               line-height: @font-size + 6px
               width: 100%
               font-style: italic
-              padding: 0 20px
           
         .container
           padding: 40px 20px
@@ -196,7 +197,7 @@
       .sidebar-container
         padding-top: 20px
 
-    a.button
+    .button
       position: relative
       padding: 18px 0 17px
       width: 100%
@@ -225,6 +226,20 @@
         line-height: @font-size
         margin-bottom: 20px
         
+    section .intro
+      .video-container 
+        padding-bottom: 56%
+        position: relative
+        width: 100%
+        height: 0
+        
+        iframe
+          position: absolute
+          width: 100%
+          height: 100%
+          left: 0
+          top: 0
+        
     .wrapper.page
       padding: 30px
       
@@ -235,8 +250,8 @@
         font-size: 18px
         line-height: @font-size + 15px
         
-        .button
-          margin: 10px 0
+      .button
+        margin: 10px 0
         
     .footer
       .nav-links
