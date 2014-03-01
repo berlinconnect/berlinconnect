@@ -19,7 +19,7 @@ input.button:hover,a.button:hover{color:#212121;border:2px solid #212121}
 input.button.giving,a.button.giving{color:#fff;background-color:#414141;border-color:#414141;}
 input.button.giving:hover,a.button.giving:hover{background-color:#212121;border-color:#212121}
 input.button span,a.button span{font-size:44px;line-height:30px;left:20px;top:12px;position:absolute}
-input.button{font-weight:500;font-size:17px;padding:18px 50px 16px}
+input.button{font-weight:500;font-size:17px;padding:18px 50px 16px;-webkit-appearance:none}
 table{border:1px solid #e1e1e1;border-collapse:collapse;vertical-align:top;font-size:14px;line-height:22px;color:#414141;-webkit-box-shadow:0 2px 3px rgba(0,0,0,0.06);box-shadow:0 2px 3px rgba(0,0,0,0.06);width:100%;}
 table + *{margin-top:20px}
 table thead{text-align:left;background:#fdfdfd;}
@@ -212,7 +212,7 @@ body.active .content,body.active .menu{-webkit-transform:translate3d(-260px,0,0)
 .lightbox .lightbox-container .header-image .entypo.close:hover{opacity:1;-ms-filter:none;filter:none}
 .lightbox .lightbox-container .header-image .header-copy{position:relative;display:table-cell;vertical-align:middle;text-align:center;color:#fff;}
 .lightbox .lightbox-container .header-image .header-copy h2{font-family:"brandon-grotesque",sans-serif;text-transform:uppercase;font-weight:800;letter-spacing:0;font-size:45px;line-height:51px;margin:0}
-.lightbox .lightbox-container .header-image .header-copy p{font-size:22px;line-height:28px;width:100%;font-style:italic;padding:0 20px}
+.lightbox .lightbox-container .header-image .header-copy p{font-size:22px;line-height:28px;width:100%;font-style:italic}
 .lightbox .lightbox-container .container{padding:40px;}
 .lightbox .lightbox-container .container h3{font-size:20px;line-height:30px}
 .lightbox .lightbox-container .container p{font-size:18px;line-height:30px;margin-bottom:30px;color:#414141}
@@ -301,23 +301,28 @@ body .hero .wrapper{padding:70px 0 100px;}
 body .hero .wrapper .logo{height:140px;width:140px;-webkit-background-size:140px;-moz-background-size:140px;background-size:140px;margin-bottom:10px}
 body .hero .wrapper h1{font-size:70px;line-height:78px}
 body .hero .wrapper p{font-size:22px;line-height:32px;width:100%;padding:0 40px}
+body .sub-hero{background-attachment:scroll;padding:100px 0}
 body section .intro{padding:50px 0;}
-body section .intro h2{font-size:30px;line-height:40px;font-style:italic;margin:0 0 10px;padding:0}
-body section .intro h1{text-transform:uppercase;font-size:42px;line-height:48px;color:#212121;margin-bottom:0}
+body section .intro h2{font-size:26px;line-height:36px;font-style:italic;margin:0 0 6px;padding:0}
+body section .intro h1{text-transform:uppercase;font-size:40px;line-height:46px;color:#212121;margin-bottom:0}
 body section .intro p{font-size:18px;line-height:33px;color:#414141;margin-bottom:15px}
 body section .slates .slate{width:100% !important;padding-bottom:50% !important;}
 body section .slates .slate .caption{bottom:30px;left:30px;right:30px;}
 body section .slates .slate .caption h2{font-size:36px;line-height:42px}
 body section .slates .slate .caption p{font-size:20px}
+body .wrapper.page{padding-top:30px;padding-bottom:30px}
 body .footer .white-logo{display:none}
 body .footer .nav-links{width:auto}
 body .footer ul{margin-left:0}
 body .lightbox .lightbox-container{width:100%;height:auto;margin:0 auto;}
 body .lightbox .lightbox-container .header-image{width:100%;height:240px;}
-body .lightbox .lightbox-container .header-image .header-copy{padding:0 20px;}
+body .lightbox .lightbox-container .header-image .header-copy{padding:0 10px;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;}
 body .lightbox .lightbox-container .header-image .header-copy h2{font-size:38px;line-height:44px;margin:0 0 10px}
 body .lightbox .lightbox-container .header-image .header-copy p{font-size:20px;line-height:26px;width:100%;font-style:italic}
 body .lightbox .lightbox-container .container{padding:40px 20px}
+.giving .wrapper.page{padding-top:30px;padding-bottom:30px;}
+.giving .wrapper.page .giving-copy,.giving .wrapper.page .bank-details{text-align:center;width:100%;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding:0 10px}
+.giving .wrapper.page .bank-details{margin-top:30px}
 }@media all and (max-width: 640px){body .sidebar .entypo.close{top:0}
 body .sidebar .sidebar-container{padding-top:20px}
 body .button{position:relative;padding:18px 0 17px;width:100%}
@@ -328,13 +333,13 @@ body .sub-hero h2{font-weight:300;font-size:30px;line-height:40px;margin:0 0 5px
 body .sub-hero h1{text-transform:uppercase;font-size:55px;line-height:55px;margin-bottom:20px}
 body section .intro .video-container{padding-bottom:56%;position:relative;width:100%;height:0;}
 body section .intro .video-container iframe{position:absolute;width:100%;height:100%;left:0;top:0}
-body .wrapper.page{padding:30px;}
+body .wrapper.page{padding:30px 15px;}
 body .wrapper.page ol{padding-left:20px}
 body .wrapper.page p{font-size:18px;line-height:33px}
 body .wrapper.page .button{margin:10px 0}
 body .footer .nav-links{width:100%;clear:right;}
-body .footer .nav-links ul{margin-left:0;display:block;max-width:100%;margin:0 20px;}
-body .footer .nav-links ul.first{margin:0 20px}
+body .footer .nav-links ul{margin-left:0;display:block;max-width:100%;margin:0;}
+body .footer .nav-links ul.first{margin:0}
 body .footer .nav-links ul li{margin-bottom:10px;font-size:16px}
 body .footer .copyrights{text-align:center;}
 body .footer .copyrights .social-links{clear:right;display:block;font-size:65px;width:100%;}
@@ -343,9 +348,8 @@ body .footer .copyrights .social-links a{color:#a2a2a2;margin-left:10px;text-dec
 body .hero .wrapper{padding:70px 0 100px;}
 body .hero .wrapper h1{font-size:40px;line-height:46px}
 body .hero .wrapper p{font-size:20px}
-body section .welcome-home{width:100%;height:240px;background:url("../img/welcome-home.jpg");-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;background-position:center left;-webkit-border-radius:4px;border-radius:4px;display:table;overflow:hidden;margin:50px auto 0;text-align:center;position:relative;cursor:pointer;color:#fff}
 body section .slates .slate{width:100% !important;padding:0 !important;display:table;height:auto !important;position:relative;}
-body section .slates .slate .caption{position:relative;display:block;vertical-align:middle;text-align:center;bottom:0;left:0;right:0;width:100%;padding:100px 0;}
+body section .slates .slate .caption{position:relative;display:block;vertical-align:middle;text-align:center;bottom:0;left:0;right:0;width:100%;padding:80px 0;}
 body section .slates .slate .caption h2{font-size:30px;line-height:36px;text-align:center;width:100%}
 body section .slates .slate .caption p{display:none}
 }@media screen and (min-height: 1240px){body .wrapper.page{min-height:800px}

@@ -107,21 +107,25 @@
           line-height: @font-size + 10px
           width: 100%
           padding: 0 40px
-          
+    
+    .sub-hero
+      background-attachment: scroll
+      padding: 100px 0
+      
     // Intro sections on the homepage
     section .intro
       padding: 50px 0
       
       h2
-        font-size: 30px
+        font-size: 26px
         line-height: @font-size + 10px
         font-style: italic
-        margin: 0 0 10px
+        margin: 0 0 6px
         padding: 0
         
       h1
         text-transform: uppercase
-        font-size: 42px
+        font-size: 40px
         line-height: @font-size + 6px
         color: $dark
         margin-bottom: 0
@@ -149,6 +153,10 @@
             p
               font-size: 20px
               
+    .wrapper.page
+      padding-top: 30px
+      padding-bottom: 30px
+              
     .footer
       .white-logo
         display: none
@@ -170,7 +178,8 @@
           height: 240px
           
           .header-copy
-            padding: 0 20px
+            padding: 0 10px
+            box-sizing: border-box
             
             h2
               font-size: 38px
@@ -185,6 +194,20 @@
           
         .container
           padding: 40px 20px
+          
+  .giving
+    .wrapper.page
+      padding-top: 30px
+      padding-bottom: 30px
+      
+      .giving-copy, .bank-details
+        text-align: center
+        width: 100%
+        box-sizing: border-box
+        padding: 0 10px
+        
+      .bank-details
+        margin-top: 30px
           
 @media $media-mobile
   
@@ -241,7 +264,7 @@
           top: 0
         
     .wrapper.page
-      padding: 30px
+      padding: 30px 15px
       
       ol
         padding-left: 20px
@@ -262,10 +285,10 @@
           margin-left: 0px
           display:block
           max-width: 100%
-          margin 0 20px
+          margin 0
           
           &.first
-            margin 0 20px
+            margin 0
           
           li
             margin-bottom: 10px
@@ -301,22 +324,6 @@
           
         p
           font-size: 20px
-      
-    section
-      .welcome-home
-        width: 100%
-        height: 240px
-        background: url('../img/welcome-home.jpg')
-        background-size: cover
-        background-position: center left
-        border-radius: 4px
-        display: table
-        overflow: hidden
-        margin: 50px auto 0
-        text-align: center
-        position: relative
-        cursor: pointer
-        color: $white
         
     section
       .slates
@@ -336,7 +343,7 @@
             left: 0
             right: 0
             width: 100%
-            padding: 100px 0
+            padding: 80px 0
             
             h2
               font-size: 30px
