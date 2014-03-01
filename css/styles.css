@@ -14,12 +14,12 @@ blockquote{padding-left:20px;border-left:3px solid rgba(0,0,0,0.1)}
 .right{float:right}
 .left{float:left}
 .clearfix{clear:both}
-input.button,a.button{position:relative;color:#a2a2a2;border:2px solid #a2a2a2;font-family:"brandon-grotesque",sans-serif;text-transform:uppercase;font-size:16px;letter-spacing:1px;padding:13px 22px 11px;-webkit-border-radius:5px;border-radius:5px;cursor:pointer;text-decoration:none;-webkit-transition:all 300ms ease;-moz-transition:all 300ms ease;-o-transition:all 300ms ease;-ms-transition:all 300ms ease;transition:all 300ms ease;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-weight:600;}
-input.button:hover,a.button:hover{color:#212121;border:2px solid #212121}
-input.button.giving,a.button.giving{color:#fff;background-color:#414141;border-color:#414141;}
-input.button.giving:hover,a.button.giving:hover{background-color:#212121;border-color:#212121}
-input.button span,a.button span{font-size:44px;line-height:30px;left:20px;top:12px;position:absolute}
-input.button{font-weight:500;font-size:17px;padding:18px 50px 16px;-webkit-appearance:none}
+button.button,a.button{position:relative;color:#a2a2a2;border:2px solid #a2a2a2;font-family:"brandon-grotesque",sans-serif;text-transform:uppercase;font-size:16px;letter-spacing:1px;padding:13px 22px 11px;-webkit-border-radius:5px;border-radius:5px;cursor:pointer;text-decoration:none;-webkit-transition:all 300ms ease;-moz-transition:all 300ms ease;-o-transition:all 300ms ease;-ms-transition:all 300ms ease;transition:all 300ms ease;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-weight:600;}
+button.button:hover,a.button:hover{color:#212121;border:2px solid #212121}
+button.button.giving,a.button.giving{color:#fff;background-color:#414141;border-color:#414141;}
+button.button.giving:hover,a.button.giving:hover{background-color:#212121;border-color:#212121}
+button.button span,a.button span{font-size:44px;line-height:30px;left:20px;top:12px;position:absolute}
+button.button{font-weight:500;font-size:17px;padding:18px 50px 16px;-webkit-appearance:none}
 table{border:1px solid #e1e1e1;border-collapse:collapse;vertical-align:top;font-size:14px;line-height:22px;color:#414141;-webkit-box-shadow:0 2px 3px rgba(0,0,0,0.06);box-shadow:0 2px 3px rgba(0,0,0,0.06);width:100%;}
 table + *{margin-top:20px}
 table thead{text-align:left;background:#fdfdfd;}
@@ -252,8 +252,10 @@ section .intro small{display:block;color:#a2a2a2;font-style:italic}
 section .intro#giving p{margin-bottom:40px}
 .slates{font-size:0;width:100%;height:100%;display:block;}
 .slates .slate{position:relative;float:left;cursor:pointer;overflow:hidden;background:#fff;}
-.slates .slate .background-image{position:absolute;width:100%;height:100%;-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;background-position:center center;background-repeat:no-repeat;-webkit-transition:all 300ms ease;-moz-transition:all 300ms ease;-o-transition:all 300ms ease;-ms-transition:all 300ms ease;transition:all 300ms ease;opacity:.8;-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";filter:alpha(opacity=80);-webkit-box-shadow:inset 0 0 0 1000px rgba(0,0,0,0);box-shadow:inset 0 0 0 1000px rgba(0,0,0,0)}
-.slates .slate:hover .background-image{-webkit-transform:scale(1.05);-moz-transform:scale(1.05);-o-transform:scale(1.05);-ms-transform:scale(1.05);transform:scale(1.05);-webkit-box-shadow:inset 0 0 0 1000px rgba(255,242,0,0.8);box-shadow:inset 0 0 0 1000px rgba(255,242,0,0.8)}
+.slates .slate .background-image{position:absolute;width:100%;height:100%;-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;background-position:center center;background-repeat:no-repeat;-webkit-transition:all 300ms ease;-moz-transition:all 300ms ease;-o-transition:all 300ms ease;-ms-transition:all 300ms ease;transition:all 300ms ease;opacity:.8;-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";filter:alpha(opacity=80);-webkit-box-shadow:inset 0 0 0 1000px rgba(0,0,0,0);box-shadow:inset 0 0 0 1000px rgba(0,0,0,0);}
+.slates .slate .background-image:before{content:'';height:100%;width:100%;position:absolute;left:0;top:0;background:-webkit-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0) 70%, rgba(0,0,0,0.9));background:-moz-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0) 70%, rgba(0,0,0,0.9));background:-o-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0) 70%, rgba(0,0,0,0.9));background:-ms-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0) 70%, rgba(0,0,0,0.9));background:linear-gradient(to bottom, rgba(0,0,0,0), rgba(0,0,0,0) 70%, rgba(0,0,0,0.9));z-index:1;-webkit-transition:opacity 300ms ease;-moz-transition:opacity 300ms ease;-o-transition:opacity 300ms ease;-ms-transition:opacity 300ms ease;transition:opacity 300ms ease}
+.slates .slate:hover .background-image{-webkit-transform:scale(1.05);-moz-transform:scale(1.05);-o-transform:scale(1.05);-ms-transform:scale(1.05);transform:scale(1.05);-webkit-box-shadow:inset 0 0 0 1000px rgba(255,242,0,0.8);box-shadow:inset 0 0 0 1000px rgba(255,242,0,0.8);}
+.slates .slate:hover .background-image:before{opacity:0;-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";filter:alpha(opacity=0)}
 .slates .slate:hover .caption{color:#212121}
 .slates .slate .caption{color:#fff;position:absolute;bottom:30px;left:30px;right:30px;-webkit-transition:color 300ms ease;-moz-transition:color 300ms ease;-o-transition:color 300ms ease;-ms-transition:color 300ms ease;transition:color 300ms ease;}
 .slates .slate .caption h2{font-size:34px;line-height:40px;font-family:"brandon-grotesque",sans-serif;text-transform:uppercase;font-weight:900;letter-spacing:1px}
@@ -275,8 +277,8 @@ section .intro#giving p{margin-bottom:40px}
 .wrapper.page li{list-style-type:initial;margin-bottom:10px}
 .wrapper.page ol li{list-style-type:decimal}
 .giving .wrapper.page{padding:80px 0;}
-.giving .wrapper.page .button{display:inline-block;margin:20px auto 10px;min-width:300px}
-.giving .wrapper.page .payment-icons{width:243px;height:30px;background-image:url("../img/payment-icons.svg");background-position:center center;background-repeat:no-repeat;margin:10px 0 0;opacity:.3;-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=30)";filter:alpha(opacity=30);display:inline-block}
+.giving .wrapper.page .button{display:inline-block;margin:20px auto 10px;min-width:300px;position:relative;}
+.giving .wrapper.page .button:after{content:'';position:absolute;width:100%;bottom:-50px;left:0;height:30px;background-image:url("../img/payment-icons.svg");background-position:center center;background-repeat:no-repeat;-webkit-background-size:80%;-moz-background-size:80%;background-size:80%;margin:10px 0 0;opacity:.3;-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=30)";filter:alpha(opacity=30);display:inline-block}
 .giving .wrapper.page small{display:block;font-style:italic;font-size:12px}
 .giving .wrapper.page .giving-copy{padding-right:40px;width:70%}
 .giving .wrapper.page .bank-details{width:30%;}
@@ -349,6 +351,7 @@ body .hero .wrapper{padding:70px 0 100px;}
 body .hero .wrapper h1{font-size:40px;line-height:46px}
 body .hero .wrapper p{font-size:20px}
 body section .slates .slate{width:100% !important;padding:0 !important;display:table;height:auto !important;position:relative;}
+body section .slates .slate .background-image:before{opacity:0;-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";filter:alpha(opacity=0)}
 body section .slates .slate .caption{position:relative;display:block;vertical-align:middle;text-align:center;bottom:0;left:0;right:0;width:100%;padding:80px 0;}
 body section .slates .slate .caption h2{font-size:30px;line-height:36px;text-align:center;width:100%}
 body section .slates .slate .caption p{display:none}
