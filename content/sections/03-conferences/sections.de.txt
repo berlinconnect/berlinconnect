@@ -7,11 +7,11 @@ SlateSize: rectangle
 
 Title: Conferences
 ----
-Intro: Connecting to a bigger picture
+Intro: Connecting to a bigger picture.
 ----
 
 Text: 
-Hillsong & Colour Conferences are annual gatherings, uniting people from all walks of life to live out and fulfill the God-given purpose for our lives.
+Hillsong & Colour Conferences are annual gatherings, uniting people from all walks of life to live out and fulfil the God-given purpose for our lives.
 
 ###Hillsong Conference
 
@@ -19,7 +19,7 @@ Hillsong Conference is all about championing the cause of the local church. It i
 
 | Dates        |            |
 | ------------- |-------------|
-| July 23rd - 25th | Hillsong Conference Europe 2014 London - (link:http://www.hillsongconference.com/london/ text: Find out more)|
+| July 23rd - 25th | Hillsong Conference Europe 2014 in London - (link:http://www.hillsongconference.com/london/ text: Find out more)|
 
 (vimeo: http://vimeo.com/69829694 width: 100%)
 

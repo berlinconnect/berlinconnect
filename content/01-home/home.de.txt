@@ -12,7 +12,7 @@ SundaySubTitle: A little about...
 ----
 SundayTitle: Berlin Connect
 ----
-SundayCopy: Berlin Connect is a multicultural church in the heart of our city. Our philosophy is simply to love God, love people and love life.  Our motto is "come as you are".
+SundayCopy: Berlin Connect is a multicultural church in the heart of Berlin. Our philosophy is simply to love God, love people and love life. Our motto is: “Come as you are”.
 
 (vimeo: http://vimeo.com/58633943 width: 480 height: 340)
 ----
@@ -21,14 +21,14 @@ CommunitySubTitle: Connecting our Sundays to our Midweek
 ----
 CommunityTitle: Community
 ----
-CommunityCopy: Sitting around a table of friendship & family is important to us all! As Sundays get bigger in numbers our midweek connections need to get more meaningful and personal. What we learn on Sundays about Christ and his kindness towards us we get to put into practice midweek in our dinner parties and across every area of our lives.
+CommunityCopy: Sitting around a table of friendship and family is important to us all. As Sundays get bigger in numbers, we want our midweek connections to get more meaningful and personal. What we learn on Sundays about Christ and His kindness towards us, we get to put into practice midweek in our Dinner Parties and across every area of our lives.
 ----
 
 SocialSubTitle: Shining brightly in society
 ----
 SocialTitle: Social Enterprise
 ----
-SocialCopy: Out of an overflow we want to serve our city through restoring value, giving and equipping leaders in business and civic areas.
+SocialCopy: Our desire is to contribute to the well-being of society as a whole through social enterprise and leadership innovation. Out of the overflow of our lives we can serve our city by getting involved, finding and supporting positive solutions that place value, speak to people's potential and point to vision that shapes a better society.
 ----
 
 JoinUsSubTitle: Are you free this Sunday?
