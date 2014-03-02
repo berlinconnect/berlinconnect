@@ -19,4 +19,4 @@ fields:
   bankdetails: 
     label: Text
     type:  textarea
-    size:  large
+    size:  large 

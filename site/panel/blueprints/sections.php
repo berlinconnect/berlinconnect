@@ -9,14 +9,12 @@ fields:
   id:
     label: Unique ID (eg: sunday, kids, giving)
     type:  text
-  section:
-    label: Umbrella
-    type: select
-    options:
-      1: Sundays
-      2: Community
-      3: Social
-    default: 1
+  umbrella:
+    label: Section
+    type: text
+  slatesize:
+    label: Size
+    type: text
   title: 
     label: Title
     type:  text

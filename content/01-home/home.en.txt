@@ -28,7 +28,7 @@ SocialSubTitle: Shining brightly in society
 ----
 SocialTitle: Social Enterprise
 ----
-SocialCopy: Our desire is to contribute to the well-being of society as a whole through social enterprise and leadership innovation. Out of the overflow of our lives we can serve our city by getting involved, finding and supporting positive solutions that place value, speak to people's potential and point to vision that shapes a better society.
+SocialCopy: Our desire is to contribute to the well-being of society as a whole through social enterprise and leadership innovation. Out of the overflow of our lives we can serve our city by getting involved, finding and supporting positive solutions that place value, speak to peoples potential and point to vision that shapes a better society.
 ----
 
 JoinUsSubTitle: Are you free this Sunday?

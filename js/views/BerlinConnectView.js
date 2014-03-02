@@ -15,11 +15,11 @@ define([
     'events': {
 
       'click .scroll a[href*=#]': 'scrollToAnchor',
-      'click .slate, .sidebar-container li, .nav-links ul li': 'onLickLightboxLink',
+      'click .slate, .sidebar-container li.internal, .nav-links ul li': 'onLickLightboxLink',
       'click .lightbox .close, .lightbox .lightbox-overlay': 'closeLightbox',
       'click .sidebar-control': 'toggleSidebar',
       'click .sidebar .close': 'closeSidebar',
-      'mousedown *[data-track]': 'onClickAnylyticsLink',
+      'mousedown button[data-track]': 'onClickAnylyticsLink',
     },
 
     'render': function() {
@@ -37,6 +37,8 @@ define([
 
       // Check if mobile
       self.isMoblie();
+
+      self.stickyMenu();
 
       // self.checkHash();
     },
@@ -72,13 +74,10 @@ define([
       }).attr('target', '_blank');
     },
 
-
-
     'trackEvent': function (section, area, action) {
 
       return _gaq.push(['_trackEvent', section, area, action]);
     },
-
 
     'onClickAnylyticsLink':function (ev) {
 
@@ -100,7 +99,7 @@ define([
       var self = this;
       var $body = $('body');
 
-      $body.toggleClass('active');
+      $body.addClass('active');
 
       // document.location.hash = '!';
 
@@ -117,13 +116,27 @@ define([
 
     },
 
+    'stickyMenu': function () {
+
+      var self = this;
+      var $header = $(".menu"),
+      $clone = $header.before($header.clone().addClass("clone"));
+      
+      $(window).on("scroll", function() {
+        var fromTop = $(window).scrollTop();
+        var height = $('.hero, .sub-hero').height();
+        console.log(fromTop);
+        $(".menu.clone").toggleClass("down", (fromTop > height));
+      });
+    },
+
     'onLickLightboxLink': function (ev) {
 
       var self = this;
       var $target = $(ev.target);
 
-      if (!$target.hasClass('slate, sidebar-container li, nav-links ul li ')) {
-        $target = $target.closest('.slate, .sidebar-container li, .nav-links ul li');
+      if (!$target.hasClass('slate, sidebar-container li.internal, nav-links ul li ')) {
+        $target = $target.closest('.slate, .sidebar-container li.internal , .nav-links ul li');
       }
 
       var elementId = $target.attr('id');
@@ -136,21 +149,27 @@ define([
       // document.location.hash = '!';
 
       $('.lightbox.' + id).removeClass('hidden');
-      $('.lightbox .lightbox-overlay').removeClass('hidden'); 
+      $('.dark-overlay').removeClass('hideme');
+      $('.lightbox .lightbox-overlay').removeClass('hidden');
+      $('body').css("overflow", "hidden");
 
       // window.location.hash = id;
     },
 
-    'closeLightbox': function (ev) {
+    'closeLightbox': function () {
 
       var self = this;
       var $lightbox = $('.lightbox');
 
       $lightbox.addClass('hide');
+      $('.dark-overlay').addClass('hide');
+      $('body').css("overflow", "auto"); 
 
       setTimeout(function() {
         $lightbox.addClass('hidden');
+        $('.dark-overlay').addClass('hideme');
         $lightbox.removeClass('hide');
+        $('.dark-overlay').removeClass('hide');
       }, 500);
 
       // document.location.hash = '!';
@@ -197,12 +216,10 @@ define([
 
         var position = $(window).scrollTop();
 
+        var height = $('.hero').height();
+
         Backbone.Events.trigger('scroll', position);
 
-        if(position > 800) {
-
-          $("body").removeClass("active", 1000);
-        }
       }  
 
       throttledPositionCheck = _.throttle(checkPosition, 250);
