@@ -19,7 +19,7 @@ define([
       'click .lightbox .close, .lightbox .lightbox-overlay': 'closeLightbox',
       'click .sidebar-control': 'toggleSidebar',
       'click .sidebar .close': 'closeSidebar',
-      'mousedown a[data-track]': 'onClickAnylyticsLink',
+      'mousedown *[data-track]': 'onClickAnylyticsLink',
     },
 
     'render': function() {
