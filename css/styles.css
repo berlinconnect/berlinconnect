@@ -283,6 +283,13 @@ section .intro#giving p{margin-bottom:40px}
 .giving .wrapper.page .giving-copy{padding-right:40px;width:70%}
 .giving .wrapper.page .bank-details{width:30%;}
 .giving .wrapper.page .bank-details p{font-size:16px;line-height:24px;margin-bottom:10px}
+body.error{background:url("/img/404.jpg") center center no-repeat;-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;color:#fff !important;}
+body.error .wrapper.page h1,body.error .wrapper.page p,body.error .wrapper.page a{color:#fff;text-decoration:none}
+body.error .wrapper.page .logo{background:url("../img/logo.png");background-image:url("../img/logo.svg"),none;background-position:center center;background-repeat:no-repeat;height:200px;width:200px;-webkit-background-size:200px;-moz-background-size:200px;background-size:200px;margin:0 auto 49px}
+body.error .wrapper.page h1{font-size:60px !important;line-height:60px !important;margin-bottom:10px}
+body.error .wrapper.page a.button{border:2px solid #fff;}
+body.error .wrapper.page a.button:hover{background:#fff;border:2px solid #fff;color:#212121}
+body.error .wrapper.page .social-links a{font-size:60px;margin:10px}
 @media all and (min-width: 1550px){body .slates{width:1550px;height:100%;margin:0 auto}
 }@media all and (min-width: 940px){body section .intro{width:700px}
 }@media all and (max-width: 940px){body .wrapper{width:800px;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding:0 10px}
