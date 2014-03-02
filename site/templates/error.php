@@ -5,3 +5,4 @@
   <?= kirbytext($page->text()) ?>
   <?php snippet('sociallinks') ?>
 </div>
+<?php snippet('footer') ?>
