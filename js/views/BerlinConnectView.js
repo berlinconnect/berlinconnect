@@ -35,6 +35,9 @@ define([
       // Check Scroll Position
       self.outsideLinks();
 
+      // Check if mobile
+      self.isMoblie();
+
       // self.checkHash();
     },
 
@@ -48,6 +51,17 @@ define([
     //   self.openLightbox(hash);
     // },
 
+    isMoblie  :function() {
+
+      var self = this;
+
+      var isiDevice = /ipad|iphone|ipod/i.test(navigator.userAgent.toLowerCase());
+
+      if (isiDevice)
+      {
+        $('*').css("background-attachment", "scroll")
+      }
+    },
 
     outsideLinks:function() {
 
