@@ -1,4 +1,4 @@
-Title: Home
+Title: Welcome Home
 ----
 
 HeroTitle: Welcome Home

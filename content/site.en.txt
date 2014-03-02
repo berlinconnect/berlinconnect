@@ -2,7 +2,7 @@ Title: Berlin Connect
 ----
 Author: Berlin Connect
 ----
-Description: Berlin Connect is a multicultural church in the heart of our city. Our philosophy is simply to love God, love people and love life.  Our motto is "come as you are".
+Description: Berlin Connect is a multicultural church in the heart of the city. Our philosophy is simply to love God, love people and love life.  Our motto is "come as you are".
 ----
 Copyright: © Berlin Connect 2014
 ----
