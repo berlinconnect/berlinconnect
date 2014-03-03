@@ -17,6 +17,6 @@ fields:
     type:  textarea
     size:  large
   bankdetails: 
-    label: Text
+    label: Bank Details
     type:  textarea
     size:  large 

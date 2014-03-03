@@ -9,12 +9,15 @@ fields:
   id:
     label: Unique ID (eg: sunday, kids, giving)
     type:  text
+    help: This is a unique ID. It should describe the content. It can't have spaces or capital letters.
   umbrella:
-    label: Section
+    label: Umbrella
     type: text
+    help: This is the part the section goes in. It can be either Sundays, Community or Social 
   slatesize:
     label: Size
     type: text
+    help: This determines the size of the container with the image. It can be big-square, small-square or rectangle
   title: 
     label: Title
     type:  text

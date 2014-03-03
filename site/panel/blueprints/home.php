@@ -9,23 +9,29 @@ fields:
   title: 
     label: Title
     type:  text
+    help: This is the page title.
   herotitle: 
     label: Hero Title
     type:  text
+    help: This is the title in the hero image.
   herocopy: 
     label: Hero Copy
     type:  textarea
     size:  medium
+    help: This is the text below the hero title.
   sundaysubtitle:
     label: Sunday Subtitle
     type: text
+    help: This is the about Berlin Connect subtitle above the title in uppercase.
   sundaytitle:
     label: Sunday Tile
     type: text
+    help: This is the uppercase title below the subtitle.
   sundaycopy:
     label: Sunday Copy
     type: textarea
     size: medium
+    help: This is the text about Berlin Connect
   communitysubtitle:
     label: Community Subtitle
     type: text
