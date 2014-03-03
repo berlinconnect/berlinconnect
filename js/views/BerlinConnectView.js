@@ -69,7 +69,7 @@ define([
         $('.video-hero').addClass('fadeOut');
       }, 1000);
 
-      $("video").bind("ended", function() {
+      $(".video-hero video").bind("ended", function() {
         $('.video-hero').addClass('backgroundAdded');
       });
 
@@ -123,7 +123,7 @@ define([
       var self = this;
       var $body = $('body');
 
-      $body.addClass('active');
+      $body.toggleClass('active');
 
       // document.location.hash = '!';
 
