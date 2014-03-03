@@ -1,5 +1,5 @@
-Title: 404
+Title: Oh No!
 ----
-Text: Hmmm, it's seems we couldn't find the page you were looking for. Not to worry, you're not lost, click the button below. :)
+Text: It's seems we couldn't find the page you were looking for. Not to worry, you're not lost, click the button below. :)
 
 (link: / text: Head Back Home class: button)

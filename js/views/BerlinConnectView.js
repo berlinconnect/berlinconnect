@@ -38,7 +38,11 @@ define([
       // Check if mobile
       self.isMoblie();
 
+      // Creates a sticky menu
       self.stickyMenu();
+
+      //
+      self.videoHider();
 
       // self.checkHash();
     },
@@ -53,15 +57,35 @@ define([
     //   self.openLightbox(hash);
     // },
 
+    'videoHider': function() {
+
+      var self = this;
+
+      // setTimeout(function() {
+      //   $('.video-hero .logo').addClass('fadeIn');
+      // }, 12000);
+
+      setTimeout(function() {
+        $('.video-hero').addClass('fadeOut');
+      }, 1000);
+
+      $("video").bind("ended", function() {
+        $('.video-hero').addClass('backgroundAdded');
+      });
+
+    },
+
     isMoblie  :function() {
 
       var self = this;
 
-      var isiDevice = /ipad|iphone|ipod/i.test(navigator.userAgent.toLowerCase());
+      var ismobileDevice = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent.toLowerCase());
 
-      if (isiDevice)
+      if (ismobileDevice)
       {
         $('*').css("background-attachment", "scroll")
+        $('.mobile').removeClass("hidden")
+        $('.desktop').addClass("hidden")
       }
     },
 
@@ -124,7 +148,7 @@ define([
       
       $(window).on("scroll", function() {
         var fromTop = $(window).scrollTop();
-        var height = $('.hero, .sub-hero').height();
+        var height = $('.hero, .sub-hero, .video-hero').height();
         console.log(fromTop);
         $(".menu.clone").toggleClass("down", (fromTop > height));
       });
