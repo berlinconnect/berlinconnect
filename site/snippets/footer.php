@@ -23,7 +23,7 @@
           </li>
           <?php endforeach ?>
           <?php foreach($pages->find('sections')->children()->filterBy('umbrella', 'Social') as $section): ?>
-          <li id="<?= $section->id() ?>" class="lvl-1">
+          <li id="<?= $section->id() ?>" class="lvl-1 internal">
             <a>
               <?php echo html($section->title()) ?>
             </a>

@@ -15,7 +15,7 @@ define([
     'events': {
 
       'click .scroll a[href*=#]': 'scrollToAnchor',
-      'click .slate, .sidebar-container li.internal, .nav-links ul li': 'onLickLightboxLink',
+      'click .slate, .sidebar-container li.internal, .nav-links ul li.internal': 'onLickLightboxLink',
       'click .lightbox .close, .lightbox .lightbox-overlay': 'closeLightbox',
       'click .sidebar-control': 'toggleSidebar',
       'click .sidebar .close': 'closeSidebar',
