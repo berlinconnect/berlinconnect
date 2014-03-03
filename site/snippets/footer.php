@@ -7,7 +7,7 @@
           <li class="lvl-1"><a href="<?php echo url('/') ?>">Home</a></li>
           <!-- <li class="lvl-1"><a href="/#about">About</a></li> -->
           <?php foreach($pages->find('sections')->children()->filterBy('umbrella', 'Sundays') as $section): ?>
-          <li id="<?= $section->id() ?>" class="lvl-1">
+          <li id="<?= $section->id() ?>" class="lvl-1 internal">
             <a>
               <?php echo html($section->title()) ?>
             </a>
@@ -16,7 +16,7 @@
         </ul>
         <ul class="column">
           <?php foreach($pages->find('sections')->children()->filterBy('umbrella', 'Community') as $section): ?>
-          <li id="<?= $section->id() ?>" class="lvl-1">
+          <li id="<?= $section->id() ?>" class="lvl-1 internal">
             <a>
               <?php echo html($section->title()) ?>
             </a>
