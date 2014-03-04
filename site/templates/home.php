@@ -2,13 +2,13 @@
 <?php snippet('menu') ?>
 <?php snippet('sidebar') ?>
 <div class="content">
-  <!-- <div class="desktop">
+  <div class="desktop">
     <?php snippet('videohero') ?>
   </div>
   <div class="mobile hidden">
     <?php snippet('hero') ?>
-  </div> -->
-  <?php snippet('hero') ?>
+  </div>
+  
   <section class="sundays">
     <div class="wrapper">
       <div id="about" class="intro center">
