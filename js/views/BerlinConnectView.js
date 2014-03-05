@@ -149,7 +149,6 @@ define([
       $(window).on("scroll", function() {
         var fromTop = $(window).scrollTop();
         var height = $('.hero, .sub-hero, .video-hero').height();
-        console.log(fromTop);
         $(".menu.clone").toggleClass("down", (fromTop > height));
       });
     },
@@ -252,6 +251,7 @@ define([
 
         if (position + windowHeight == documentHeight) {
           $(".menu.clone").toggleClass("down");
+          $("body").removeClass('active');
         }
 
       }  
