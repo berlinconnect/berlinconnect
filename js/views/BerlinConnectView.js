@@ -240,9 +240,19 @@ define([
 
         var position = $(window).scrollTop();
 
+        var windowHeight = $(window).height();
+
+        var documentHeight = $(document).height();
+
         var height = $('.hero').height();
 
+        var footerHeight = $('footer').height();
+
         Backbone.Events.trigger('scroll', position);
+
+        if (position + windowHeight == documentHeight) {
+          $(".menu.clone").toggleClass("down");
+        }
 
       }  
 
