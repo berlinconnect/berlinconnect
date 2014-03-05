@@ -1,7 +1,8 @@
 <div class="sidebar">
+  <div class="menu-message"><span class="entypo close"></span><span class="nav-text">Navigate through the site</span><span class="close-text">Close this sidebar</span></div>
   <ul class="sidebar-container">
     
-    <li class="lvl-1"><a href="<?php echo url('/') ?>">Home</a> <span class="entypo close"></span></li>
+    <li class="lvl-1"><a href="<?php echo url('/') ?>">Home</a> </li>
     <h4>Sundays</h4>
     <?php foreach($pages->find('sections')->children()->filterBy('umbrella', 'Sundays') as $section): ?>
     <li id="<?= $section->id() ?>" class="lvl-1 internal">
