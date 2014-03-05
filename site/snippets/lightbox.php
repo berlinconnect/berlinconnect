@@ -13,6 +13,9 @@
     <div class="container">
       <?php echo kirbytext($section->text()) ?>
     </div>
+    <div class="center button-container">
+      <a class="close-lightbox button">Done</a>
+    </div>
   </div>
 
 </div>
