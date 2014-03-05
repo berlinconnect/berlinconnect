@@ -75,7 +75,7 @@ define([
 
     },
 
-    isMoblie  :function() {
+    'isMoblie':function() {
 
       var self = this;
 
@@ -89,7 +89,7 @@ define([
       }
     },
 
-    outsideLinks:function() {
+    'outsideLinks':function() {
 
       var self = this;
 

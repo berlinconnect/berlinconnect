@@ -1,3 +1,45 @@
+@media $media-desktop-wide
+  body
+    .menu
+      display: none
+      
+    .sidebar-container
+      transform: scale(1)
+      z-index: 1
+      
+    .sidebar
+      transform: translateX(0)
+      z-index: 1
+      
+      .menu-message
+        display: none
+      
+      .social-links
+        opacity: 1
+        
+      .sidebar-container     
+        opacity: 1
+          
+      .logo-outline
+        opacity: 0.4
+    
+    .content
+    .footer
+      transform: translateX(-160px)
+        
+    &.active
+      .content
+      .menu
+      .footer
+        transform: translateX(0)
+        
+    .footer
+      .nav-links
+      .white-logo
+        display: none
+        
+      
+
 @media $media-desktop-big
 
   body
