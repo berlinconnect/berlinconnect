@@ -145,7 +145,7 @@ define([
       var self = this;
       var $header = $(".menu"),
       $clone = $header.before($header.clone().addClass("clone"));
-      
+
       $(window).on("scroll", function() {
         var fromTop = $(window).scrollTop();
         var height = $('.hero, .sub-hero, .video-hero').height();
@@ -186,7 +186,7 @@ define([
 
       $lightbox.addClass('hide');
       $('.dark-overlay').addClass('hide');
-      $('body').css("overflow", "auto"); 
+      $('body').css("overflow", "auto");
 
       setTimeout(function() {
         $lightbox.addClass('hidden');
@@ -218,7 +218,7 @@ define([
 
       var self = this;
       var hash = $(ev.target).closest('a').attr('href');
-      
+
       var $anchor = $(hash);
 
       if($anchor.length) {
@@ -254,7 +254,7 @@ define([
           $("body").removeClass('active');
         }
 
-      }  
+      }
 
       throttledPositionCheck = _.throttle(checkPosition, 250);
 

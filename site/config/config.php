@@ -409,8 +409,8 @@ to set the default locale settings for all PHP functions
 c::set('lang.support', true);
 c::set('lang.default', 'en');
 c::set('lang.available', array('en','de'));
-c::set('lang.detect', false);
-c::set('lang.locale', false);
+c::set('lang.detect', true);
+c::set('lang.locale', true);
 
 
 /* 
