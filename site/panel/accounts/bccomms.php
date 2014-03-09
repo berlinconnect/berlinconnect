@@ -5,6 +5,6 @@
 # for your passwords. read more about encryption in the
 # docs: http://getkirby.com/docs/panel/accounts
 
-username: admin
+username: bccomms
 password: berlinclc
 language: en
