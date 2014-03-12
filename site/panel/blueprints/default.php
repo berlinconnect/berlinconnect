@@ -6,13 +6,20 @@ title: Page
 pages: true
 files: true
 fields:
-  title: 
+  title:
     label: Title
     type:  text
-  subtitle: 
+  subtitle:
     label: Sub Title
     type:  text
-  text: 
+  text:
     label: Text
     type:  textarea
     size:  large
+    buttons:
+      - h3
+      - bold
+      - italic
+      - email
+      - link
+      - vimeo

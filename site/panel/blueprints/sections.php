@@ -13,18 +13,25 @@ fields:
   umbrella:
     label: Umbrella
     type: text
-    help: This is the part the section goes in. It can be either Sundays, Community or Social 
+    help: This is the part the section goes in. It can be either Sundays, Community or Social
   slatesize:
     label: Size
     type: text
     help: This determines the size of the container with the image. It can be big-square, small-square or rectangle
-  title: 
+  title:
     label: Title
     type:  text
-  intro: 
+  intro:
     label: Intro
     type:  text
-  text: 
+  text:
     label: Text
     type:  textarea
     size:  large
+    buttons:
+      - h3
+      - bold
+      - italic
+      - email
+      - link
+      - vimeo

@@ -6,15 +6,15 @@ title: Home
 pages: false
 files: true
 fields:
-  title: 
+  title:
     label: Title
     type:  text
     help: This is the page title.
-  herotitle: 
+  herotitle:
     label: Hero Title
     type:  text
     help: This is the title in the hero image.
-  herocopy: 
+  herocopy:
     label: Hero Copy
     type:  textarea
     size:  medium
@@ -32,6 +32,13 @@ fields:
     type: textarea
     size: medium
     help: This is the text about Berlin Connect
+    buttons:
+      - h3
+      - bold
+      - italic
+      - email
+      - link
+      - vimeo
   communitysubtitle:
     label: Community Subtitle
     type: text
@@ -42,6 +49,13 @@ fields:
     label: Community Copy
     type: textarea
     size: medium
+    buttons:
+      - h3
+      - bold
+      - italic
+      - email
+      - link
+      - vimeo
   socialsubtitle:
     label: Social Subtitle
     type: text
@@ -52,6 +66,13 @@ fields:
     label: Social Copy
     type: textarea
     size: medium
+    buttons:
+      - h3
+      - bold
+      - italic
+      - email
+      - link
+      - vimeo
   joinussubtitle:
     label: Join Us Subtitle
     type: text
@@ -62,3 +83,10 @@ fields:
     label: Join Us Copy
     type: textarea
     size: medium
+    buttons:
+      - h3
+      - bold
+      - italic
+      - email
+      - link
+      - vimeo

@@ -6,17 +6,31 @@ title: Giving
 pages: false
 files: false
 fields:
-  title: 
+  title:
     label: Title
     type:  text
-  subtitle: 
+  subtitle:
     label: Sub Title
     type:  text
-  text: 
+  text:
     label: Text
     type:  textarea
     size:  large
-  bankdetails: 
+    buttons:
+      - h3
+      - bold
+      - italic
+      - email
+      - link
+      - vimeo
+  bankdetails:
     label: Bank Details
     type:  textarea
-    size:  large 
+    size:  large
+    buttons:
+      - h3
+      - bold
+      - italic
+      - email
+      - link
+      - vimeo
