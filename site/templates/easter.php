@@ -1,4 +1,6 @@
 <?php snippet('header') ?>
+<div class="yellow-overlay"></div>
+<div class="concrete-overlay"></div>
 <a href="/"><span class="mini-logo"></span></a>
 <h1 class="heading"><?= $page->title() ?></h1>
 <div class="event-details">
@@ -9,8 +11,8 @@
 
 <div class="links">
   <a href="#">The Story of Easter</a>
-  <a href="#">The Editoral</a>
-  <a href="#">Support Syria</a>
+  <a href="#">Fashion Editoral</a>
+  <a href="https://www.hillsong.com/en/syria/">Support Syria</a>
 </div>
 
 <?php snippet('sociallinks') ?>

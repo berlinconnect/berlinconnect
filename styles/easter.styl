@@ -5,17 +5,37 @@ body.easter
   background-size: cover
   text-align: center
 
+  .yellow-overlay
+    background: rgba(#fff799,0.26)
+    position: fixed
+    width: 100%
+    height: 100%
+    top: 0
+    left: 0
+    z-index: -1
+
+  .concrete-overlay
+    background: url('/img/concrete.jpg') top left repeat
+    position: fixed
+    width: 100%
+    height: 100%
+    top: 0
+    left: 0
+    z-index: -1
+    opacity: 0.2
+
   .heading
     margin: 230px auto 0
     text-transform: uppercase
-    font-size: 140px
+    font-size: 100px
     line-height: @font-size
     color: $blue
     text-align: center
-    letter-spacing: 12px
+    letter-spacing: 50px
     border: 10px solid $blue
     display: inline-block
     padding:25px 55px
+    padding-right: 10px
     transition: all 300ms ease
     animation: fadeIn 300ms ease
 
@@ -28,7 +48,6 @@ body.easter
     font-family: $heading
     font-size: 17px
     line-height: @font-size
-    letter-spacing: 2px
     color: $blue
     text-transform: uppercase
     font-weight: 900
@@ -37,6 +56,7 @@ body.easter
     h2
       font-weight: 900
       margin-bottom: 40px
+      letter-spacing: 2px
 
     a
       display: inline-block
@@ -48,6 +68,7 @@ body.easter
       font-weight: 900
       margin: 0 20px
       transition: all 300ms ease
+      letter-spacing: 2px
 
       &:hover
         color: $yellow
@@ -75,6 +96,3 @@ body.easter
     &:hover
       color: $yellow
       border-color: $yellow
-
-
-
