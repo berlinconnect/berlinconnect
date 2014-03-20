@@ -62,6 +62,9 @@
         <p><?= kirbytext($page->socialcopy()) ?></p>
       </div>
     </div>
+    <div class="easter-teaser">
+      <a href="/easter"><h1 class="heading">EASTER</h1></a>
+    </div>
     <div class="slates">
       <?php foreach($pages->find('sections')->children()->filterBy('umbrella','Social') as $section): ?>
         <div id="<?= $section->id() ?>" class="slate <?= $section->slatesize() ?>">
@@ -72,6 +75,7 @@
           </div>
         </div>
       <?php endforeach ?>
+
       <div class="clearfix"></div>
     </slates>
   </section>
