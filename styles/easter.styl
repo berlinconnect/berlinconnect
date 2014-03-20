@@ -1,74 +1,40 @@
-$blue = #0941d1
+$blue = #fff
 
 body.easter
-
-  .graphic
-    height: 100%
-    width: 100%
-    position: fixed
-    top: 0
-    left: 0
-    font-size: 0
-    z-index: -2
-    display: none
-
-    & div
-      height: 100%
-      font-size: 0
-      display: inline-block
-      background-size: cover
-      background-repeat: no-repeat
-      background-color: $blue
-
-      &.desert
-        width: 50%
-        background-position: top left
-        background-image: url('/img/desert.jpg')
-
-      &.tropic
-        width: 25%
-        background-position: bottom left
-
-        &.one
-          background-image: url('/img/tropic1.jpg')
-
-        &.two
-          background-image: url('/img/tropic2.jpg')
-
-
-  .yellow-overlay
-    background: rgba(#fff799,0.26)
-    position: fixed
-    width: 100%
-    height: 100%
-    top: 0
-    left: 0
-    z-index: -1
-
   .hero-image
     width: 100%
-    padding: 150px 0 100px
-    background: $blue url('/img/easter.jpg') bottom center no-repeat
+    padding: 50px 0 50px
+    background: $blue url('/img/easter.jpg') bottom center fixed no-repeat
     background-size: cover
+
+    .mini-logo
+      background-image: url('../img/logo.svg');
+      background-position: center center
+      background-repeat: no-repeat
+      height: 150px
+      width: @height
+      background-size: @height
+      display: block
+      margin: 0 auto 60px
 
     .heading
       margin: 0 auto
       text-transform: uppercase
-      font-size: 100px
+      font-size: 80px
       line-height: @font-size
       color: $blue
       text-align: center
-      letter-spacing: 50px
-      border: 10px solid $blue
+      letter-spacing: 60px
+      border: 12px solid $blue
       display: inline-block
-      padding:25px 55px
-      padding-right: 10px
+      padding:25px 75px
+      padding-right: 30px
       transition: all 300ms ease
       animation: fadeIn 300ms ease
 
-      &:hover
-        color: $yellow
-        border-color: $yellow
+      // &:hover
+      //   color: $yellow
+      //   border-color: $yellow
 
     .event-details
     .links
@@ -101,53 +67,88 @@ body.easter
           color: $yellow
           border-color: $yellow
 
-  .mini-logo
-    background-image: url('../img/logo.svg');
-    background-position: center center
-    background-repeat: no-repeat
-    height: 60px
-    width: @height
-    background-size: @height
-    display: inline-block
-    position: fixed
-    left: 20px
-    top: 20px
-    opacity: 0.5
-    transition: opacity 300ms ease
+    .social-links
+      font-size: 60px
+      margin: 90px 0 50px
 
-    &:hover
-      opacity: 1
-
-  .social-links a
-    font-size: 60px
-    margin: 0 20px 50px
-    text-decoration: none
-    color: $blue
-    transition: all 300ms ease
-
-    &:hover
-      color: $yellow
-      border-color: $yellow
-
-  .section
+      a
+        color: white
+        text-decoration: none
+        margin: 0 20px
+  section
     width: 100%
-    background-image: url('../img/blurred.jpg');
-    background-size: cover
-    background-repeat: no-repeat
     padding: 100px 0
-    color: white
+    color: $dark
 
     h1
       text-transform: uppercase
-      font-size: 50px
-      letter-spacing: 4px
+      font-size: 40px
+      letter-spacing: 6px
+      border: 5px solid $dark
+      padding:10px 50px
+      display: inline-block
+      margin-bottom: 30px
 
     p
       font-size: 20px
-      line-height: @font-size + 13px
-      padding: 0 100px
+      line-height: @font-size + 17px
+      width: 630px
+      margin: 0 auto
+
+      & + p
+        margin-top: 15px
 
     a.button
       margin: 30px 0 0 0
       display: inline-block
       font-size: 20px
+
+    &.fashion
+      background: url('/img/blurred.jpg') bottom center fixed no-repeat
+      background-size: cover
+
+    &.syria
+      background: url('/img/syria.jpg') bottom center no-repeat
+      background-size: cover
+
+      a.button
+        color: #c83941
+        border-color: #c83941
+
+    &.event
+
+      h2
+        margin-bottom: 10px
+
+      p
+        font-size: 20px
+        line-height: @font-size + 10px
+
+      .event-details
+        font-family: $heading
+        font-size: 13px
+        line-height: @font-size + 12px
+        text-transform: uppercase
+        letter-spacing: 2px
+        font-weight: 900
+        margin: 20px 0 0
+
+      small
+        display: block
+        font-style: italic
+        margin-top: 10px
+
+  .footer-image
+    background: $blue url('/img/tropic2.jpg') bottom center fixed no-repeat
+    background-size: cover
+    color: white
+    padding: 60px 0 50px
+    text-align: center
+    font-size: 30px
+    line-height: @font-size
+    font-family: $berlin-connect
+    text-transform: uppercase
+
+    a
+      text-decoration: none
+      color: white
