@@ -1,8 +1,6 @@
 $blue = #0941d1
 
 body.easter
-  // background: $blue url('/img/easter.jpg') center center fixed no-repeat
-  background-size: cover
 
   .graphic
     height: 100%
@@ -12,6 +10,7 @@ body.easter
     left: 0
     font-size: 0
     z-index: -2
+    display: none
 
     & div
       height: 100%
@@ -46,55 +45,61 @@ body.easter
     left: 0
     z-index: -1
 
-  .heading
-    margin: 230px auto 0
-    text-transform: uppercase
-    font-size: 100px
-    line-height: @font-size
-    color: $blue
-    text-align: center
-    letter-spacing: 50px
-    border: 10px solid $blue
-    display: inline-block
-    padding:25px 55px
-    padding-right: 10px
-    transition: all 300ms ease
-    animation: fadeIn 300ms ease
+  .hero-image
+    width: 100%
+    padding: 150px 0 100px
+    background: $blue url('/img/easter.jpg') bottom center no-repeat
+    background-size: cover
 
-    &:hover
-      color: $yellow
-      border-color: $yellow
-
-  .event-details
-  .links
-    font-family: $heading
-    font-size: 17px
-    line-height: @font-size
-    color: $blue
-    text-transform: uppercase
-    font-weight: 900
-    margin: 100px 0
-
-    h2
-      font-weight: 900
-      margin-bottom: 40px
-      letter-spacing: 2px
-
-    a
-      display: inline-block
-      text-decoration: none
-      border: 3px solid $blue
+    .heading
+      margin: 0 auto
+      text-transform: uppercase
+      font-size: 100px
+      line-height: @font-size
       color: $blue
-      padding: 10px 15px
-      font-size: 18px
-      font-weight: 900
-      margin: 0 20px
+      text-align: center
+      letter-spacing: 50px
+      border: 10px solid $blue
+      display: inline-block
+      padding:25px 55px
+      padding-right: 10px
       transition: all 300ms ease
-      letter-spacing: 2px
+      animation: fadeIn 300ms ease
 
       &:hover
         color: $yellow
         border-color: $yellow
+
+    .event-details
+    .links
+      font-family: $heading
+      font-size: 17px
+      line-height: @font-size
+      color: $blue
+      text-transform: uppercase
+      font-weight: 900
+      margin: 100px 0 0
+
+      h2
+        font-weight: 900
+        margin-bottom: 40px
+        letter-spacing: 2px
+
+      a
+        display: inline-block
+        text-decoration: none
+        border: 3px solid $blue
+        color: $blue
+        padding: 10px 15px
+        font-size: 18px
+        font-weight: 900
+        margin: 0 20px
+        transition: all 300ms ease
+        letter-spacing: 2px
+
+        &:hover
+          color: $yellow
+          border-color: $yellow
 
   .mini-logo
     background-image: url('../img/logo.svg');
