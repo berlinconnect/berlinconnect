@@ -2,58 +2,58 @@
   body
     .menu
       display: none
-      
+
     .sidebar-container
       transform: scale(1)
       z-index: 1
-      
+
     .sidebar
       transform: translateX(0)
       z-index: 1
-      
+
       .menu-message
         display: none
-      
+
       .social-links
         opacity: 1
-        
-      .sidebar-container     
+
+      .sidebar-container
         opacity: 1
-          
+
       .logo-outline
         opacity: 0.4
-    
+
     .content
     .footer
       transform: translateX(-160px)
-        
+
     &.active
       .content
       .menu
       .footer
         transform: translateX(0)
-        
+
     .footer
       .nav-links
       .white-logo
         display: none
-        
-      
+
+
 
 @media $media-desktop-big
 
   body
-    
+
     // Give slates a defined width
     .slates
       width: 1550px
       height: 100%
       margin: 0 auto
-      
-@media $media-desktop 
+
+@media $media-desktop
 
   body
-    
+
     // Intro sections on the homepage
     section .intro
       width: 700px
@@ -65,24 +65,24 @@
       width: 800px
       box-sizing: border-box
       padding: 0 10px
-    
+
     // Hero section
     .hero
       .wrapper
         padding: 70px 0 120px
-        
+
         h1
           font-size: 90px
-          
+
         p
           font-size: 26px
           width: 500px
-          
+
     // Footer sections
     .footer
       .nav-links
         width: 538px
-        
+
         ul
           margin-left: 50px
 
@@ -92,27 +92,27 @@
     .wrapper
       width: 750px
       padding: 0 20px
-      
+
     // Hero section
     .hero
       .wrapper
         padding: 70px 0 120px
-        
+
         h1
           font-size: 80px
-          
+
         p
           font-size: 22px
           width: 500px
-          
-    section     
+
+    section
       .slates
-        .slate   
+        .slate
           .caption
             bottom: 15px
             left: 15px
             right: 15px
-            
+
             h2
               font-size: 26px
               line-height: @font-size + 6px
@@ -122,107 +122,118 @@
               letter-spacing: 1px
             p
               font-size: 17px
-          
+
+    &.easter
+      .hero-image
+        .heading
+          font-size: 60px
+          line-height: @font-size
+          color: $blue
+          letter-spacing: 40px
+          border: 8px solid white
+          padding:15px 45px
+          padding-right: 10px
+
 @media $media-full-width
 
   body
     .wrapper
       width: 100%
-      
+
     // Hero section
     .hero
       .wrapper
         padding: 70px 0 100px
-        
+
         .logo
           height: 140px
           width: @height
           background-size: @height
           margin-bottom: 10px
-        
+
         h1
           font-size: 70px
           line-height: @font-size + 8px
-          
+
         p
           font-size: 22px
           line-height: @font-size + 10px
           width: 100%
           padding: 0 40px
-    
+
     .sub-hero
       background-attachment: scroll
       padding: 100px 0
-      
+
     // Intro sections on the homepage
     section .intro
       padding: 50px 0
-      
+
       h2
         font-size: 26px
         line-height: @font-size + 10px
         font-style: italic
         margin: 0 0 6px
         padding: 0
-        
+
       h1
         text-transform: uppercase
         font-size: 40px
         line-height: @font-size + 6px
         color: $dark
         margin-bottom: 0
-        
+
       p
         font-size: 18px
         line-height: @font-size + 15px
         color: $mid
         margin-bottom: 15px
-    
+
     section
       .slates
         .slate
           width:100%  !important
           padding-bottom: 50%  !important
-          
+
           .caption
             bottom: 30px
             left: 30px
             right: 30px
-            
+
             h2
               font-size: 36px
               line-height: @font-size + 6px
             p
               font-size: 20px
-              
+
     .wrapper.page
       padding-top: 30px
       padding-bottom: 30px
-              
+
     .footer
       .white-logo
         display: none
-        
+
       .nav-links
          width: auto
-         
+
         ul
           margin-left: 0px
-          
+
     .lightbox
       .lightbox-container
         width: 96%
         height: auto
         margin: 10px auto
-        
+
         .header-image
           width: 100%
           height: 240px
-          
+
           .header-copy
             padding: 0 8px
             box-sizing: border-box
-            
+
             h2
               font-size: 38px
               line-height: @font-size + 6px
@@ -233,48 +244,54 @@
               line-height: @font-size + 6px
               width: 100%
               font-style: italic
-          
+
         .container
           padding: 40px 20px
-          
-          .video-container 
+
+          .video-container
             padding-bottom: 56%
             position: relative
             width: 100%
             height: 0
-            
+
             iframe
               position: absolute
               width: 100%
               height: 100%
               left: 0
               top: 0
-              
+
         .button-container
           display: block
-          
+
   .giving
     .wrapper.page
       padding-top: 30px
       padding-bottom: 30px
-      
+
       .giving-copy, .bank-details
         text-align: center
         width: 100%
         box-sizing: border-box
         padding: 0 10px
-        
+
       .bank-details
         margin-top: 80px
-          
+
+  body.easter
+    section
+      p
+        width: 100%
+
+
 @media $media-mobile
-  
+
   body
     .sidebar
       .entypo
         &.close
           top: 0
-          
+
       .sidebar-container
         padding-top: 20px
 
@@ -282,17 +299,17 @@
       position: relative
       padding: 18px 0 17px
       width: 100%
-      
+
     .menu
       padding: 13px 0
-  
+
       .typelogo
         padding-top: 3px
         font-size: 28px
-        
+
       .sidebar
         padding-top: 2px
-    
+
     .sub-hero
       h2
         font-weight: 300
@@ -300,58 +317,58 @@
         line-height: @font-size + 10px
         margin: 0 0 5px
         padding: 0
-        
+
       h1
         text-transform: uppercase
         font-size: 50px
         line-height: @font-size
         margin-bottom: 20px
-        
+
     section .intro
-      .video-container 
+      .video-container
         padding-bottom: 56%
         position: relative
         width: 100%
         height: 0
-        
+
         iframe
           position: absolute
           width: 100%
           height: 100%
           left: 0
           top: 0
-        
+
     .wrapper.page
       padding: 30px 15px
-      
+
       ol
         padding-left: 20px
-      
+
       p
         font-size: 18px
         line-height: @font-size + 15px
-        
+
       .button
         margin: 10px 0
-        
+
     .footer
       .nav-links
         width: 100%
         clear:right
-         
+
         ul
           margin-left: 0px
           display:block
           max-width: 100%
           margin 0
-          
+
           &.first
             margin 0
-          
+
           li
             margin-bottom: 10px
             font-size: 16px
-            
+
       .copyrights
         text-align: center
         .social-links
@@ -359,41 +376,54 @@
           display: block
           font-size: 65px
           width: 100%
-          
+
           a
             color: $light
             margin-left: 10px
             text-decoration: none
-            
+
     .lightbox
       .lightbox-container
         .header-image
           height: 200px
-          
+
           .header-copy
             h2
               font-size: 34px
               line-height: @font-size
               margin: 0
-              
+
+  body.easter
+    section
+      h1
+        font-size: 30px
+        letter-spacing: 3px
+        border: 4px solid $dark
+        padding:10px 30px
+        display: inline-block
+
+      p
+        font-size: 17px
+        line-height: @font-size + 17px
+
 @media $media-mobile-portrait
 
   body
     .menu
       .typelogo
         display: none
-    
+
     .hero
       .wrapper
         padding: 70px 0 100px
-        
+
         h1
           font-size: 40px
           line-height: @font-size + 6px
-          
+
         p
           font-size: 20px
-        
+
     section
       .slates
         .slate
@@ -402,11 +432,11 @@
           display: table
           height: auto !important
           position: relative
-          
+
           .background-image
             &:before
               opacity: 0
-          
+
           .caption
             position: relative
             display:block
@@ -417,7 +447,7 @@
             right: 0
             width: 100%
             padding: 60px 0
-            
+
             h2
               font-size: 30px
               line-height: @font-size + 6px
@@ -425,3 +455,14 @@
               width: 100%
             p
               display: none
+
+    &.easter
+      .hero-image
+        .heading
+          font-size: 35px
+          line-height: @font-size
+          color: white
+          letter-spacing: 20px
+          border: 4px solid white
+          padding:15px 45px
+          padding-right: 10px
