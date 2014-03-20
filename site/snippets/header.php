@@ -54,7 +54,7 @@
       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
   </script>
-  
+
 </head>
 
 <body id="sunday" class="<?=$page->uri()?>">
