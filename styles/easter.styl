@@ -1,9 +1,41 @@
 $blue = #0941d1
 
 body.easter
-  background: $blue url('/img/easter.jpg') center center fixed no-repeat
+  // background: $blue url('/img/easter.jpg') center center fixed no-repeat
   background-size: cover
-  text-align: center
+
+  .graphic
+    height: 100%
+    width: 100%
+    position: fixed
+    top: 0
+    left: 0
+    font-size: 0
+    z-index: -2
+
+    & div
+      height: 100%
+      font-size: 0
+      display: inline-block
+      background-size: cover
+      background-repeat: no-repeat
+      background-color: $blue
+
+      &.desert
+        width: 50%
+        background-position: top left
+        background-image: url('/img/desert.jpg')
+
+      &.tropic
+        width: 25%
+        background-position: bottom left
+
+        &.one
+          background-image: url('/img/tropic1.jpg')
+
+        &.two
+          background-image: url('/img/tropic2.jpg')
+
 
   .yellow-overlay
     background: rgba(#fff799,0.26)
@@ -91,3 +123,26 @@ body.easter
     &:hover
       color: $yellow
       border-color: $yellow
+
+  .section
+    width: 100%
+    background-image: url('../img/blurred.jpg');
+    background-size: cover
+    background-repeat: no-repeat
+    padding: 100px 0
+    color: white
+
+    h1
+      text-transform: uppercase
+      font-size: 50px
+      letter-spacing: 4px
+
+    p
+      font-size: 20px
+      line-height: @font-size + 13px
+      padding: 0 100px
+
+    a.button
+      margin: 30px 0 0 0
+      display: inline-block
+      font-size: 20px
