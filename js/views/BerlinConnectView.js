@@ -41,6 +41,26 @@ define([
       // Creates a sticky menu
       self.stickyMenu();
 
+      self.routing();
+
+    },
+
+    'routing':function() {
+
+      var self = this;
+
+      var SectionsRouter = Backbone.Router.extend ({
+
+        routes: {
+          '/:id': 'openLightbox'
+        },
+
+      });
+
+      var appRouter = new SectionsRouter();
+
+      Backbone.history.start({pushState: true});
+
     },
 
     'isMoblie':function() {
@@ -132,6 +152,8 @@ define([
     },
 
     openLightbox: function(id) {
+
+      var self = this;
 
       $('.lightbox.' + id).removeClass('hidden');
       $('.dark-overlay').removeClass('hideme');
