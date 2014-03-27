@@ -41,38 +41,6 @@ define([
       // Creates a sticky menu
       self.stickyMenu();
 
-      //
-      self.videoHider();
-
-      // self.checkHash();
-    },
-
-    // checkHash:function() {
-
-    //   var self = this;
-    //   var hash = window.location.hash.replace('#','');
-
-    //   if(hash.length === 0) return;
-
-    //   self.openLightbox(hash);
-    // },
-
-    'videoHider': function() {
-
-      var self = this;
-
-      // setTimeout(function() {
-      //   $('.video-hero .logo').addClass('fadeIn');
-      // }, 12000);
-
-      setTimeout(function() {
-        $('.video-hero').addClass('fadeOut');
-      }, 1000);
-
-      $(".video-hero video").bind("ended", function() {
-        $('.video-hero').addClass('backgroundAdded');
-      });
-
     },
 
     'isMoblie':function() {
@@ -125,8 +93,6 @@ define([
 
       $body.toggleClass('active');
 
-      // document.location.hash = '!';
-
     },
 
     'closeSidebar': function () {
@@ -135,8 +101,6 @@ define([
       var $body = $('body');
 
       $body.removeClass('active');
-
-      // document.location.hash = '!';
 
     },
 
@@ -169,14 +133,11 @@ define([
 
     openLightbox: function(id) {
 
-      // document.location.hash = '!';
-
       $('.lightbox.' + id).removeClass('hidden');
       $('.dark-overlay').removeClass('hideme');
       $('.lightbox .lightbox-overlay').removeClass('hidden');
       $('body').css("overflow", "hidden");
 
-      // window.location.hash = id;
     },
 
     'closeLightbox': function () {
@@ -195,7 +156,6 @@ define([
         $('.dark-overlay').removeClass('hide');
       }, 500);
 
-      // document.location.hash = '!';
     },
 
     'setRetinaInlineImages': function () {
