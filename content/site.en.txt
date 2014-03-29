@@ -6,7 +6,13 @@ Description: Berlin Connect is a multicultural church in the heart of the city. 
 ----
 Copyright: © Berlin Connect 2014
 ----
-More: More
+Home: Home
 ----
-Home:Home
+Sundays: Sundays
+----
+Community: Community
+----
+SocialEntprise: Social Enterprise
+----
+More: More
 ----

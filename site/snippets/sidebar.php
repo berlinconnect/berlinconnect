@@ -7,7 +7,7 @@
         <?= $site->home() ?>
       </a>
     </li>
-    <h4>Sundays</h4>
+    <h4><?= $site->sundays() ?></h4>
     <?php foreach($pages->find('sections')->children()->filterBy('umbrella', 'Sundays') as $section): ?>
     <li id="<?= $section->id() ?>" class="lvl-1 internal">
       <a>
@@ -15,7 +15,7 @@
       </a>
     </li>
     <?php endforeach ?>
-    <h4>Community</h4>
+    <h4><?= $site->community() ?></h4>
     <?php foreach($pages->find('sections')->children()->filterBy('umbrella', 'Community') as $section): ?>
     <li id="<?= $section->id() ?>" class="lvl-1 internal">
       <a>
@@ -23,7 +23,7 @@
       </a>
     </li>
     <?php endforeach ?>
-    <h4>Social Enterprise</h4>
+    <h4><?= $site->socialenterprise() ?></h4>
     <?php foreach($pages->find('sections')->children()->filterBy('umbrella', 'Social') as $section): ?>
     <li id="<?= $section->id() ?>" class="lvl-1 internal">
       <a>
