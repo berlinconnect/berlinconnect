@@ -33,7 +33,7 @@
     <div class="event-details">
       <?= kirbytext($page->eventdetails()) ?>
     </div>
-    <a class="button"><?= $page->ticketbutton() ?></a>
+    <a href="https://www.eventbrite.de/e/easter-special-catwalk-live-music-tickets-11144564693" class="button"><?= $page->ticketbutton() ?></a>
     <small><?= $page->buttonsubcopy() ?></small>
   </div>
 </section>

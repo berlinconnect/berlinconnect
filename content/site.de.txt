@@ -12,7 +12,7 @@ Sundays: Sonntag
 ----
 Community: Gemeinschaft
 ----
-SocialEntprise: Soziale Unternehmen
+SocialEnterprise: Soziale Unternehmen
 ----
 More: Mehr
 ----

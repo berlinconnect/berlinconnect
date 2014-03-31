@@ -12,7 +12,7 @@ Sundays: Sundays
 ----
 Community: Community
 ----
-SocialEntprise: Social Enterprise
+SocialEnterprise: Social Enterprise
 ----
 More: More
 ----
