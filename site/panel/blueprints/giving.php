@@ -4,7 +4,7 @@
 
 title: Giving
 pages: false
-files: false
+files: true
 fields:
   title:
     label: Title
