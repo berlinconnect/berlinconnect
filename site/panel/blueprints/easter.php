@@ -49,6 +49,6 @@ fields:
       - email
       - link
       - vimeo
-  collectionbutton:
+  storebutton:
     label: Collection Button Text
     type:  text
