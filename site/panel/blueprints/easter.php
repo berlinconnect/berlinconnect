@@ -35,25 +35,11 @@ fields:
       - email
       - link
       - vimeo
-  eventtitle:
-    label: Event Title
+  collectiontitle:
+    label: Collection Title
     type:  text
-  eventsubtitle:
-    label: Event Subtitle
-    type:  text
-  eventcopy:
-    label: Event Copy
-    type:  textarea
-    size:  small
-    buttons:
-      - h3
-      - bold
-      - italic
-      - email
-      - link
-      - vimeo
-  eventdetails:
-    label: Event Details
+  collectioncopy:
+    label: Collection Copy
     type:  textarea
     size:  large
     buttons:
@@ -63,9 +49,6 @@ fields:
       - email
       - link
       - vimeo
-  ticketbutton:
-    label: Ticket Button Text
-    type:  text
-  buttonsubcopy:
-    label: Text below button
+  collectionbutton:
+    label: Collection Button Text
     type:  text
