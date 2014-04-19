@@ -33,7 +33,7 @@
 <section class="fashion">
   <div class="wrapper center">
   <h1><?= $page->collectiontitle() ?></h1>
-    <?= kirbytext($page->colelctiondetails()) ?>
+    <?= kirbytext($page->collectioncopy()) ?>
     <a href="http://reclaimcollection.bigcartel.com" class="button"><?= $page->storebutton() ?></a>
   </div>
 </section>
