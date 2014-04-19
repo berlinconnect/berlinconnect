@@ -10,14 +10,6 @@
     <?= kirbytext($page->storycopy()) ?>
   </div>
 </section>
-<!-- <section class="fashion hidden">
-  <div class="wrapper center">
-    <h1>The Fashion</h1>
-    <p>Alive created a limited edition fashion collection to celebrate Easter. All proceeds will go towards relief on the refugee crisis in Syria. At Good Friday Alive will host the Easter Special Catwalk, showcasing this limited collection.
-    </p>
-  </div>
-</section> -->
-
 <section class="syria">
   <div class="wrapper center">
     <h1><?= $page->causetitle() ?></h1>
@@ -25,7 +17,7 @@
   </div>
 </section>
 
-<section class="event">
+<!-- <section class="event">
   <div class="wrapper center">
     <h1><?= $page->eventtitle() ?></h1>
     <h2><?= $page->eventsubtitle() ?></h2>
@@ -36,7 +28,16 @@
     <a class="button"><?= $page->ticketbutton() ?></a>
     <small><?= $page->buttonsubcopy() ?></small>
   </div>
+</section> -->
+
+<section class="fashion">
+  <div class="wrapper center">
+  <h1><?= $page->collectiontitle() ?></h1>
+    <?= kirbytext($page->colelctiondetails()) ?>
+    <a href="http://reclaimcollection.bigcartel.com" class="button"><?= $page->storebutton() ?></a>
+  </div>
 </section>
+
 
 <div class="footer-image">
   <a href="/">Berlin Connect</a>
