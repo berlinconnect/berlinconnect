@@ -1,0 +1,23 @@
+Title: New Venue
+----
+
+IntroTitle: We're Moving
+----
+IntroCopy: New season, new location, new venue. We are excited to announce the beginning of a new season at a brand new location: Haus Ungarn. Why not join us on Sunday 4th May for our first Sunday Celebrations at the new home?
+----
+
+
+SundayTitle: Sundays At BC
+----
+
+SundayCopy:
+###Is there a dress code?
+There is no dress code – feel free to dress up or down.
+
+###When should I arrive?
+Our service times are 10:30, 12:30, 16:30 and 18:30 every Sunday. You are welcome to come early. At the foyer area you can get a drink or a coffee and meet some friends.
+
+###Do I need tickets?
+Our Sunday Celebrations are not ticketed. You can come and bring friends :)
+
+----

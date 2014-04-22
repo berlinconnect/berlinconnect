@@ -1,55 +1,55 @@
 @keyframes fade
   0%
     opacity: 0
-  
+
   80%
     opacity: 0
 
   100%
     opacity: 1
-    
+
 @keyframes fadeTo
   0%
     opacity: 0
-  
+
   80%
     opacity: 0
 
   100%
     opacity: 0.2
-    
+
 @keyframes fadeIn
   0%
     opacity: 0
 
   100%
     opacity: 1
-    
+
 @keyframes fadeOut
   0%
     opacity: 1
-  
+
   95%
     opacity: 1
 
   100%
     opacity: 0
-    
+
 @keyframes fadeinslow
   0%
     opacity: 0
-  
+
   50%
     opacity: 1
 
   100%
     opacity: 0
-    
+
 @keyframes slideUp
   0%
     transform: translateY(180px)
     opacity: 0
-  
+
   60%
     transform: translateY(180px)
     opacity: 1
@@ -62,17 +62,17 @@
 @-webkit-keyframes slideUp
   0%
     -webkit-transform: translateY(180px)
-  
+
   60%
     -webkit-transform: translateY(180px)
 
   100%
     -webkit-transform: translateY(0)
-  
+
 @-moz-keyframes slideUp
   0%
     -moz-transform: translateY(180px)
-  
+
   60%
     -moz-transform: translateY(180px)
 
@@ -89,12 +89,12 @@
   color: $white
   position: relative
   background-color: $white
-  
+
   .wrapper
     padding: 70px 0 120px
     position: relative
     z-index: 2
-  
+
   .logo
     background: url('../img/logo.png');
     background-image: url('../img/logo.svg'), none;
@@ -105,7 +105,7 @@
     background-size: @height
     animation: slideUp 2000ms ease
     margin: 0 auto 49px
-    
+
   h1
     font-size: 100px
     line-height: @font-size + 10px
@@ -114,7 +114,7 @@
     letter-spacing: 1px
     padding: 0 0 10px
     animation: fade 3000ms ease
-    
+
   p
     font-size: 28px
     line-height: 40px
@@ -123,16 +123,16 @@
     margin: 0 auto
     font-style: italic
     animation: fade 3600ms ease
-    
+
   .social-links
     font-size: 60px
     animation: fade 4000ms ease
-    
+
     a
       margin: 0 20px
       text-decoration: none
       color: white
-    
+
   .arrow
     font-size: 80px
     width: 100%
@@ -141,13 +141,39 @@
     position: absolute
     bottom:0px
     animation: fade 5000ms ease
-    
+
+  &#newvenuehero
+    background-color: $dark
+    background-image: url('../img/newvenue.jpg')
+    background-attachment: fixed
+
+    .wrapper
+      padding: 120px 0
+
+    h1
+      font-family: 'marker'
+      margin-bottom: 20px
+
+      &.one
+        animation: fade 1000ms ease
+
+      &.two
+        animation: fade 2000ms ease
+
+      &.three
+        animation: fade 3000ms ease
+
+      &.brush
+        background-image: url('../img/brush.svg');
+        background-position: center center
+        background-size: 102%
+
 .sub-hero
   padding: 200px 0
   background-position: center top
   background-attachment: fixed
   animation: fadeIn 1000ms ease
-  
+
   .overlay
     position: absolute
     left: 0
@@ -156,13 +182,13 @@
     width: 100%
     background: rgba(black,0.2)
     z-index: 0
-    
+
   h1
   h2
     z-index: 2
     position: relative
     animation: fade 1500ms ease
-  
+
   h2
     font-weight: 200
     color: $white
@@ -171,23 +197,25 @@
     font-style: italic
     margin: 0 0 10px
     padding: 0
-    
+
   h1
     text-transform: uppercase
     font-size: 80px
     line-height: @font-size
     color: $white
     margin-bottom: 20px
-    
+
+
+
 .video-hero
   width: 100%
   height: auto
   background:black
   overflow: hidden
-  
+
   .wrapper
     opacity: 0
-    
+
     .logo
     h1
     p
@@ -207,28 +235,27 @@
     height: auto
     overflow: hidden
     // animation: fadeOut 300ms 15000ms ease
-  
+
   &.backgroundAdded
     background: black url('../img/hero.jpg') center center no-repeat
-    
+
     video
       opacity: 0
-    
+
   &.fadeOut
     background-size: cover
-    
+
     .wrapper
       opacity: 1
-      
+
       .logo
         animation: slideUp 2000ms ease
-         
+
       h1
         animation: fade 3000ms ease
-        
+
       p
         animation: fade 3600ms ease
-        
+
       .social-links
         animation: fade 4000ms ease
- 
