@@ -1,0 +1,83 @@
+body.new-venue
+body.new-venue .content
+  background: $dark
+
+  section
+    .intro
+      padding: 100px 10px
+      position: relative
+      margin: 0 auto
+
+      h2
+      h3
+        color: $light
+
+      h1
+        color: $white
+
+      p
+        color: rgba($white,0.5)
+
+  .mapContainer
+    .wrapper
+      position: relative
+
+      .mapInfo
+        margin: 25px
+        width: 350px
+        height:450px
+        padding: 30px
+        background:rgba($dark,0.96)
+        right:0
+        position: absolute
+        z-index: 1
+        color: $white
+        border-radius: 5px
+
+        h3
+          margin-bottom: 10px
+
+        p
+          line-height: 22px
+
+        .address
+          margin-bottom: 20px
+
+        .transport
+          .connections
+            margin: 8px 0
+            font-size: 13px
+
+            span.s
+              border-radius: 20px
+
+            &.m
+              span
+                background-color: #E06E23
+
+            &.b
+              span
+                background-color: #7D176B
+
+            span
+              font-family: $heading
+              font-weight: 900
+              padding: 1px
+              border-radius: 4px
+              background: white
+              color: $white
+              margin-right: 6px
+              display: inline-block
+              text-align: center
+              min-width: 30px
+
+    .map
+      -webkit-filter: grayscale(100%)
+      -moz-filter: grayscale(100%)
+      -ms-filter: grayscale(100%)
+      -o-filter: grayscale(100%)
+      filter: grayscale(100%)
+      filter: url(grayscale.svg) /* Firefox 4+ */
+      filter: gray /* IE 6-9 */
+      width: 100%
+      height: 500px
