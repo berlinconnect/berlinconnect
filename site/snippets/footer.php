@@ -4,7 +4,7 @@
       </div>
       <div class="nav-links">
         <ul class="column first">
-          <li class="lvl-1"><a href="<?php echo url('/') ?>">Home</a></li>
+          <li class="lvl-1"><a href="<?php echo url('/home') ?>">Home</a></li>
           <!-- <li class="lvl-1"><a href="/#about">About</a></li> -->
           <h4>Sundays</h4>
           <?php foreach($pages->find('sections')->children()->filterBy('umbrella', 'Sundays') as $section): ?>
@@ -34,12 +34,16 @@
           <?php endforeach ?>
         </ul>
         <ul class="column">
-          <h4>More</h4>
-          <li class="lvl-1"><a href="<?php echo url('giving') ?>">Giving</a></li>
-          <li class="lvl-2"><a href="<?php echo url('contact') ?>">Contact</a></li>
-          <li class="lvl-2"><a href="<?php echo url('faq') ?>">FAQ</a></li>
-          <li class="lvl-2"><a href="<?php echo url('resources') ?>">Resources</a></li>
-          <li class="lvl-2"><a href="<?php echo url('imprint') ?>">Imprint</a></li>
+          <h4><?= $site->more() ?></h4>
+          <?php $items = $pages->find('giving', 'contact', 'resources', 'faq', 'imprint', 'new-venue'); if($items->count() > 0): ?>
+            <?php foreach($items as $item): ?>
+              <li class="lvl-2">
+                <a href="<?php echo $item->url() ?>">
+                  <?php echo $item->title() ?>
+                </a>
+              </li>
+            <?php endforeach ?>
+          <?php endif ?>
         </ul>
       </div>
       <div class="clearfix"></div>

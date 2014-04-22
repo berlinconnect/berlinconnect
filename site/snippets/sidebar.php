@@ -3,7 +3,7 @@
   <ul class="sidebar-container">
 
     <li class="lvl-1">
-      <a href="<?php echo url('/') ?>">
+      <a href="<?php echo url('/home') ?>">
         <?= $site->home() ?>
       </a>
     </li>
@@ -32,7 +32,7 @@
     </li>
     <?php endforeach ?>
     <h4><?= $site->more() ?></h4>
-    <?php $items = $pages->find('giving', 'contact', 'resources', 'faq', 'imprint'); if($items->count() > 0): ?>
+    <?php $items = $pages->find('giving', 'contact', 'resources', 'faq', 'imprint', 'new-venue'); if($items->count() > 0): ?>
       <?php foreach($items as $item): ?>
         <li class="lvl-2">
           <a href="<?php echo $item->url() ?>">
