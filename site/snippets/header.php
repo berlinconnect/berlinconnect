@@ -24,7 +24,7 @@
 
       var myLatLng = new google.maps.LatLng(52.521300, 13.406281);
       var map_canvas = document.getElementById('map_canvas');
-      var image = '<?php echo url('img/logo.png') ?>';
+      var myIcon = new google.maps.MarkerImage("<?php echo url('img/logo.png') ?>", null, null, null, new google.maps.Size(60,60));
 
       var map_options = {
         center: new google.maps.LatLng(52.521874, 13.410211),
@@ -37,7 +37,7 @@
 
       var marker = new google.maps.Marker({
         position: myLatLng,
-        icon: image,
+        icon: myIcon,
         map: map
       });
 
