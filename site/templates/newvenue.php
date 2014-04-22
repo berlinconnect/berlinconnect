@@ -43,10 +43,9 @@
   </div>
   <section class="wrapper">
     <div class="intro center">
-      <h1 class="center"><?= $page->sundaytitle() ?></h1>
       <?= kirbytext($page->sundaycopy()) ?>
-      <br>
-      <a class="button">Go to FAQs</a>
+      <br><br>
+    <a href="/home" class="button white">Visit Our Homepage</a>
     </div>
   </section>
 </div>
