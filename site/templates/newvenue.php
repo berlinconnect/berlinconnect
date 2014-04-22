@@ -42,17 +42,13 @@
     <div class="map" id="map_canvas"></div>
   </div>
   <section class="wrapper">
-    <div class="intro">
-      <h1 class="center">Sundays at BC</h1>
-      <p>Is there a dress code?
-      There is no dress code – feel free to dress up or down.
-
-      When should I arrive?
-      Our service times are 10:30, 12:30, 16:30 and 18:30 every Sunday. You are welcome to come early. At the foyer area you can get a drink or a coffee and meet some friends.
-
-      Do I need tickets?
-      Our Sunday Celebrations are not ticketed. You can come and bring friends :)
-      </p>
+    <div class="intro center">
+      <h1 class="center"><?= $page->sundaytitle() ?></h1>
+      <?= kirbytext($page->sundaycopy()) ?>
+      <br>
+      <a class="button">Go to FAQs</a>
     </div>
   </section>
 </div>
+<?php snippet('lightbox') ?>
+<?php snippet('footer') ?>
