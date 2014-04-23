@@ -13,11 +13,11 @@
     <div class="wrapper">
       <div class="mapInfo">
         <div class="address">
-          <h3>Address</h3>
+          <h3><?= $page->address() ?></h3>
           <p>Karl-Liebknecht-Strasse 9<br>10178 Berlin</p>
         </div>
         <div class="transport">
-          <h3>Transport</h3>
+          <h3><?= $page->transport() ?></h3>
           <p>Alexander Platz:</p>
           <div class="connections">
             <span style="background-color:#F05921">U2</span><span style="background-color:#825942">U5</span><span style="background-color:#0D619E">U8</span><span class="s" style="background-color:#F47922">S5</span><span class="s" style="background-color:#7A6CAC">S7</span><span class="s" style="background-color:#7A6CAC">S75</span>
@@ -29,7 +29,7 @@
             <span>TXL</span><span>100</span><span>200</span>
           </div>
           <br>
-          <p>Hackerscher Markt:</p>
+          <p>Hackescher Markt:</p>
           <div class="s connections">
             <span class="s" style="background-color:#F47922">S5</span><span class="s" style="background-color:#7A6CAC">S7</span><span class="s" style="background-color:#7A6CAC">S75</span>
           </div>
@@ -37,16 +37,16 @@
             <span>M1</span><span>M4</span><span>M5</span>
           </div>
         </div>
-        <a class="button white">Open in Maps</a>
+        <a class="button white"><?= $page->openmaps() ?></a>
       </div>
     </div>
     <div class="map" id="map_canvas"></div>
   </div>
   <section class="wrapper">
     <div class="intro center">
-      <?= kirbytext($page->sundaycopy()) ?>
+      <?= kirbytext($page->detailscopy()) ?>
       <br><br>
-    <a href="/home" class="button white">Visit Our Homepage</a>
+    <a href="/home" class="button white"><?= $page->visithome() ?></a>
     </div>
   </section>
 </div>
