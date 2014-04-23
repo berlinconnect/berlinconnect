@@ -15,7 +15,7 @@
       <div class="mapInfo">
         <div class="address">
           <h3><?= $page->address() ?></h3>
-          <p>Karl-Liebknecht-Strasse 9<br>10178 Berlin</p>
+          <p>Haus Ungarn<br>Karl-Liebknecht-Strasse 9<br>10178 Berlin</p>
         </div>
         <div class="transport">
           <h3><?= $page->transport() ?></h3>
