@@ -4,11 +4,12 @@ Title: New Venue
 IntroTitle: We Are Moving
 ----
 IntroCopy: New season, new location, new venue. We are excited to announce the beginning of a new season at a brand new location: Haus Ungarn. Why not join us on Sunday 4th of May for our first Sunday at the new home?
+(vimeo: https://vimeo.com/90767564)
 ----
 
 DetailsCopy:
 ###New Service Time
-Our new service times at Haus Ungarn are<br>**10:30**, **12:30**, **16:30** and **18:00**.
+Our new service times at Haus Ungarn are<br>**10:30**, **12:30**, **16:30** and **18:30**.
 
 ###Entrance
 The entrance is directly at Karl-Liebknecht-Strasse 9. Our hosts will be there to welcome you.
