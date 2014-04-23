@@ -8,7 +8,7 @@
       <h1><?= $page->introtitle() ?></h1>
       <?= kirbytext($page->introcopy()) ?>
       <br><br>
-      <a href="https://twitter.com/intent/tweet?source=webclient&amp;text=<?php echo rawurlencode("Have you heard? @BerlinConnect is moving. Find out more here. " . $page->tinyurl()); ?>" target="blank" title="Tell your friends" class="button white">Tell your friends</a>
+      <a href="https://twitter.com/intent/tweet?source=webclient&amp;text=<?php echo rawurlencode("Have you heard? @BerlinConnect is moving. Find out more here. " . $page->url()); ?>" target="blank" title="Tell your friends" class="button white">Tell your friends</a>
   </section>
   <div class="mapContainer">
     <div class="wrapper">
