@@ -38,7 +38,7 @@
             <span>M1</span><span>M4</span><span>M5</span>
           </div>
         </div>
-        <a class="button white"><?= $page->openmaps() ?></a>
+        <a href="https://www.google.com/maps/place/Karl-Liebknecht-Stra%C3%9Fe+9/@52.5210193,13.4059784,17z/data=!3m1!4b1!4m2!3m1!1s0x47a851dffce76a15:0xad943eb434bb3f7f" class="button white"><?= $page->openmaps() ?></a>
       </div>
     </div>
     <div class="map" id="map_canvas"></div>

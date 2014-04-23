@@ -8,7 +8,7 @@ IntroCopy: New season, new location, new venue. We are excited to announce the b
 ----
 
 DetailsCopy:
-###New Service Time
+###New Service Times
 Our new service times at Haus Ungarn are<br>**10:30**, **12:30**, **16:30** and **18:30**.
 
 ###Entrance
