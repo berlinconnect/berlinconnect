@@ -1,9 +1,9 @@
 Title: New Venue
 ----
 
-IntroTitle: We're Moving
+IntroTitle: We Are Moving
 ----
-IntroCopy: New season, new location, new venue. We are excited to announce the beginning of a new season at a brand new location: Haus Ungarn. Why not join us on Sunday 4th May for our first Sunday Celebrations at the new home?
+IntroCopy: New season, new location, new venue. We are excited to announce the beginning of a new season at a brand new location: Haus Ungarn. Why not join us on Sunday May 4th for our first Sunday at the new home?
 ----
 
 DetailsCopy:
