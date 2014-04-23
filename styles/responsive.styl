@@ -171,6 +171,11 @@
           width: 100%
           padding: 0 40px
 
+      &#newvenuehero
+        .wrapper
+          h1
+            font-size: 60px
+
     .sub-hero
       background-attachment: scroll
       padding: 100px 0
@@ -331,6 +336,13 @@
       .sidebar
         padding-top: 2px
 
+    .hero
+      &#newvenuehero
+        .wrapper
+          h1
+            font-size: 50px
+            margin-bottom: 0
+
     .sub-hero
       h2
         font-weight: 300
@@ -427,12 +439,44 @@
         font-size: 17px
         line-height: @font-size + 17px
 
+  body.new-venue
+    .content
+      section
+        .intro
+          padding: 50px 0px
+
+      .mapContainer
+        .wrapper
+          position: relative
+
+          .mapInfo
+            margin: 20px
+            width: 280px
+            height:480px
+            padding: 20px
+            background:rgba($dark,0.96)
+            right:0
+            position: absolute
+            z-index: 1
+            color: $white
+            border-radius: 5px
+
+            a
+              margin-top: 30px
+              display: block
+
+        .map
+          height: 520px
+
 @media $media-mobile-portrait
 
   body
     .menu
       .typelogo
         display: none
+
+      .logo
+        display: block
 
     .hero
       .wrapper
@@ -444,6 +488,14 @@
 
         p
           font-size: 20px
+
+      &#newvenuehero
+        .wrapper
+          padding: 100px 0 80px
+
+          h1
+            font-size: 35px
+            margin-bottom: 10px
 
     section
       .slates
@@ -499,3 +551,14 @@
           border: 4px solid white
           padding:15px 35px
           padding-right: 10px
+
+  &.new-venue
+    .menu
+      .logo
+        display: block
+        background-image: url('../img/logo.svg')
+
+      &.clone
+        .logo
+          display: block
+          background-image: url('../img/logo-dark.svg')

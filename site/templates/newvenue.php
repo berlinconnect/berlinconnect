@@ -37,6 +37,7 @@
             <span>M1</span><span>M4</span><span>M5</span>
           </div>
         </div>
+        <a class="button white">Open in Maps</a>
       </div>
     </div>
     <div class="map" id="map_canvas"></div>

@@ -16,6 +16,9 @@ body.new-venue .content
       h3
         color: $white
 
+        & + p
+          margin-top: 10px
+
       h1
         margin-bottom: 30px
 
@@ -24,6 +27,9 @@ body.new-venue .content
 
       p
         color: rgba($white,0.7)
+
+        & + h3
+          margin-top: 50px
 
   .mapContainer
     .wrapper
@@ -77,6 +83,10 @@ body.new-venue .content
               display: inline-block
               text-align: center
               min-width: 30px
+
+        a
+          display: none
+          text-align: center
 
     .map
       -webkit-filter: grayscale(100%)
