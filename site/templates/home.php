@@ -62,7 +62,7 @@
         <p><?= kirbytext($page->socialcopy()) ?></p>
       </div>
     </div>
-    <div class="easter-teaser">
+    <div class="hidden easter-teaser">
       <a href="/easter"><h1 class="heading">EASTER</h1></a>
     </div>
     <div class="slates">
