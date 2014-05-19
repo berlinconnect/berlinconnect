@@ -71,7 +71,7 @@
           <div class="background-image" style="background-image: url(../img/funrun.jpg)"></div>
           <div class="caption">
             <h2>Charity Water Fun Run</h2>
-            <p><?= $site->charitywatersubtitle() ?></p>
+            <p><?= $page->charitywatersubtitle() ?></p>
           </div>
         </div>
       </a>
