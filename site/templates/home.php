@@ -66,6 +66,15 @@
       <a href="/easter"><h1 class="heading">EASTER</h1></a>
     </div>
     <div class="slates">
+      <a href="https://my.charitywater.org/charity-water-fun-run-2014">
+        <div id="funrun" class="slate big square">
+          <div class="background-image" style="background-image: url(../img/funrun.jpg)"></div>
+          <div class="caption">
+            <h2>Charity Water Fun Run</h2>
+            <p><?= $site->charitywatersubtitle() ?></p>
+          </div>
+        </div>
+      </a>
       <?php foreach($pages->find('sections')->children()->filterBy('umbrella','Social') as $section): ?>
         <div id="<?= $section->id() ?>" class="slate <?= $section->slatesize() ?>">
           <div class="background-image" style="background-image: url(<?= $section->images()->last()->url(); ?>)"></div>
