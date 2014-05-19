@@ -74,7 +74,7 @@ fields:
       - link
       - vimeo
   charitywatersubtitle:
-    lable: Charity Water Subtitle
+    label: Charity Water Subtitle
     type: text
   joinussubtitle:
     label: Join Us Subtitle
