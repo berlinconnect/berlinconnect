@@ -76,7 +76,7 @@
         </div>
       </a>
       <?php foreach($pages->find('sections')->children()->filterBy('umbrella','Social') as $section): ?>
-        <div id="<?= $section->id() ?>" class="slate <?= $section->slatesize() ?>">
+        <div id="<?= $section->id() ?>" class="slate dimmed <?= $section->slatesize() ?>">
           <div class="background-image" style="background-image: url(<?= $section->images()->last()->url(); ?>)"></div>
           <div class="caption">
             <h2><?= html($section->title()) ?></h2>
