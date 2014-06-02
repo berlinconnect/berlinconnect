@@ -25,6 +25,9 @@
           </li>
           <?php endforeach ?>
           <h4>Social Enterprise</h4>
+          <li class="lvl-1 external">
+            <a href="https://my.charitywater.org/charity-water-fun-run-2014">Charity Water Fun Run</a>
+          </li>
           <?php foreach($pages->find('sections')->children()->filterBy('umbrella', 'Social') as $section): ?>
           <li id="<?= $section->id() ?>" class="lvl-1 internal">
             <a>
