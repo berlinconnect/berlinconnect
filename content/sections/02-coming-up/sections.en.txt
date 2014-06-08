@@ -2,7 +2,7 @@ Id: coming-up
 ----
 Umbrella: Sundays
 ----
-SlateSize: rectangle
+SlateSize: square big
 ----
 Snippet: upcoming
 ----
@@ -19,7 +19,7 @@ Text: Church is not what you think it is and is more what you think it is. Every
 | March 7th at 19:30 | Sisterhood Night with guest speaker **Julie Galanti** from Hillsong London - Gather your friends and join the party - you're all invited!<br><br>Ballhaus Mitte<br>Ackerstr. 144<br>10115 Berlin<br>View on (link: https://www.google.com/maps/place/Ackerstra%C3%9Fe+144/@52.53202,13.39569,17z/data=!3m1!4b1!4m2!3m1!1s0x47a851efed6cf87d:0xb95cb44bd5fada37 text: Google Maps) |
 | March 29 - 30th | Dr. Robi: Healthy parenting tips for Kids and Youth|
 
-We encourage you to be a “self-feeder” by downloading past messages on (link: https://itunes.apple.com/de/podcast/berlin-connect-audio-podcast/id517067228?mt=2 text: iTunes), look onto our (link: /resources text: resources) or by grabbing our (link:# text: recent calendar) to plan your month. 
+We encourage you to be a “self-feeder” by downloading past messages on (link: https://itunes.apple.com/de/podcast/berlin-connect-audio-podcast/id517067228?mt=2 text: iTunes), look onto our (link: /resources text: resources) or by grabbing our (link:# text: recent calendar) to plan your month.
 
 You can even (link:# text: sync this calendar) with your phone to stay connected or (link: http://form.jotformeu.com/form/22960694330354 text: sign up for our news update).
 ----

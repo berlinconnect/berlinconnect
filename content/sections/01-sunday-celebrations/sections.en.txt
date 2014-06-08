@@ -2,7 +2,7 @@ Id: sunday
 ----
 Umbrella: Sundays
 ----
-SlateSize: rectangle
+SlateSize: square big
 ----
 
 Title: Sunday Experience
