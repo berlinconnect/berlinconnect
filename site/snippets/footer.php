@@ -4,7 +4,7 @@
       </div>
       <div class="nav-links">
         <ul class="column first">
-          <li class="lvl-1"><a href="<?php echo url('/home') ?>">Home</a></li>
+          <li class="lvl-1"><a href="<?php echo url('/') ?>">Home</a></li>
           <!-- <li class="lvl-1"><a href="/#about">About</a></li> -->
           <h4>Sundays</h4>
           <?php foreach($pages->find('sections')->children()->filterBy('umbrella', 'Sundays') as $section): ?>

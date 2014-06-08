@@ -3,7 +3,7 @@
   <ul class="sidebar-container">
 
     <li class="lvl-1">
-      <a href="<?php echo url('/home') ?>">
+      <a href="<?php echo url('/') ?>">
         <?= $site->home() ?>
       </a>
     </li>
