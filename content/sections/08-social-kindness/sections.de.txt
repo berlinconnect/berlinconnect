@@ -1,57 +1,63 @@
-Id: kindness
+﻿Id: kindness
+
 ----
+
 Umbrella: Social
-----
-SlateSize: rectangle
-----
 
-Title: Social Kindness
-----
-Intro: Expressing kindness globally and socially
 ----
 
-Text: This is what we are all about - empowering people to shine brightly in our modern day society living from the good news of who we are in Christ. 
-Our desire is for everyone who calls Berlin Connect home to be involved in expressing social kindness both globally and locally. The Gospel empowers us to love our neighbour who is anyone and everyone in society. While we express our social kindness locally through our Dinner Parties and personal relationships, we express our social kindness globally through the following strategic partnerships: 
+Slatesize: rectangle
 
-###The A21 Campaign - Stopping human trafficking.
-
-The A21 Campaign stands for abolishing injustice in the 21st century.
-When confronted with the horrific statistics surrounding human trafficking, it is easy to agree on the fact that "someone should do something". The A21 Campaign was born when the decision was made to raise our hand and be that "someone". It was a decision of ordinary people who decided to take responsibility regarding the issue of human trafficking.
-
-**The A21 campaign:**
-- Prevents people from being trafficked
-- Protects and supports those who have been trafficked
-- Prosecutes traffickers and strengthens legal responses to trafficking
-- Partners with law enforcement, service providers and community members to provide a comprehensive front against trafficking.
-
-We support the A21 campaign through various projects such as our Dinner Parties with purpose, charity parties or through the profit of sandwiches, cookies and cakes on Sundays. Click here to get more information and support the A21 campaign.
-
-###Compassion - Sponsoring children in Uganda.
-
-Compassion is a child sponsorship organization that is committed to the spiritual, economic, social and physical development of children living in extreme poverty in 26 countries, enabling them to become responsible, fulfilled Christian adults.
-
-Children are clearly the greatest victims of poverty. Of the 2.2 billion children in our world today, nearly half of them live in desperate conditions. But it is these children who hold the potential to break the cycle of deprivation for future generations.
-
-Compassion has over 50 years of experience working with some of the poorest communities in the world. During that time, more than one million children have been assisted by Compassion.
-
-We support Compassion through contributing to the global Compassion Sunday as well as through individual sponsors in our church. Click here to get more information and support Compassion.
-
-###charity: water - Changing lives with clean water.
-
-charity: water is a non-profit organization bringing clean and safe drinking water to people in developing nations. There are 800 million people on the planet who don't have clean water.
-
-A water well will provide clean water for a community of up to 500 people. charity:water works by the 100% model: 100% of all donations to charity: water go directly to the field to fund water projects.
-
-Every year we take part in the annual "Berliner Wasserbetriebe 5x5 km TEAM-Staffel" relay race to raise funds for charity: water addressing the global water crisis. Since 2011, the charity: water annual relay race has raised $24,929 (€18,244) for clean water projects serving 1149 people in rural Ethiopian communities. Click here to get more information and support charity: water.
-
-###Vision Rescue - Rescuing street children in Mumbai, India.
-
-Vision Rescue is a non-profit involved in feeding, providing non-formal education, medical help, skill training and other kinds of help to addicted and abused street children.
-
-Biju Thampy founded the ministry in 2004 after seeing the enormous need and feeling compelled to step in and make a difference even if it was only for one child.
-
-Vision Rescue now run four buses in Mumbai where children are given food and a non-formal education with the aim of graduating into vocational training, as well a medical van and a mobile dental unit. Their work has expanded out beyond helping the street children to include working with Mumbai’s prostitutes, drug addicts and other vulnerable groups in the city.
-Another project from Vision Rescue is the Dream Centre, a shelter and transition home for trafficked girls.
-
-We support Vision Rescue through our Dinner Parties with purpose and organizing charity parties. (link: http://www.visionrescue.org.in/ text: Click here) to get more information and support Vision Rescue.
 ----
+
+Title: Menschen helfen
+
+----
+
+Intro: Global und lokal aktiv werden
+
+----
+
+Text: Unser Wunsch ist, dass jeder, der Berlin Connect sein Zuhause nennt, darin involviert ist, Menschen in unserer Stadt und Gesellschaft praktisch zu helfen. Die gute Nachricht von Jesus (das Evangelium), befähigt uns, unseren Nächsten zu lieben – und das ist jede und jeder in der Gesellschaft.
+
+###The A21 Campaign - Beseitigung von Ungerechtigkeit im 21. Jahrhundert.
+
+Wenn man mit den erschreckenden Statistiken zum Menschenhandel konfrontiert wird, ist es leicht, der Tatsache zuzustimmen, dass “jemand etwas tun muss.” Die A21 Kampagne war geboren, als wir uns entschieden, unsere Hand zu heben und dieser “jemand” zu sein. Es war die Entscheidung ganz normaler Menschen, die sich entschlossen, Verantwortung zu übernehmen, wenn es um das Problem des Menschenhandels geht.
+
+**Die A21 Kampagne:**
+- Schützt Menschen davor, Opfer des Menschenhandels zu werden
+- Schützt und unterstützt Opfer des Menschenhandels
+- Verfolgt Menschenhändler juristisch und stärkt die rechtlichen Möglichkeiten, auf Menschenhandel zu reagieren
+- Arbeitet mit Vollzugsbehörden, Dienstanbietern und Menschen vor Ort, um eine breit aufgestellte Front gegen Menschenhandel aufzubauen
+
+Wir unterstützen A21 durch zahlreiche Projekte, durch unsere Dinner Parties sowie durch den Verkauf von Sandwiches, Keksen und Kuchen am Sonntag. (link:http://www.thea21campaign.org/ text:Hier) kannst du mehr über die A21 Kampagne erfahren.
+
+###Compassion - Kinderpatenschaften in Ugana.
+
+Compassion ist eine Organisation für Kinderpatenschaften, die das geistliche, finanzielle, soziale und körperliche Wohl von Kindern zum Ziel hat, die in extremer Armut leben – in 26 Ländern – und befähigt sie, ein Leben als verantwortungsvolle, erfüllte Christen zu führen.
+
+Kinder sind eindeutig die größten Opfer von Armut. Von den 2,2 Milliarden Kindern in unserer heutigen Welt befindet sich beinahe die Hälfte in verzweifelten Lage. Aber genau diese Kinder haben das Potential, den Kreislauf des Mangels für kommende Generationen zu durchbrechen.
+
+Compassion hat über 50 Jahre Erfahrung in einigen der ärmsten Gegenden der Welt. Während dieses Zeitraums wurde über einer Million Kindern durch Compassion geholfen.
+
+Wir unterstützen Compassion, indem wir Teil des weltweiten Compassion Sonntags sind und durch zahlreiche Sponsoren in unserr Gemeinde. (link:http://www.compassion-de.org/ text:Hier) kannst du mehr über Compassion erfahren.
+
+###charity: water - Mit sauberen Wasser Leben verändern.
+
+charity: water ist eine gemeinnützige Organisation, die Menschen in Entwicklungsländern sauberes, und sicheres Trinkwassern bringt. Über 800 Millionen Menschen auf der Erde haben kein sauberes Trinkwasser.
+
+Ein Brunnen versorgt bis zu 500 Menschen mit sauberem Wasser. 100% der Spenden an charity: water gehen direkt zu den Wasserprojekten vor Ort.
+
+Jedes Jahr nehmen wir am Staffel Lauf der "Berliner Wasserbetriebe 5x5 km" teil, um für charity:water zu sammeln. Seit 2011 haben wir $24,929 (€18,244) für Wasser-Projekte sammeln können und konnten so 1149 Menschen in Äthopien helfen. (link:http://www.charitywater.org/ text:Hier) kannst du mehr über charity:water lernen.
+
+###Vision Rescue - Straßenkinder in Mumbai retten.
+
+Vision Rescue ist eine gemeinnützige, eingetragene karitative Organisation, die drogensüchtige und missbrauchte Straßenkinder mit Nahrung, außerschulischer Bildung, medizinischer Hilfe, Training in berufsrelevanten Fähigkeiten und anderen Arten der Hilfe versorgt.
+
+Biju Thampy gründete den Dienst im Jahr 2004, nachdem er diese riesige Not sah und den innerlichen Drang verspürte, selbst aktiv zu werden und etwas zu bewirken, selbst wenn es nur für ein Kind wäre.
+
+Vision Rescue setzt momentan vier Busse in Mumbai ein, in denen Kindern Nahrung und außerschulische Bildung angeboten wird, mit dem Ziel, einen Schritt in die Berufsausbildung gehen zu können. Außerdem stellt Vison Rescue einen Transporter mit medizinischer Ausrüstung und eine mobile Einheit zur Zahnbehandlung zur Verfügung. Die Arbeit von Vision Rescue wurde über die Arbeit mit Straßenkindern hinaus erweitert, um auch mit den Prostituierten, Drogenabhängigen und anderen gefährdeten Gruppen in der Stadt zu arbeiten.
+
+Ein weiteres Projekt von Vision Rescue ist das Dream Centre, ein sicherer Ort und ein Ort des Übergangs ist für Mädchen, die dem Menschenhandel zum Opfer gefallen sind.
+
+Wir unterstützen Vision Rescue durch unsere Dinner Parties. (link: http://www.visionrescue.org.in/ text: Hier) kannst du mehr erfahren.

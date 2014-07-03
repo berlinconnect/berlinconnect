@@ -1,41 +1,63 @@
-Title: Welcome Home
-----
-
-HeroTitle: Welcome Home
-----
-
-HeroCopy: A multicultural church in the heart of Berlin, changing people's perceptions about Jesus and His Church.
+﻿Title: Welcome Home
 
 ----
 
-SundaySubTitle: A little about...
-----
-SundayTitle: Berlin Connect
-----
-SundayCopy: Berlin Connect is a multicultural church in the heart of Berlin. Our philosophy is simply to love God, love people and love life. Our motto is: “Come as you are”.
+Herotitle: Welcome Home
 
-(vimeo: http://vimeo.com/58633943 width: 480 height: 340)
 ----
 
-CommunitySubTitle: Connecting our Sundays to our Midweek
-----
-CommunityTitle: Community
-----
-CommunityCopy: Sitting around a table of friendship and family is important to us all. As Sundays get bigger in numbers, we want our midweek connections to get more meaningful and personal. What we learn on Sundays about Christ and His kindness towards us, we get to put into practice midweek in our Dinner Parties and across every area of our lives.
+Herocopy: A multicultural church in the heart of Berlin, changing people's perceptions about Jesus and His Church.
+
 ----
 
-SocialSubTitle: Shining brightly in society
-----
-SocialTitle: Social Enterprise
-----
-SocialCopy: Our desire is to contribute to the well-being of society as a whole through social enterprise and leadership innovation. Out of the overflow of our lives we can serve our city by getting involved, finding and supporting positive solutions that place value, speak to peoples potential and point to vision that shapes a better society.
+Sundaysubtitle: A little about...
+
 ----
 
-JoinUsSubTitle: Are you free this Sunday?
-----
-JoinUsTitle: Come join us
-----
-JoinUsCopy: We are unashamedly passionate about the House of God. We welcome visitors at Berlin Connect and would love to have you join us in church this weekend.
+Sundaytitle: Berlin Connect
 
-(link: http://citymapper.com/berlin/superrouter?end=52.53202,13.395690000000059&eaddr=Ackerstra%C3%9Fe%20144%2C%2010115%20Berlin%2C%20Germany class: button text: Find Us on a map)
 ----
+
+Sundaycopy: Berlin Connect is a multicultural church in the heart of Berlin. Our philosophy is simply to love God, love people and love life. Our motto is: “Come as you are”.
+
+----
+
+Communitysubtitle: Connecting our Sundays to our Midweek
+
+----
+
+Communitytitle: Community
+
+----
+
+Communitycopy: Sitting around a table of friendship and family is important to us all. As Sundays get bigger in numbers, it’s important that our midweek connections become more meaningful and personal. What we learn on Sundays, about Christ and His kindness towards us, we get to put into practice midweek in our Dinner Parties and across every area of our lives.
+
+----
+
+Socialsubtitle: Shining brightly in society
+
+----
+
+Socialtitle: Social Enterprise
+
+----
+
+Socialcopy: Our desire is to contribute to the well-being of society as a whole through social enterprise and leadership innovation. Out of the overflow of our lives we can serve our city by getting involved, finding and supporting positive solutions that place value, speak to peoples potential and point to vision that shapes a better society.
+
+----
+
+Charitywatersubtitle: Run to make a difference.
+
+----
+
+Joinussubtitle: Are you free this Sunday?
+
+----
+
+Joinustitle: Come join us
+
+----
+
+Joinuscopy: We are unashamedly passionate about the House of God. We welcome visitors at Berlin Connect and would love to have you join us in church this weekend.
+
+(link: https://www.google.de/maps/preview?ie=UTF-8&fb=1&gl=de&cid=817984857238402424&q=Berlin+Connect&ei=Oh2vU8D3EsX0Oe38gMAL&ved=0CIUBEPwSMAo class: button text: Find Us on a map)

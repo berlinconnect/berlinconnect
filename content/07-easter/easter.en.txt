@@ -1,31 +1,33 @@
-Title: Easter
+﻿Title: Easter
+
 ----
-StoryTitle: The Story
+
+Storytitle: The Story
+
 ----
-StoryCopy:
-Easter is the biggest date in the christian calendar. It's a story which is as inspiring as it is controversial. A story of hope and passion; of death, betrayal and sacrifice. We are passionate about telling the story of Easter right here - in the heart of our city, Berlin.
+
+Storycopy: Easter is the biggest date in the christian calendar. It's a story which is as inspiring as it is controversial. A story of hope and passion; of death, betrayal and sacrifice. We are passionate about telling the story of Easter right here - in the heart of our city, Berlin.
+
 ----
-CauseTitle: The Cause
+
+Causetitle: The Cause
+
 ----
-CauseCopy:
-This Easter we want to be part of the solution for one of the largest humanitarian crises that the world has felt in decades, namely the refugee crisis coming out of Syria.
+
+Causecopy: This Easter we want to be part of the solution for one of the largest humanitarian crises that the world has felt in decades, namely the refugee crisis coming out of Syria.
 
 You can get involved by donating individually to UNICEF or by purchasing limited collection items with proceeds going towards this cause. Our funds will help UNICEF to provide children with clean water, food, medical care, education and warm clothing.
 
 (link: https://hillsong.com/en/syria text: Support Syria class: button)
+
 ----
-EventTitle: The Event
+
+Collectiontitle: The Collection
+
 ----
-EventSubtitle: Easter Special
+
+Collectioncopy: Reclaim created a limited edition fashion collection to celebrate Easter. Items are for sale, all proceeds go towards relief on the refugee crisis in Syria.
+
 ----
-EventCopy: Catwalk & Live Music. All proceeds go towards relief in Syria during this crisis.
-----
-EventDetails:
-##18th April 2014
-##19:00 &amp; 20:30
-##Ballhaus Mitte, Ackerstr. 144
-----
-TicketButton: Buy Tickets
-----
-ButtonSubCopy: Tickets go on sale on March 30th
-----
+
+Storebutton: Visit The Store

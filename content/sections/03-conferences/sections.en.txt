@@ -1,17 +1,24 @@
-Id: conferences
+﻿Id: conferences
+
 ----
+
 Umbrella: Sundays
+
 ----
-SlateSize: rectangle
+
+Slatesize: rectangle
+
 ----
 
 Title: Conferences
-----
-Intro: Connecting to a bigger picture.
+
 ----
 
-Text: 
-Hillsong & Colour Conferences are annual gatherings, uniting people from all walks of life to live out and fulfil the God-given purpose for our lives.
+Intro: Connecting to a bigger picture.
+
+----
+
+Text: Hillsong & Colour Conferences are annual gatherings, uniting people from all walks of life to live out and fulfil the God-given purpose for our lives.
 
 ###Hillsong Conference
 
@@ -22,14 +29,3 @@ Hillsong Conference is all about championing the cause of the local church. It i
 | July 23rd - 25th | Hillsong Conference Europe 2014 in London - (link:http://www.hillsongconference.com/london/ text: Find out more)|
 
 (vimeo: http://vimeo.com/69829694 width: 100%)
-
-###Colour Conference
-
-The Colour Sisterhood is a rising movement of women across the earth, who have a devotion, love and commitment to be the change in their local and global communities. Colour is all about placing value upon womanhood, so that we in turn can arise from a place of strength and cohesion and place value upon fellow humanity.
-
-| Dates        |            |
-| ------------- |-------------|
-| May 1st - 3rd | Colour Conference London 2014 - (link:http://colourconference.com/london/ text: Find out more)|
-
-(vimeo: http://vimeo.com/64199071 width: 100%)
-----

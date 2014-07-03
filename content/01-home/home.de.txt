@@ -1,41 +1,63 @@
-Title: Welcome Home
-----
-
-HeroTitle: Welcome Home
-----
-
-HeroCopy: A multicultural church in the heart of Berlin, changing people's perceptions about Jesus and His Church.
+﻿Title: Willkommen Zuhause
 
 ----
 
-SundaySubTitle: A little about...
-----
-SundayTitle: Berlin Connect
-----
-SundayCopy: Berlin Connect is a multicultural church in the heart of Berlin. Our philosophy is simply to love God, love people and love life. Our motto is: “Come as you are”.
+Herotitle: Willkommen Zuhause
 
-(vimeo: http://vimeo.com/58633943 width: 480 height: 340)
 ----
 
-CommunitySubTitle: Connecting our Sundays to our Midweek
-----
-CommunityTitle: Community
-----
-CommunityCopy: Sitting around a table of friendship and family is important to us all. As Sundays get bigger in numbers, we want our midweek connections to get more meaningful and personal. What we learn on Sundays about Christ and His kindness towards us, we get to put into practice midweek in our Dinner Parties and across every area of our lives.
+Herocopy: Eine multikulturelle Kirche im Herzen Berlins, die verändern möchte, wie Menschen über Jesus und Seine Kirche denken.
+
 ----
 
-SocialSubTitle: Shining brightly in society
-----
-SocialTitle: Social Enterprise
-----
-SocialCopy: Our desire is to contribute to the well-being of society as a whole through social enterprise and leadership innovation. Out of the overflow of our lives we can serve our city by getting involved, finding and supporting positive solutions that place value, speak to peoples potential and point to vision that shapes a better society.
+Sundaysubtitle: Etwas mehr über...
+
 ----
 
-JoinUsSubTitle: Are you free this Sunday?
-----
-JoinUsTitle: Come join us
-----
-JoinUsCopy: We are unashamedly passionate about the House of God. We welcome visitors at Berlin Connect and would love to have you join us in church this weekend.
+Sundaytitle: Berlin Connect
 
-(link: http://citymapper.com/berlin/superrouter?end=52.53202,13.395690000000059&eaddr=Ackerstra%C3%9Fe%20144%2C%2010115%20Berlin%2C%20Germany class: button text: Find Us on a map)
 ----
+
+Sundaycopy: Unsere Philosophie ist einfach: Liebe Gott, liebe Menschen und liebe das Leben. Unser Motto lautet “Komm’ so wie du bist”.
+
+----
+
+Communitysubtitle: Den Sonntag mit unserem Alltag verknüpfen
+
+----
+
+Communitytitle: Gemeinschaft
+
+----
+
+Communitycopy: Zusammen mit Freunden und Familie um den Tisch zu sitzen ist uns allen wichtig. Da die Sonntage immer stärker besucht werden, ist es wichtig, dass die Begegnungen unter der Woche an Tiefe und Persönlichkeit gewinnen. Was wir sonntags über Christus und Seine Freundlichkeit uns gegenüber lernen, wollen wir unter der Woche in unseren Dinner Parties und in jedem Bereich unseres Lebens in die Tat umsetzen.
+
+----
+
+Socialsubtitle: Unsere gesellschaftliche Verantwortung übernehmen
+
+----
+
+Socialtitle: Social Enterprise
+
+----
+
+Socialcopy: Unser Wunsch ist es, der Gesellschaft durch soziale Aktivitäten und Innovation etwas zurückzugeben. Wir dienen unserer Stadt, indem wir Lösungen finden und unterstützen, die den Menschen, Wert,Potentiale und Vision geben.
+
+----
+
+Charitywatersubtitle: Laufen, um einen Unterschied zu machen.
+
+----
+
+Joinussubtitle: Hast du diesen Sonntag Zeit?
+
+----
+
+Joinustitle: Komm vorbei!
+
+----
+
+Joinuscopy: Wir lieben Gottes Haus und freuen uns über jeden, der zu uns kommen möchte. Wir würden uns freuen, dich diesen Sonntag bei uns begrüßen zu dürfen!
+
+(link: https://www.google.de/maps/preview?ie=UTF-8&fb=1&gl=de&cid=817984857238402424&q=Berlin+Connect&ei=Oh2vU8D3EsX0Oe38gMAL&ved=0CIUBEPwSMAo class: button text: Uns auf der Karte finden)

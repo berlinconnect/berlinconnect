@@ -1,25 +1,32 @@
-Id: sisterhood
+﻿Id: sisterhood
+
 ----
+
 Umbrella: Community
+
 ----
-SlateSize: rectangle
+
+Slatesize: rectangle
+
 ----
 
 Title: Sisterhood
+
 ----
-Intro: Seeing women flourish and empowered.
+
+Intro: Frauen in der Gesellschaft stärken
+
 ----
 
-Text: Our passion is to see women of all ages flourish and be empowered in every season of life. Sisterhood embraces that vision and is carried out on many fronts. Sisterhood believes in the power of community and a collective spirit.
+Text: Es ist unsere Leidenschaft, Frauen allen Alters überall in der Gesellschaft zu stärken. Sisterhood fördert diesen Ansatz durch viele Aktivitäten. Wir glauben an die Stärke von Gemeinschaft und Zusammenhalt.
 
-During the week, we gather every Thursday morning from 10.30 am to 12.30 am at our Hub (Weinbergsweg 24) for a magnificent breakfast to embrace the vision of our church and involve ourselves in the movement across the earth.
+Jede Woche treffen wir uns am Donnerstag vormittag von 10.30 Uhr bis 12.30 Uhr im Hub (Weinbergsweg 24)zum Frühstück und um gemeinsam für unsere Kirche und für unsere Gesellschaft da sein zu können.
 
-To get to the next Sisterhood gathering, contact Conny (email: conny@berlinclc.de text: conny@berlinclc.d) for more information.
+Wenn du zu unserem nächsten Treffen kommen möchtest, kontaktiere Conny (email: conny@berlinclc.de text: conny@berlinclc.d).
 
-| Facts        |            |
+| Fakten        |            |
 | ------------- |-------------|
-| When?             | Every Thursday, 10.30 am - 12.30 am |
-| Where?            | The Hub<br>Weinbergsweg<br>2410115 Berlin<br>View on (link: https://www.google.com/maps/place/Weinbergsweg+24/@52.53077,13.40174,17z/data=!3m1!4b1!4m2!3m1!1s0x47a851e4ecf473bd:0x1a35ea77022ee6cc text: Google Maps) |
-| Public Transport | U8 Rosenthaler Platz / Tram M8, M12 Pappelplatz / S1, S2, S25 Nordbahnhof<br>(link: http://citymapper.com/berlin/superrouter?end=52.53077,13.401740000000018&eaddr=Weinbergsweg%2024%2C%2010119%20Berlin%2C%20Germany text: Get directions) via Citymapper |
-| Kids      | Bring your kids along! |
-----
+| Wann?             | Jeden Donnerstag, 10.30 Uhr - 12.30 Uhr |
+| Wo?            | The Hub<br>Weinbergsweg<br>2410115 Berlin<br>View on (link: https://www.google.com/maps/place/Weinbergsweg+24/@52.53077,13.40174,17z/data=!3m1!4b1!4m2!3m1!1s0x47a851e4ecf473bd:0x1a35ea77022ee6cc text: Google Maps) |
+| Öffentliche Verkehrsmittel | U8 Rosenthaler Platz / Tram M8, M12 Pappelplatz / S1, S2, S25 Nordbahnhof<br>(link: http://citymapper.com/berlin/superrouter?end=52.53077,13.401740000000018&eaddr=Weinbergsweg%2024%2C%2010119%20Berlin%2C%20Germany text: Get directions) via Citymapper |
+| Kinder      | Bringe deine Kinder mit! |

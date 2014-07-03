@@ -1,17 +1,24 @@
-Id: youth
+﻿Id: youth
+
 ----
+
 Umbrella: Sundays
-----
-SlateSize: square small
+
 ----
 
-Title: Youth
-----
-Intro: Becoming resilient citizens for the future.
+Slatesize: square small
+
 ----
 
-Text: We purposefully place value on the youth between 13 and 18 in our city. By expressing God's message in a relevant way, we want to equip them to become resilient urban citizens for the future. Through diverse forums and get-togethers, we aim to create an environment of trust and friendship that supports and inspires young people to be positive and hopeful about life and the dreams they have. Friday nights and Sundays are a big deal. 
+Title: Jugend
 
-**Interested?**
-Contact Paula (email: paula@berlinclc.de text: paula@berlinclc.de) for more information. 
 ----
+
+Intro: Eine starke Zukunft bauen
+
+----
+
+Text: Durch verschiedene Foren und Treffen wollen wir eine Umgebung voller Vertrauen und Freundschaften schaffen, die junge Menschen unterstützt und dazu inspiriert, positiv und voller Hoffnung über ihr Leben und ihre Träume zu denken. Dazu sind Freitagabende und Sonntage da.
+
+**Interesse?**
+Kontaktiere Paula (email: paula@berlinclc.de text: paula@berlinclc.de) für mehr Informationen.

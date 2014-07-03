@@ -1,33 +1,36 @@
-Subtitle: Living God's Way
-----
-Title: Giving
-----
+﻿Title: Geben
 
-Text: If you would like to support and contribute financially to the work of ‘Berlin Connect’ please use the following account details. If you require a receipt, please provide your postal address in the reference of your transaction.
-
-If you want to give online, please use the button below. Thank you for helping build God’s house here in Berlin.
 ----
 
-BankDetails:
-**Account Name**
+Subtitle: Gottes Haus bauen
+
+----
+
+Text: Wenn du finanziell zur Arbeit von ‘Berlin Connect’ beitragen willst, benutze bitte die folgenden Kontodaten. Falls du eine Spendenquittung benötigst, gib bitte deine Anschrift als Verwendungszweck an. 
+
+Du kannst auch online geben, indem du unten auf den Button klickst. Danke, dass du mithilfst, Gottes Haus hier in Berlin zu bauen.
+
+Hier kannst du unseren Jahres-Bericht 2013 (file: bc_annual_report_2013_final.pdf text:herunterladen). (PDF)
+
+----
+
+Bankdetails: **Name**
 Berlin Christian Life Centre e.V.
 
 **Bank:**
 Commerzbank Berlin
 
-**Account Number:**
+**Kontonummer:**
 623459500
 
-**Bank Code:**
+**Bankleitzahl:**
 12040000
 
-**Reference:**
+**Referenz:**
 Your address
 
 **IBAN:**
 DE07 1204 0000 0623 4595 00
 
 **BIC (SWIFT-Code):**
-C0BADEBB120
-----
-
+COBADEBB120

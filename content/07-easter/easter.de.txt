@@ -1,31 +1,33 @@
-Title: Easter
-----
-StoryTitle: The Story
-----
-StoryCopy:
-Easter is the biggest date in the christian calendar. It's a story which is as inspiring as it is controversial. A story of hope and passion; of death, betrayal and sacrifice. We are passionate about telling the story of Easter right here - in the heart of our city, Berlin.
-----
-CauseTitle: The Cause
-----
-CauseCopy:
-This Easter we want to be part of the solution for one of the largest humanitarian crises that the world has felt in decades, namely the refugee crisis coming out of Syria.
+﻿Title: Ostern
 
-You can get involved by donating individually to UNICEF or by purchasing limited collection items with proceeds going towards this cause. Our funds will help UNICEF to provide children with clean water, food, medical care, education and warm clothing.
+----
 
-(link: https://hillsong.com/en/syria text: Support Syria class: button)
+Storytitle: Die Geschichte
+
 ----
-EventTitle: The Event
+
+Storycopy: Ostern ist das wichtigste Datum im christlichen Kalender. Die Geschichte ist sowohl inspirierend als auch kontrovers. Es ist eine Geschichte von Hoffnung und Leidenschaft; von Tod, Verrat und Aufopferung. Wir freuen uns, die Geschichte von Ostern mitten im Herzen unserer Stadt erzählen zu können.
+
 ----
-EventSubtitle: Easter Special
+
+Causetitle: Der Anlass
+
 ----
-EventCopy: Catwalk & Live Music. All proceeds go towards relief in Syria during this crisis.
+
+Causecopy: Dieses Jahr an Ostern möchten wir unser Augenmerk auf eines der größten humanitären Krisen der letzten Jahrzehnte richten: Auf den Bürgerkrieg in Syrien.
+
+Du kannst den Männern, Frauen und Kindern in Syrien helfen indem du selbst an UNICEF spendest oder ein Teil unserer limitierten Mode-Kolletion erwirbst. Alle Einnahmen werden UNICEF helfen, Kinder in Syrien mit sauberem Wasser, Nahrung, medizinischer Fürsorge, Bildung und Kleidung zu versorgen.
+
+(link: https://hillsong.com/en/syria text: Unterstütze Syrien class: button)
+
 ----
-EventDetails:
-##18th April 2014
-##19:00 &amp; 20:30
-##Ballhaus Mitte, Ackerstr. 144
+
+Collectiontitle: Die Kollektion
+
 ----
-TicketButton: Buy Tickets
+
+Collectioncopy: Reclaim ist eine limitierte Kollektion die zur Feier von Ostern entstanden ist. Alle Teile stehen zum Verkauf. Die Erlöse kommen den Flüchtlingen in Syrien zu Gute.
+
 ----
-ButtonSubCopy: Tickets go on sale on March 30th
-----
+
+Storebutton: Zum Shop

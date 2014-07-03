@@ -1,35 +1,30 @@
-Id: conferences
+﻿Id: conferences
+
 ----
+
 Umbrella: Sundays
-----
-SlateSize: rectangle
+
 ----
 
-Title: Conferences
-----
-Intro: Connecting to a bigger picture.
+Slatesize: rectangle
+
 ----
 
-Text: 
-Hillsong & Colour Conferences are annual gatherings, uniting people from all walks of life to live out and fulfil the God-given purpose for our lives.
+Title: Konferenzen
+
+----
+
+Intro: Teil des großen Ganzen sein
+
+----
+
+Text: Bei der HILLSONG & COLOUR YOUR WORLD CONFERENCE versammeln sich jedes Jahr Menschen verschiedener Hintergründe und richten sich auf ein gemeinsames Ziel aus, um die Vision, die Gott uns gegeben hat, umzusetzen.
 
 ###Hillsong Conference
 
-Hillsong Conference is all about championing the cause of the local church. It is for people of all ages who are passionate about building their local church and seeing the Kingdom of God advance. Hillsong Conference is a great place to be inspired, refreshed and energized for living out our God-given purpose. You will find great strength and unity amongst the diversity of the local church worldwide.
-
-| Dates        |            |
+HILLSONG CONFERENCE dreht sich um die Kirche vor Ort. Es geht um Menschen jeden Alters, die eine Leidenschaft dafür haben, ihre Kirche vor Ort aufzubauen und zu erleben, dass das Reich Gottes wächst. Hillsong Conference ist eine großartige Umgebung, um sich inspirieren zu lassen und aufzutanken, damit wir das umsetzen, was Gott mit unserem Leben vor hat. Du wirst entdecken, dass eine große Stärke darin liegt, wenn die weltweite Vielfalt lokaler Kirchen in Einheit zusammenkommt.
+| Termine        |            |
 | ------------- |-------------|
-| July 23rd - 25th | Hillsong Conference Europe 2014 in London - (link:http://www.hillsongconference.com/london/ text: Find out more)|
+| 23. - 25. Juli | Hillsong Conference Europe 2014 in London - (link:http://www.hillsongconference.com/london/ text: Mehr herausfinden)|
 
 (vimeo: http://vimeo.com/69829694 width: 100%)
-
-###Colour Conference
-
-The Colour Sisterhood is a rising movement of women across the earth, who have a devotion, love and commitment to be the change in their local and global communities. Colour is all about placing value upon womanhood, so that we in turn can arise from a place of strength and cohesion and place value upon fellow humanity.
-
-| Dates        |            |
-| ------------- |-------------|
-| May 1st - 3rd | Colour Conference London 2014 - (link:http://colourconference.com/london/ text: Find out more)|
-
-(vimeo: http://vimeo.com/64199071 width: 100%)
-----

@@ -1,23 +1,28 @@
-Title: Contact
-----
-SubTitle: Get connected to Berlin Connect
-----
-Text: We are there to serve you and the City of Berlin. Feel free to call us or drop us an email. 
+﻿Title: Kontakt
 
-**Our Berlin Connect Hub (office):**
+----
+
+Subtitle: Kontaktiere uns.
+
+----
+
+Text: Wir sind hier um dir und unserer Stadt zu dienen. Wir freuen uns über deine Email oder deinen Anruf.
+
+Du kannst dich auch für (link: http://form.jotformeu.com/form/22960694330354 text: unseren Newsletter) anmelden.
+
+**Unser Hub (Büro):**
 Berlin Christian Life Centre e.V.
 Weinbergsweg 24
 10119 Berlin
 U8, Tram M1, M8, M12, Bus 142 Rosenthaler Platz
 
-**Our Sunday Celebration location:**
-Ballhaus Mitte
-Ackerstr. 144
-10115 Berlin
-U8 Rosenthaler Platz / Tram M8, M12 Pappelplatz / S1, S2, S25 Nordbahnhof
+**Unser Gottesdienst-Gebäude:**
+Haus Ungarn
+Karl-Liebknecht-Strasse 9
+10178 Berlin
+Alexander Platz U2, U5, U8, S5, S7, S75 / Tram M4, M5, M6, M8, M48
 
-**Get in contact with:**
+**Kontaktiere uns:**
 Conny Frasch
 (email: conny@berlinclc.de text: conny@berlinclc.de)
 +49 (0) 176 647 979 52)
-----

@@ -1,25 +1,39 @@
-Id: coming-up
+﻿Id: coming-up
+
 ----
+
 Umbrella: Sundays
-----
-SlateSize: rectangle
-----
-Snippet: upcoming
+
 ----
 
-Title: Coming Up
-----
-Intro: Next Sunday, Guest Speakers & more.
+Slatesize: square big
+
 ----
 
-Text: Church is not what you think it is and is more what you think it is. Every Sunday, spiritual “food” and godly wisdom is provided that will strengthen your heart and soul for the week ahead. There will be a variety of speakers across the year, including our Pastors Mark & Joyce Wilkinson and some of the Berlin Connect team plus Guest Speakers from all over the world.
+Title: Kalender
 
-| Coming Up        |            |
+----
+
+Intro: Der nächste Sonntag, Gastsprecher & weitere Infos.
+
+----
+
+Text: Jeder Sonntag ist voll geistlicher Nahrung und Weisheit, die dein Herz und deine Seele für die kommende Woche stärken. Das ganze Jahr hindurch erwarten dich eine Vielzahl an Rednern, darunter unsere Pastoren Mark & Joyce Wilkinson und einige des Berlin Connect Teams sowie Gastredner aus der ganzen Welt.
+
+| Kalender        |            |
 | ------------- |-------------|
-| March 7th at 19:30 | Sisterhood Night with guest speaker **Julie Galanti** from Hillsong London - Gather your friends and join the party - you're all invited! |
-| March 29 - 30th | Dr. Robi: Healthy parenting tips for Kids and Youth|
+| 2. Juli | Dinner Parties mit Sinn 19:30 / Ein Tisch für Freundschaft und Familie* |
+| 6. Juli | Summer Momentum Sunday / 10:30, 12:30, 16:30, 18:30 at Haus Ungarn |
+| 13. Juli | Summer Momentum Sunday / 10:30, 12:30, 16:30, 18:30 at Haus Ungarn |
+| 13. Juli | Weltmeisterschaft 2014 Finale / 21:00 at Haus Ungarn |
+| 16. Juli | Dinner Parties mit Sinn 19:30 / Ein Tisch für Freundschaft und Familie* |
+| 20. Juli | Summer Momentum Sunday / 10:30, 12:30, 16:30, 18:30 at Haus Ungarn |
+| 23.-25. Juli | Hillsong Conference London, UK |
+| 27. Juli | Summer Momentum Sunday / 10:30, 12:30, 16:30, 18:30 at Haus Ungarn |
+| 30. Juli | Dinner Parties mit Sinn 19:30 / Ein Tisch für Freundschaft und Familie* |
 
-We encourage you to be a “self-feeder” by downloading past messages on (link: https://itunes.apple.com/de/podcast/berlin-connect-audio-podcast/id517067228?mt=2 text: iTunes), look onto our (link: /resources text: resources) or by grabbing our (link:# text: recent calendar) to plan your month. 
+*Um eine Dinner Party in deiner Nähe zu finden, kontaktiere Conny (email: conny@berlinclc.de text: conny@berlinclc.de ).
 
-You can even (link:# text: sync this calendar) with your phone to stay connected or (link: http://form.jotformeu.com/form/22960694330354 text: sign up for our news update).
-----
+Wir motivieren dich, selber informiert zu sein, indem du dir die letzten Predigten auf (link: https://soundcloud.com/berlinconnect text: Soundcloud) anhörst oder dir unsere (link: /resources text: Buch-Tipps) anschaust.
+
+Du kannst dich sogar für (link: http://form.jotformeu.com/form/22960694330354 text: unseren Newsletter) anmelden.
