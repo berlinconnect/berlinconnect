@@ -1,6 +1,6 @@
 <?php if(!defined('KIRBY')) exit ?>
 
-# default blueprint
+# sections blueprint
 
 title: Sections
 pages: true
