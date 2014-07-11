@@ -1,0 +1,25 @@
+﻿Id: dp-park
+----
+Umbrella: Community
+----
+SlateSize: square big
+----
+
+Title: Dinner Parties in the Park
+----
+Intro: One table of community.
+----
+
+Text: For the third time, our Dinner Parties in the park are coming up this August.
+
+Every summer we get together to create the longest community table of our city to bring all kind of people together to enjoy authentic friendships, real conversations, beautiful music and good food.
+
+It’s this moment where all our local Dinner Parties across Berlin unite to celebrate community around diversity.
+
+Our locations are still a hidden secret, but you are welcome!
+
+**Join the list to get more information soon.**
+Dinner Parties in the Park
+13.08. / 20.08.2014
+Somewhere in Berlin
+----
