@@ -100,6 +100,7 @@ blockquote
 // BUTTONS
 
 button.button
+input[type="submit"]
 a.button
   position: relative
   color: $light
@@ -149,6 +150,16 @@ button.button
   padding: 18px 50px 16px
   -webkit-appearance: none
 
+input[type="submit"]
+  background-color: $dark
+  border: none
+  color: white
+
+  &:hover
+    border: none
+    color: white
+    background: $light
+
 // TABLES
 
 $border = 1px solid #e1e1e1
@@ -181,8 +192,6 @@ table
         font-family: $heading
         text-transform: uppercase
         letter-spacing: 0.07em
-
-
 
   tbody
     tr
@@ -221,3 +230,23 @@ table
 
   .col-40
     width:40%
+
+// FORMS
+
+form
+  border: $border
+  box-shadow: 0 2px 3px rgba(black, 0.06)
+  padding: 20px
+
+input[type="text"]
+  border: 1px solid rgba(0,0,0,0.2)
+  padding: 10px 4px
+  min-width: 400px
+  font-size: 16px
+  font-family: $body
+
+label
+  display: block
+  font-weight: bold
+  margin-bottom: 10px
+  font-size: 18px
