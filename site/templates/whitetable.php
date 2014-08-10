@@ -1,5 +1,6 @@
 <?php snippet('header') ?>
 <?php snippet('menu') ?>
+<?php snippet('sidebar') ?>
 <div class="content">
   <?php snippet('whitetablehero') ?>
   <div class="wrapper page">
@@ -73,3 +74,5 @@
     </section>
   </div>
 </div>
+<?php snippet('lightbox') ?>
+<?php snippet('footer') ?>
