@@ -1,95 +1,41 @@
 <?php if(!defined('KIRBY')) exit ?>
 
-# homepage blueprint
+# the white table blueprint
 
 title: White Table
-pages: false
+pages: true
 files: false
 fields:
   title:
     label: Title
     type:  text
     help: This is the page title.
-  herotitle:
-    label: Hero Title
-    type:  text
-    help: This is the title in the hero image.
-  herocopy:
-    label: Hero Copy
+  subtitle:
+    label: Subtitle
     type:  textarea
     size:  medium
-    help: This is the text below the hero title.
-  sundaysubtitle:
-    label: Sunday Subtitle
+    help: This is the text below the logo
+  podcasttitle:
+    label: Podcast Title
     type: text
-    help: This is the about Berlin Connect subtitle above the title in uppercase.
-  sundaytitle:
-    label: Sunday Tile
+  podcastsubtitle:
+    label: Podcast Subtitle
     type: text
-    help: This is the uppercase title below the subtitle.
-  sundaycopy:
-    label: Sunday Copy
-    type: textarea
-    size: medium
-    help: This is the text about Berlin Connect
-    buttons:
-      - h3
-      - bold
-      - italic
-      - email
-      - link
-      - vimeo
-  communitysubtitle:
-    label: Community Subtitle
+  blogtitle:
+    label: Transcripts Title
     type: text
-  communitytitle:
-    label: Community Title
+  blogsubtitle:
+    label: Transcripts Subtitle
     type: text
-  communitycopy:
-    label: Community Copy
-    type: textarea
-    size: medium
-    buttons:
-      - h3
-      - bold
-      - italic
-      - email
-      - link
-      - vimeo
-  socialsubtitle:
-    label: Social Subtitle
+  bookstitle:
+    label: Books Title
     type: text
-  socialtitle:
-    label: Social Title
+  bookssubtitle:
+    label: Books Subtitle
     type: text
-  socialcopy:
-    label: Social Copy
-    type: textarea
-    size: medium
-    buttons:
-      - h3
-      - bold
-      - italic
-      - email
-      - link
-      - vimeo
-  charitywatersubtitle:
-    label: Charity Water Subtitle
+  downloadtitle:
+    label: Download Title
     type: text
-  joinussubtitle:
-    label: Join Us Subtitle
+  downloadsubtitle:
+    label: Download Subtitle
     type: text
-  joinustitle:
-    label: Join Us Title
-    type: text
-  joinuscopy:
-    label: Join Us Copy
-    type: textarea
-    size: medium
-    buttons:
-      - h3
-      - bold
-      - italic
-      - email
-      - link
-      - vimeo
