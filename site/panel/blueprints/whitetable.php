@@ -33,7 +33,7 @@ fields:
   bookssubtitle:
     label: Books Subtitle
     type: text
-  downloadstitle:
+  downloadsstitle:
     label: Download Title
     type: text
   downloadssubtitle:

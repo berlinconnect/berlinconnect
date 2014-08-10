@@ -1,0 +1,81 @@
+body
+  &.the-white-table
+
+  .content
+    .wrapper
+      section
+        padding: 50px 0
+
+        h1
+          text-transform: uppercase
+          font-size: 50px
+          line-height: @font-size
+          color: $dark
+          margin-bottom: 0px
+
+        h2
+          font-weight: 200
+          color: $light
+          font-size: 36px
+          line-height: @font-size + 10px
+          font-style: italic
+          margin: 0 0 20px
+          padding: 0
+
+        p
+          font-size: 22px
+          line-height: @font-size + 16px
+          color: $mid
+          margin-bottom: 20px
+
+        .items
+          width: 700px
+          margin: 30px auto 0
+          text-align: left
+
+          a.itemLink
+            text-decoration: none
+
+            &:hover
+              color: $orange
+              background-color: rgba(black,0.01)
+              display: block
+
+              .item
+                .entypo
+                  border: 2px solid $orange
+
+            .item
+              padding: 9px 10px 5px
+              border-bottom: 1px solid rgba($light,0.3)
+
+              .entypo
+                font-size: 40px
+                text-decoration: none
+                margin-top: -8px
+                padding: 5px 0
+                border: 2px solid $dark
+                height: 30px
+                width: 30px
+                line-height:17px
+                border-radius: 15px
+                margin-right: 10px
+                text-align: center
+
+                &.play
+                  padding: 5px 4px 5px 6px
+
+                &.download
+                  padding: 6px 0 4px
+
+              h3
+                font-size: 22px
+                display: inline-block
+                font-family: $body
+                font-weight: normal
+
+              .speaker
+                padding-top: 8px
+                font-style: italic
+
+
