@@ -3,6 +3,39 @@
     background: $dark
     border-top: 1px solid rgba(white,0.1)
 
+.the-white-table
+  .footer
+    background: $white
+    border-top: 1px solid rgba($dark,0.1)
+
+    .white-logo
+      background-image: url('../img/logo-outline-dark.svg')
+      opacity: 1
+
+    .nav-links
+      ul
+        color: $dark
+        li
+          color: $mid
+          a
+            color: $mid
+            opacity: 0.7
+
+            &:hover
+              color: $orange
+              opacity: 1
+
+    .copyrights
+      color: $mid
+      border-top: 1px solid rgba($dark,0.1)
+
+      .social-links
+        a
+          color: $mid
+
+          &:hover
+            color: $orange
+
 .footer
   padding: 50px 0
   background: rgba($dark, 0.95)
@@ -14,8 +47,8 @@
     width: 120px
     height: @width
     display: inline-block
-    background: url('../img/logo.png');
-    background-image: url('../img/logo-outline.svg'), none;
+    background: url('../img/logo.png')
+    background-image: url('../img/logo-outline.svg')
     background-position: center center
     background-repeat: no-repeat
     background-size: @height

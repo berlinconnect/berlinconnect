@@ -21,6 +21,50 @@ body.active
   .footer
     transform: translateX(-260px)
 
+.the-white-table
+  .sidebar
+    background: $white
+    border-left: 1px solid rgba(black,0.06)
+
+    .menu-message
+      color: $mid
+
+      .entypo
+        &.close
+          color: $light
+          opacity: 1
+
+          &:hover
+            color: $orange
+
+    .sidebar-container
+      color: $mid
+
+      h4
+        opacity: 1
+
+      li
+        a
+          color: $mid
+
+          &:hover
+            background: rgba(black,0.01)
+            opacity: 1.0
+            color: $orange
+
+    .social-links
+      color: $mid
+
+      a
+        opacity: 1
+        color: $mid
+
+        &:hover
+          color: $orange
+
+    .logo-outline
+      background-image: url('../img/logo-outline-dark.svg')
+
 .sidebar
   position: fixed
   width: 260px
