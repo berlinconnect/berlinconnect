@@ -4,6 +4,8 @@ body
   .content
     .wrapper
       section
+        padding: 50px 0
+
         h1
           text-transform: uppercase
           font-size: 50px
@@ -26,35 +28,45 @@ body
           color: $mid
           margin-bottom: 20px
 
-        &.podcasts
-          .messages
-            width: 700px
-            margin: 0 auto
-            text-align: left
+        .items
+          width: 700px
+          margin: 30px auto 0
+          text-align: left
 
-            .message
-              padding: 7px 0
-              border-bottom: 1px solid $light
+          a.itemLink
+            text-decoration: none
 
-              a
-                text-decoration: none
+            &:hover
+              color: $orange
+              background-color: rgba(black,0.01)
+              display: block
 
-                &:hover
-                  color: $orange
-                  .play
-                    border-color: $orange
+              .item
+                .entypo
+                  border: 2px solid $orange
 
-              .entypo.play
+            .item
+              padding: 9px 10px 5px
+              border-bottom: 1px solid rgba($light,0.3)
+
+              .entypo
                 font-size: 40px
                 text-decoration: none
                 margin-top: -8px
-                padding: 5px 4px 5px 6px
+                padding: 5px 0
                 border: 2px solid $dark
                 height: 30px
                 width: 30px
                 line-height:17px
                 border-radius: 15px
                 margin-right: 10px
+                text-align: center
+
+                &.play
+                  padding: 5px 4px 5px 6px
+
+                &.download
+                  padding: 6px 0 4px
 
               h3
                 font-size: 22px
@@ -63,5 +75,7 @@ body
                 font-weight: normal
 
               .speaker
-                padding-top: 10px
+                padding-top: 8px
+                font-style: italic
+
 
