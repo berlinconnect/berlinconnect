@@ -144,6 +144,19 @@
           padding:15px 45px
           padding-right: 10px
 
+    &.the-white-table
+      .content
+        .hero#whitetablehero
+          .wrapper
+            p
+              width: 100%
+
+        .wrapper
+          section .items a .item
+            span.right
+              background: red
+              display: none
+
 @media $media-full-width
 
   body
@@ -309,6 +322,44 @@
     section
       p
         width: 100%
+
+  body.the-white-table
+    .content
+      .wrapper
+        section
+          padding: 50px 0
+
+          h2
+            font-size: 26px
+            line-height: @font-size + 10px
+            font-style: italic
+            margin: 0 0 6px
+            padding: 0
+
+          h1
+            text-transform: uppercase
+            font-size: 40px
+            line-height: @font-size + 6px
+            color: $dark
+            margin-bottom: 0
+
+          .items
+            a
+              .item
+                padding: 15px 0
+                position: relative
+
+                .entypo
+                  margin-top: 0
+
+                h3
+                  position: absolute
+                  width: 90%
+                  white-space: nowrap
+                  overflow: hidden
+                  text-overflow: ellipsis
+                  margin-left: 0px
+                  top: 12px
 
 @media $media-mobile
 
