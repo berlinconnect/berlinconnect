@@ -67,7 +67,7 @@
           </div>
         </a>
         <?php endforeach ?>
-        <div class="center">
+        <div class="center hidden">
           <a class="button orange">Download Everything</a>
         </div>
       </div>
