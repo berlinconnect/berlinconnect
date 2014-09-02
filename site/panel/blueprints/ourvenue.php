@@ -1,6 +1,6 @@
 <?php if(!defined('KIRBY')) exit ?>
 
-title: Easter
+title: Our Venue
 pages: false
 files: false
 fields:

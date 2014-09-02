@@ -2,24 +2,22 @@
 <?php snippet('menu') ?>
 <?php snippet('sidebar') ?>
 <div class="content">
-  <?php snippet('newvenuehero') ?>
+  <?php snippet('ourvenuehero') ?>
   <section class="wrapper">
     <div class="intro center">
       <h1><?= $page->introtitle() ?></h1>
       <?= kirbytext($page->introcopy()) ?>
-      <br><br>
-      <a href="https://twitter.com/intent/tweet?source=webclient&amp;text=<?php echo rawurlencode("Have you heard? @BerlinConnect is moving. Find out more here. " . $page->url()); ?>" target="blank" title="Tell your friends" class="button white">Tell your friends</a>
   </section>
   <div class="mapContainer">
     <div class="wrapper">
       <div class="mapInfo">
         <div class="address">
           <h3><?= $page->address() ?></h3>
-          <p>Haus Ungarn<br>Karl-Liebknecht-Strasse 9<br>10178 Berlin</p>
+          <p>Haus Ungarn<br>Karl-Liebknecht-Straße 9<br>10178 Berlin</p>
         </div>
         <div class="transport">
           <h3><?= $page->transport() ?></h3>
-          <p>Alexander Platz:</p>
+          <p>Alexanderplatz:</p>
           <div class="connections">
             <span style="background-color:#F05921">U2</span><span style="background-color:#825942">U5</span><span style="background-color:#0D619E">U8</span><span class="s" style="background-color:#F47922">S5</span><span class="s" style="background-color:#7A6CAC">S7</span><span class="s" style="background-color:#7A6CAC">S75</span>
           </div>

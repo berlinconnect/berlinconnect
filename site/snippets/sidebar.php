@@ -32,7 +32,7 @@
     </li>
     <?php endforeach ?>
     <h4><?= $site->more() ?></h4>
-    <?php $items = $pages->find('giving', 'contact', 'the-white-table', 'faq', 'imprint', 'new-venue'); if($items->count() > 0): ?>
+    <?php $items = $pages->find('giving', 'contact', 'the-white-table', 'faq', 'imprint', 'our-venue'); if($items->count() > 0): ?>
       <?php foreach($items as $item): ?>
         <li class="lvl-2">
           <a href="<?php echo $item->url() ?>">
@@ -41,11 +41,6 @@
         </li>
       <?php endforeach ?>
     <?php endif ?>
-    <!-- <li class="lvl-2"><a href="<?php echo url('giving') ?>">Giving</a></li>
-    <li class="lvl-2"><a href="<?php echo url('contact') ?>">Contact</a></li>
-    <li class="lvl-2"><a href="<?php echo url('faq') ?>">FAQ</a></li>
-    <li class="lvl-2"><a href="<?php echo url('resources') ?>">Resources</a></li>
-    <li class="lvl-2"><a href="<?php echo url('imprint') ?>">Imprint</a></li> -->
   </ul>
   <?php snippet('sociallinks') ?>
   <div class="logo-outline"></div>
