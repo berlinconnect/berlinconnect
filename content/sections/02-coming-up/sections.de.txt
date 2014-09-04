@@ -6,7 +6,7 @@ Umbrella: Sundays
 
 ----
 
-Slatesize: square big
+Slatesize: rectangle
 
 ----
 
@@ -14,26 +14,23 @@ Title: Kalender
 
 ----
 
-Intro: Der nächste Sonntag, Gastsprecher & weitere Infos.
+Intro: Diesen Sonntag, Gastsprecher & weitere Infos.
 
 ----
 
-Text: Jeder Sonntag ist voll geistlicher Nahrung und Weisheit, die dein Herz und deine Seele für die kommende Woche stärken. Das ganze Jahr hindurch erwarten dich eine Vielzahl an Rednern, darunter unsere Pastoren Mark & Joyce Wilkinson und einige des Berlin Connect Teams sowie Gastredner aus der ganzen Welt.
+Text: Kirche ist nicht was du denkst.....Kirche ist *mehr als* du denkst. Jeden Sonntag wirst du ermutigt durch 'Nahrung', die dich innerlich stärkt und durch Weisheit von Gott, die dich fürs Leben ausrüstet.  
+
+Verschiedene Leute sprechen, unter anderem unsere Pastoren Mark & Joyce Wilkinson, Leute aus dem Berlin Connect Team und Gastredner aus der ganzen Welt.
 
 | Kalender        |            |
 | ------------- |-------------|
-| 2. Juli | Dinner Parties mit Sinn 19:30 / Ein Tisch für Freundschaft und Familie* |
-| 6. Juli | Summer Momentum Sunday / 10:30, 12:30, 16:30, 18:30 at Haus Ungarn |
-| 13. Juli | Summer Momentum Sunday / 10:30, 12:30, 16:30, 18:30 at Haus Ungarn |
-| 13. Juli | Weltmeisterschaft 2014 Finale / 21:00 at Haus Ungarn |
-| 16. Juli | Dinner Parties mit Sinn 19:30 / Ein Tisch für Freundschaft und Familie* |
-| 20. Juli | Summer Momentum Sunday / 10:30, 12:30, 16:30, 18:30 at Haus Ungarn |
-| 23.-25. Juli | Hillsong Conference London, UK |
-| 27. Juli | Summer Momentum Sunday / 10:30, 12:30, 16:30, 18:30 at Haus Ungarn |
-| 30. Juli | Dinner Parties mit Sinn 19:30 / Ein Tisch für Freundschaft und Familie* |
+| 31. August | Summer Momentum Sunday & Big Family Fun Day! / 10:30, 12:30, 16:30, 18:30 Haus Ungarn |
+| 2. September | Heart and Soul Night 19:30 Haus Ungarn |
+| 7. September | Sunday Celebrations mit Jeff Lestz / 10:30, 12:30, 16:30, 18:30 Haus Ungarn / An diesem Sonntag sind wir in einer neuen Location. Um einen Adressen-update zu erhalten bitte schicke eine SMS an 0176 647 97 952 mit Namen, E-mail und Telefonnummer |
+| 8. September | Kingdom Business & Kingdom Finance mit Jeff Lestz |
 
-*Um eine Dinner Party in deiner Nähe zu finden, kontaktiere Conny (email: conny@berlinclc.de text: conny@berlinclc.de ).
+*Um eine Dinner Party in deiner Nähe zu finden, kontaktiere bitte Conny (email: conny@berlinclc.de text: conny@berlinclc.de ).
 
-Wir motivieren dich, selber informiert zu sein, indem du dir die letzten Predigten auf (link: https://soundcloud.com/berlinconnect text: Soundcloud) anhörst oder dir unsere (link: /resources text: Buch-Tipps) anschaust.
+Wir ermutigen dich, ein 'self-feeder' zu sein und dich selbst geistlich fit zu halten: Du kannst dir die letzten (link:/the-white-table text: Predigten) anhören oder dir unsere (link:/the-white-table text: Buch-Tipps) anschauen.
 
-Du kannst dich sogar für (link: http://form.jotformeu.com/form/22960694330354 text: unseren Newsletter) anmelden.
+Du kannst dich auch für (link: http://form.jotformeu.com/form/22962425907358 text: unseren Newsletter) anmelden.

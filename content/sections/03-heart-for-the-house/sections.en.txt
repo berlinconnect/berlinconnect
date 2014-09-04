@@ -1,0 +1,29 @@
+﻿Id: heart
+
+----
+
+Umbrella: Sundays
+
+----
+
+Slatesize: square big
+
+----
+
+Title: Heart for the House
+
+----
+
+Intro: My heart for the House
+
+----
+
+Text: Our annual Heart for the House offering is a sacrificial offering we bring collectively over and above tithes and offerings to expand the mission, vision, and maximise the opportunities God has put before us, changing perceptions about Jesus and His Church and strengthening the next generation.
+
+###Three ways to be involved:<br>
+**Faithful Givers**
+Any gift amount on the day
+**Vision Givers**
+Gift on the day + monthly commitment
+**Kingdom Givers**
+Gift on the day + annual commitment

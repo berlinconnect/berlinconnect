@@ -10,16 +10,17 @@ Slatesize: rectangle
 
 ----
 
-Title: Social Kindness
+Title: City Kindness
 
 ----
 
-Intro: Expressing kindness globally and socially.
+Intro: Expressing kindness globally and locally.
 
 ----
 
-Text: This is what we are all about - empowering people to shine brightly in our modern day society living from the good news of who we are in Christ. 
-Our desire is for everyone who calls Berlin Connect home to be involved in expressing social kindness both globally and locally. The Gospel empowers us to love our neighbour who is anyone and everyone in society. While we express our social kindness locally through our Dinner Parties and personal relationships, we express our social kindness globally through the following strategic partnerships: 
+Text: Our desire is that all who call Berlin Connect home are involved in expressing kindness locally and globally. Whilst we can personally express kindness to those in our community we also join collectively to empower the more vulnerable in our city, working primarily through our Dinner Parties and Sisterhood. 
+
+Globally we partner with the following strategic organisations.
 
 ###The A21 Campaign - Stopping human trafficking.
 
@@ -44,17 +45,17 @@ Compassion has over 50 years of experience working with some of the poorest comm
 
 We support Compassion through contributing to the global Compassion Sunday as well as through individual sponsors in our church. (link:http://www.compassion-de.org/ text:Click here) to get more information and support Compassion.
 
-###charity: water - Changing lives with clean water.
+###Charity: water - Changing lives with clean water.
 
-charity: water is a non-profit organization bringing clean and safe drinking water to people in developing nations. There are 800 million people on the planet who don't have clean water.
+Charity: water is a non-profit organization bringing clean and safe drinking water to people in developing nations. There are 800 million people on the planet who don't have clean water.
 
-A water well will provide clean water for a community of up to 500 people. charity:water works by the 100% model: 100% of all donations to charity: water go directly to the field to fund water projects.
+A water well will provide clean water for a community of up to 500 people. Charity: water works by the 100% model: 100% of all donations to Charity: water go directly to the field to fund water projects.
 
-Every year we take part in the annual "Berliner Wasserbetriebe 5x5 km TEAM-Staffel" relay race to raise funds for charity: water addressing the global water crisis. Since 2011, the charity: water annual relay race has raised $24,929 (€18,244) for clean water projects serving 1149 people in rural Ethiopian communities. (link:http://www.charitywater.org/ text:Click here) to get more information and support charity: water.
+Every year we take part in the annual "Berliner Wasserbetriebe 5x5 km TEAM-Staffel" relay race to raise funds for Charity: water addressing the global water crisis. Since 2011, the Charity: water annual relay race has raised $24,929 (€18,244) for clean water projects serving 1149 people in rural Ethiopian communities. (link:http://www.charitywater.org/ text:Click here) to get more information and support Charity: water.
 
 ###Vision Rescue - Rescuing street children in Mumbai, India.
 
-Vision Rescue is a non-profit involved in feeding, providing non-formal education, medical help, skill training and other kinds of help to addicted and abused street children.
+Vision Rescue is a non-profit organisation involved in feeding, providing non-formal education, medical help, skill training and other kinds of help to addicted and abused street children.
 
 Biju Thampy founded the ministry in 2004 after seeing the enormous need and feeling compelled to step in and make a difference even if it was only for one child.
 

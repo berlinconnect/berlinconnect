@@ -6,7 +6,7 @@ Umbrella: Sundays
 
 ----
 
-Slatesize: square big
+Slatesize: rectangle
 
 ----
 
@@ -14,28 +14,26 @@ Title: Coming Up
 
 ----
 
-Intro: Next Sunday, Guest Speakers & more.
+Intro: This Sunday, Guest Speakers & more.
 
 ----
 
-Text: Church is not what you think it is and is more what you think it is. Every Sunday, spiritual “food” and godly wisdom is provided that will strengthen your heart and soul for the week ahead. There will be a variety of speakers across the year, including our Pastors Mark & Joyce Wilkinson and some of the Berlin Connect team plus Guest Speakers from all over the world.
+Text: Church is not what you think it is.....it's *more than* what you think it is.  Every Sunday you will be encouraged with spiritual 'food' and Godly wisdom that will equip and strengthen you for life.
+
+There are various speakers including our Pastors Mark & Joyce Wilkinson, the Berlin Connect team, as well as guest speakers from all over the world. 
+
 
 | Coming Up        |            |
 | ------------- |-------------|
-| July 2nd | Dinner Parties 19:30 / A Table of friendship & family* |
-| July 6th | Summer Momentum Sunday / 10:30, 12:30, 16:30, 18:30 at Haus Ungarn |
-| July 13th | Summer Momentum Sunday / 10:30, 12:30, 16:30, 18:30 at Haus Ungarn |
-| July 13th | World Cup Final / Invite a friend! 21:00 at Haus Ungarn |
-| July 16th | Dinner Parties 19:30 / A Table of friendship & family* |
-| July 20th | Summer Momentum Sunday / 10:30, 12:30, 16:30, 18:30 at Haus Ungarn |
-| July 23rd-25th | Hillsong Conference London, UK |
-| July 27th | Summer Momentum Sunday / 10:30, 12:30, 16:30, 18:30 at Haus Ungarn |
-| June 30th | Dinner Parties 19:30 / A Table of friendship & family* |
+| August 31st | Summer Momentum Sunday & Big Family Fun Day! / 10:30, 12:30, 16:30, 18:30 at Haus Ungarn |
+| September 2nd | Heart and Soul Night |
+| September 3rd | Dinner Parties with Purpose 19:30 / A table of friendship & family* |
+| September 7th | Sunday Celebrations with Jeff Lestz / 10:30, 12:30, 16:30, 18:30 at Haus Ungarn / We will be in a different venue this Sunday. For a location update please send us an SMS with your name, e-mail and phone to 0176 6479 7952 |
+| September 8th | Kingdom Business & Kingdom Finance with Jeff Lestz |
+| September 17th | Dinner Parties with Purpose 19:30 / A table of friendship & family* |
 
+*To find a Dinner Party near you contact Conny (email: conny@berlinclc.de text: conny@berlinclc.de ).
 
-
-*To find a Dinner Party near you, contact Conny (email: conny@berlinclc.de text: conny@berlinclc.de ).
-
-We encourage you to be a “self-feeder” by downloading past messages on (link: https://soundcloud.com/berlinconnect text: Soundcloud) or look onto our (link: /resources text: resources).
+We encourage you to be a “self-feeder” by downloading our (link:/the-white-table text: messages) or looking at our (link:/the-white-table text: resources).
 
 You can also subscribe to (link: http://form.jotformeu.com/form/22960694330354 text: our newsletter here).
