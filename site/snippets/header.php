@@ -88,4 +88,7 @@
 
 </head>
 
-<body id="sunday" class="<?=$page->uri()?>">
+<body class="<?=$page->uri()?>">
+<div class="notice">
+  <?= kirbytext($site->notice()) ?>
+</div>
