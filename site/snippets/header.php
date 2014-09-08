@@ -89,6 +89,6 @@
 </head>
 
 <body class="<?=$page->uri()?>">
-<div class="notice">
+<div class="notice hidden">
   <?= kirbytext($site->notice()) ?>
 </div>
