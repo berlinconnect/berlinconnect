@@ -167,6 +167,47 @@
     .menu
       color: $dark !important
 
+  &#heartforthehousehero
+    background-color: $yellow
+    animation: fade 1000ms ease
+
+    .wrapper
+      padding: 70px 0 120px
+
+      h1
+        font-family: $heading
+        color: $yellow
+        font-size: 75px
+        line-height: @font-size + 20px
+        width: 290px
+        margin: 0 auto
+        text-decoration: underline
+        font-style: italic
+        font-weight: 900
+        animation: fade 2000ms ease
+
+      .logos
+        margin-top: 50px
+        animation: fade 2600ms ease
+
+        span
+          margin: 0 5px
+
+        .hfthlogo
+          display: inline-block
+          width: 54px
+          height: @width
+          background-image: url('../img/hfth-yellow.svg')
+
+        .bclogo
+          display: inline-block
+          width: 52px
+          height: @width
+          background-image: url('../img/logo-outline-yellow.svg')
+
+    .menu
+      color: $yellow !important
+
   &#ourvenuehero
     background-color: $dark
     background-image: url('../img/newvenue2.jpg')
