@@ -9,27 +9,54 @@
     </li>
     <h4><?= $site->sundays() ?></h4>
     <?php foreach($pages->find('sections')->children()->filterBy('umbrella', 'Sundays') as $section): ?>
-    <li id="<?= $section->id() ?>" class="lvl-1 internal">
-      <a>
-        <?php echo html($section->title()) ?>
-      </a>
-    </li>
+    <?php if (strlen($section->pagelink()) != 0): ?>
+      <li class="lvl-1">
+        <a href="<?= $section->pagelink() ?>">
+          <?php echo html($section->title()) ?>
+        </a>
+      </li>
+    <?php endif ?>
+    <?php if (strlen($section->pagelink()) < 1): ?>
+      <li id="<?= $section->id() ?>" class="lvl-1 internal">
+        <a>
+          <?php echo html($section->title()) ?>
+        </a>
+      </li>
+    <?php endif ?>
     <?php endforeach ?>
     <h4><?= $site->community() ?></h4>
     <?php foreach($pages->find('sections')->children()->filterBy('umbrella', 'Community') as $section): ?>
-    <li id="<?= $section->id() ?>" class="lvl-1 internal">
-      <a>
-        <?php echo html($section->title()) ?>
-      </a>
-    </li>
+    <?php if (strlen($section->pagelink()) != 0): ?>
+      <li class="lvl-1">
+        <a href="<?= $section->pagelink() ?>">
+          <?php echo html($section->title()) ?>
+        </a>
+      </li>
+    <?php endif ?>
+    <?php if (strlen($section->pagelink()) < 1): ?>
+      <li id="<?= $section->id() ?>" class="lvl-1 internal">
+        <a>
+          <?php echo html($section->title()) ?>
+        </a>
+      </li>
+    <?php endif ?>
     <?php endforeach ?>
     <h4><?= $site->socialenterprise() ?></h4>
     <?php foreach($pages->find('sections')->children()->filterBy('umbrella', 'Social') as $section): ?>
-    <li id="<?= $section->id() ?>" class="lvl-1 internal">
-      <a>
-        <?php echo html($section->title()) ?>
-      </a>
-    </li>
+    <?php if (strlen($section->pagelink()) != 0): ?>
+      <li class="lvl-1">
+        <a href="<?= $section->pagelink() ?>">
+          <?php echo html($section->title()) ?>
+        </a>
+      </li>
+    <?php endif ?>
+    <?php if (strlen($section->pagelink()) < 1): ?>
+      <li id="<?= $section->id() ?>" class="lvl-1 internal">
+        <a>
+          <?php echo html($section->title()) ?>
+        </a>
+      </li>
+    <?php endif ?>
     <?php endforeach ?>
     <h4><?= $site->more() ?></h4>
     <?php $items = $pages->find('giving', 'contact', 'the-white-table', 'faq', 'imprint', 'our-venue'); if($items->count() > 0): ?>

@@ -27,3 +27,61 @@
           font-weight: 600
           text-align: justify
           text-justify: inter-word
+
+    .stories
+      width: 100%
+      .story
+        position: relative
+
+        .copyoverlay
+          background: $yellow
+          position: absolute
+          height: 100%
+          width: 100%
+          opacity: 0
+          z-index: 1
+          transition: all 300ms ease
+
+          table, table td
+            border: none !important;
+            padding: 0 60px
+
+            p
+              font-family: "munich", sans-serif
+              font-size: 66px
+              line-height: 77px
+              text-align: center
+              color: $dark
+              font-weight: normal
+              transform: scale(0.95)
+              opacity: 0
+              transition: all 200ms ease
+
+        &:hover
+          .copyoverlay
+            opacity: 1
+
+            table p
+              opacity: 1
+              transform: scale(1.0)
+
+        .image
+          img
+            width: 100%
+
+          .name
+            position: absolute
+            font-size: 34px
+            font-weight: 900
+            font-family: $heading
+            font-style: italic
+            text-transform: uppercase
+            color: $yellow
+            letter-spacing: 1px
+            text-align: center
+            text-decoration: underline
+            width: 100%
+            position: absolute
+            bottom: 40px
+            left: 0
+            padding: 0 40px
