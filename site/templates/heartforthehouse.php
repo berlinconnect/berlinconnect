@@ -18,7 +18,7 @@
           <table width="100%" height="100%">
             <tr align="center">
               <td align="center" valign="middle">
-               <p>“We believe that you never come second by putting God first. Heart for the house is a great opportunity to put your faith into action”</p>
+               <p><?= $page->danielstory() ?></p>
               </td>
             </tr>
           </table>
@@ -33,7 +33,7 @@
           <table width="100%" height="100%">
             <tr align="center">
               <td align="center" valign="middle">
-               <p>“We believe that you never come second by putting God first. Heart for the house is a great opportunity to put your faith into action”</p>
+               <p><?= $page->mattstory() ?></p>
               </td>
             </tr>
           </table>
@@ -48,7 +48,7 @@
           <table width="100%" height="100%">
             <tr align="center">
               <td align="center" valign="middle">
-               <p>“We believe that you never come second by putting God first. Heart for the house is a great opportunity to put your faith into action”</p>
+               <p><?= $page->fraukeconststory() ?></p>
               </td>
             </tr>
           </table>
