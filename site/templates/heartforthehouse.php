@@ -122,6 +122,7 @@
       </div>
       <div class="center">
         <a class="button dark big">Get Involved</a>
+      </div>
     </div>
   </div>
 </div>
