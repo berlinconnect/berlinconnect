@@ -106,7 +106,22 @@
   <div class="threeways">
     <div class="wrapper">
       <h1 class="center"><?= $page->threewaysheading() ?></h1>
-      <div class="bodytext"><?= kirbytext($page->threewayscopy()) ?></div>
+      <div class="cols">
+        <div class="col col-33">
+          <h2 class="center">Faithful Givers</h2>
+          <p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to.</p>
+        </div>
+        <div class="col col-33">
+          <h2 class="center">Vision Givers</h2>
+          <p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to.</p>
+        </div>
+        <div class="col col-33">
+          <h2 class="center">Kingdom Givers</h2>
+          <p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to.</p>
+        </div>
+      </div>
+      <div class="center">
+        <a class="button dark big">Get Involved</a>
     </div>
   </div>
 </div>
