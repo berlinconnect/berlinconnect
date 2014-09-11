@@ -5,7 +5,9 @@
   <?php snippet('heartforthehousehero') ?>
   <div class="intro">
     <div class="wrapper">
-      <h1 class="center"><?= $page->introheading() ?></h1>
+      <div class="heading-container">
+        <h1 class="center"><?= $page->introheading() ?></h1>
+      </div>
       <div class="bodytext"><?= kirbytext($page->introcopy()) ?></div>
     </div>
   </div>
@@ -105,7 +107,9 @@
   </div>
   <div class="threeways">
     <div class="wrapper">
-      <h1 class="center"><?= $page->threewaysheading() ?></h1>
+      <div class="heading-container">
+        <h1 class="center"><?= $page->threewaysheading() ?></h1>
+      </div>
       <div class="cols">
         <div class="col col-33">
           <h2 class="center">Faithful Givers</h2>
