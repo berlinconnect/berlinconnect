@@ -98,6 +98,48 @@
         ul
           margin-left: 50px
 
+    &.heart-for-the-house
+      .content
+        .intro
+        .threeways
+          .wrapper
+            .bodytext
+              width:100%
+              max-width: 560px
+              height: auto
+              column-count: 1
+              column-gap: 0
+
+              p
+                margin-bottom: 20px
+
+            .cols .col
+              h2
+                font-size: 50px
+                line-height: 55px
+
+              p
+                font-size: 22px
+                line-height: 30px
+
+        .stories
+          .story
+            width: 50%
+
+            .copyoverlay
+              table, table td
+                padding: 0 50px
+
+                p
+                  font-size: 3.5em
+                  line-height: 1.2em
+
+            .image
+              .name
+                font-size: 34px
+                line-height: 30px
+                bottom: 40px
+
 @media $media-tablet-portrait
 
   body
@@ -172,6 +214,48 @@
             span.right
               background: red
               display: none
+
+    &.heart-for-the-house
+      .content
+        .intro
+        .threeways
+          .wrapper
+            .bodytext
+              width:100%
+              max-width: 560px
+              height: auto
+              column-count: 1
+              column-gap: 0
+
+              p
+                margin-bottom: 20px
+
+            .cols .col
+              h2
+                font-size: 50px
+                line-height: 55px
+
+              p
+                font-size: 22px
+                line-height: 30px
+
+        .stories
+          .story
+            width: 50%
+
+            .copyoverlay
+              table, table td
+                padding: 0 50px
+
+                p
+                  font-size: 3em
+                  line-height: 1.2em
+
+            .image
+              .name
+                font-size: 24px
+                line-height: 30px
+                bottom: 20px
 
 @media $media-full-width
 
@@ -387,6 +471,62 @@
                   margin-left: 0px
                   top: 12px
 
+  body.heart-for-the-house
+    .content
+      .intro
+      .threeways
+        .wrapper
+          .bodytext
+            width:100%
+            max-width: 560px
+            column-count: 1
+            column-gap: 0
+
+            p
+              margin-bottom: 20px
+
+          .cols .col
+            h2
+              font-size: 50px
+              line-height: 55px
+              margin-bottom: 10px
+
+            p
+              font-size: 22px
+              line-height: 30px
+
+      .stories
+        .story
+          width: 100%
+
+          .copyoverlay
+            opacity: 1
+            background: rgba($dark,0.5)
+
+            table, table td
+              padding: 0 20px
+
+              p
+                font-size: 3.8em
+                line-height: 1.3em
+                opacity: 1
+                color: $yellow
+
+          &:hover
+            .copyoverlay
+              opacity: 1
+
+              table p
+                transform: scale(0.95)
+
+          .image
+            .name
+              font-size: 36px
+              line-height: 46px
+              color: $yellow
+              bottom: 30px
+              z-index: 5
+
 @media $media-mobile
 
   body
@@ -559,6 +699,12 @@
         .logo
           display: block
 
+    &.heart-for-the-house
+      .menu
+        .wrapper
+          .logo
+            background-image: url('../img/logo-yellow.svg'), none;
+
     .hero
       .wrapper
         padding: 70px 0 100px
@@ -632,6 +778,26 @@
           border: 4px solid white
           padding:15px 35px
           padding-right: 10px
+
+  &.heart-for-the-house
+    .content
+      .threeways
+        .wrapper
+          .cols .col
+            width: 100%
+            margin-bottom: 30px
+
+            &:last-child
+              margin-bottom: 0
+
+            h2
+              font-size: 56px
+              line-height: 55px
+              margin-bottom: 10px !important
+
+            p
+              font-size: 26px !important
+              line-height: 32px !important
 
   &.new-venue
     .menu

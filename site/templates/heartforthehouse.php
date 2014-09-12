@@ -48,7 +48,7 @@
           <table width="100%" height="100%">
             <tr align="center">
               <td align="center" valign="middle">
-               <p><?= $page->fraukeconststory() ?></p>
+                <p><?= $page->fraukeconststory() ?></p>
               </td>
             </tr>
           </table>
@@ -63,7 +63,7 @@
           <table width="100%" height="100%">
             <tr align="center">
               <td align="center" valign="middle">
-               <p>“We believe that you never come second by putting God first. Heart for the house is a great opportunity to put your faith into action”</p>
+                <p><?= $page->chistory() ?></p>
               </td>
             </tr>
           </table>
@@ -78,14 +78,14 @@
           <table width="100%" height="100%">
             <tr align="center">
               <td align="center" valign="middle">
-               <p>“We believe that you never come second by putting God first. Heart for the house is a great opportunity to put your faith into action”</p>
+                <p><?= $page->annestory() ?></p>
               </td>
             </tr>
           </table>
         </div>
         <div class="image">
           <img src="../img/h4h/anna.jpg" />
-          <span class="name">anna</span>
+          <span class="name">anne</span>
         </div>
       </div>
       <div class="col col-33 story dennis">
@@ -93,7 +93,7 @@
           <table width="100%" height="100%">
             <tr align="center">
               <td align="center" valign="middle">
-               <p>“We believe that you never come second by putting God first. Heart for the house is a great opportunity to put your faith into action”</p>
+                <p><?= $page->dennisstory() ?></p>
               </td>
             </tr>
           </table>
@@ -113,15 +113,15 @@
       <div class="cols">
         <div class="col col-33">
           <h2 class="center">Faithful Givers</h2>
-          <p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to.</p>
+          <p><?= $page->faithfulgiver() ?></p>
         </div>
         <div class="col col-33">
           <h2 class="center">Vision Givers</h2>
-          <p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to.</p>
+          <p><?= $page->visiongiver() ?></p>
         </div>
         <div class="col col-33">
           <h2 class="center">Kingdom Givers</h2>
-          <p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to.</p>
+          <p><?= $page->kingdomgiver() ?></p>
         </div>
       </div>
       <div class="center">

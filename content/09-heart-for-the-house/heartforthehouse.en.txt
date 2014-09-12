@@ -4,7 +4,9 @@ Title: My Heart For The House
 IntroHeading: This Is What Our Heart Beats For
 ----
 
-IntroCopy: We want to change people’s perceptions about Jesus and His Church. Church is not a building or an institution, but a family, a ‘house’ made up of people from all walks of life. God’s House is a community that is always open for more people of all ages to ‘take their place at the table’, to ‘come home’ and to discover who they are by discovering who He is. Heart for the House is a practical way of seeing this mission become a reality through our collective giving on 05 October and beyond for those who want to contribute through an ongoing monthly & annual commitment. By resourcing God’s house we are resourcing people, including the generations to come.
+IntroCopy: We want to change people’s perceptions about Jesus and His Church. Church is not a building or an institution, but a family, a ‘house’ made up of people from all walks of life. God’s House is a community that is always open for more people of all ages to ‘take their place at the table’, to ‘come home’ and to discover who they are by discovering who He is.
+
+Our annual Heart for the House offering is a practical way of seeing this mission become a reality through our collective giving on 05 October and beyond for those who want to contribute through an ongoing monthly & annual commitment over and above tithes and offerings. By resourcing God’s House we are resourcing people, including the generations to come.
 
 ----
 
@@ -20,13 +22,20 @@ FraukeConstStory: On our journey we’ve learned that you never come second by p
 DennisStory: I want to see more and more people having the chance to find a purpose for their lives. Heart for the House is for me an opportunity to make it become a reality.
 ----
 
-ChiStory:
+ChiStory: Heart for the House is about being part of something bigger than myself and for building something that will last beyond my lifetime; for the children I see now and those yet to be born. To be woven into this magnificent story still is nothing short of an honour and a privilege.
 ----
 
-AnnaStory:
+AnneStory: What I am learning on Sundays helps me to take responsibility in my everyday life. I want to build God’s House because it enlarges people.
 ----
 
 
 ThreeWaysHeading: 3 Ways To Get Involved
+----
+
+FaithfulGiver: Any gift amount on the day
+----
+VisionGiver: Gift on the day & a monthly commitment
+----
+KingdomGiver: Gift on the day & an annual commitment
 ----
 
