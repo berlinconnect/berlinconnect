@@ -476,6 +476,18 @@
       .intro
       .threeways
         .wrapper
+          .heading-container
+            max-width: 330px
+            margin: 0 auto 40px
+            text-align: center
+
+          h1
+            font-size: 40px
+            line-height: 56px
+            background-image: url("/img/underline.svg")
+            background-position: 200px 48px
+            background-repeat: repeat-x
+
           .bodytext
             width:100%
             max-width: 560px
@@ -484,6 +496,7 @@
 
             p
               margin-bottom: 20px
+              text-align: left
 
           .cols .col
             h2
@@ -689,6 +702,43 @@
         .map
           height: 540px
 
+  body.heart-for-the-house
+    .content
+      .threeways
+        .wrapper
+          .cols .col
+            width: 100%
+            margin-bottom: 30px
+
+            &:last-child
+              margin-bottom: 0
+
+            h2
+              font-size: 56px
+              line-height: 55px
+              margin-bottom: 10px
+
+            p
+              font-size: 26px
+              line-height: 32px
+
+      .stories
+        .story
+          width: 100%
+
+          .copyoverlay
+            opacity: 1
+            background: rgba($dark,0.5)
+
+            table, table td
+              padding: 0 20px
+
+              p
+                font-size: 3.2em
+                line-height: 1.3em
+                opacity: 1
+                color: $yellow
+
 @media $media-mobile-portrait
 
   body
@@ -704,6 +754,11 @@
         .wrapper
           .logo
             background-image: url('../img/logo-yellow.svg'), none;
+
+        &.clone
+          .wrapper
+            .logo
+              background-image: url('../img/logo-dark.svg'), none;
 
     .hero
       .wrapper
@@ -778,26 +833,6 @@
           border: 4px solid white
           padding:15px 35px
           padding-right: 10px
-
-  &.heart-for-the-house
-    .content
-      .threeways
-        .wrapper
-          .cols .col
-            width: 100%
-            margin-bottom: 30px
-
-            &:last-child
-              margin-bottom: 0
-
-            h2
-              font-size: 56px
-              line-height: 55px
-              margin-bottom: 10px !important
-
-            p
-              font-size: 26px !important
-              line-height: 32px !important
 
   &.new-venue
     .menu
