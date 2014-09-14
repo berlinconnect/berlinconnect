@@ -21,6 +21,9 @@ fields:
       - email
       - link
       - vimeo
+  videolink:
+    label: Video URL
+    type:  text
   danielstory:
     label: Daniel's Story
     type:  textarea

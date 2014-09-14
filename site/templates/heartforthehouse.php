@@ -9,6 +9,9 @@
         <h1 class="center"><?= $page->introheading() ?></h1>
       </div>
       <div class="bodytext"><?= kirbytext($page->introcopy()) ?></div>
+      <div class="center video-container">
+        <?= kirbytext($page->videolink()) ?>
+      </div>
     </div>
   </div>
   <div class="stories">

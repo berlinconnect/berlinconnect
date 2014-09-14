@@ -2,10 +2,10 @@
 
 ----
 
-Subtitle: 
+Subtitle:
 
 ----
 
 Text: Hmmm, es sieht so aus als könnten wir die Seite nicht finden, die du suchst. Nicht so schlimm, du hast dich nicht verlaufen. Klicke einfach auf den Button dort unten :)
 
-(link: / text: Zurück nach Hause class: button)
+(link: /home text: Zurück nach Hause class: button)
