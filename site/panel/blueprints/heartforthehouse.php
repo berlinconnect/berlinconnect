@@ -51,33 +51,33 @@ fields:
   threewaysheading:
     label: Title
     type:  text
-  faithfulgiver
+  faithfulgiver:
     label: Title
     type:  text
-  faithfulgivertitle
+  faithfulgivertitle:
     label: Title
     type:  text
-  faithfulgivercopy
+  faithfulgivercopy:
     label: Faithful Giver
     type:  textarea
     size:  small
-  visiongiver
+  visiongiver:
     label: Title
     type:  text
-  visiongivertitle
+  visiongivertitle:
     label: Title
     type:  text
-  visiongivercopy
+  visiongivercopy:
     label: Faithful Giver
     type:  textarea
     size:  small
-  kingdomgiver
+  kingdomgiver:
     label: Title
     type:  text
-  kingdomgivertitle
+  kingdomgivertitle:
     label: Title
     type:  text
-  kingdomgivercopy
+  kingdomgivercopy:
     label: Faithful Giver
     type:  textarea
     size:  small
