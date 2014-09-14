@@ -15,7 +15,7 @@ define([
     'events': {
 
       'click .scroll a[href*=#]': 'scrollToAnchor',
-      'click .slate.dimmed, .sidebar-container li.internal, .nav-links ul li.internal': 'onLickLightboxLink',
+      'click .slate.dimmed, .thelightbox, .sidebar-container li.internal, .nav-links ul li.internal': 'onLickLightboxLink',
       'click .lightbox .close, .lightbox-container .close-lightbox, .lightbox .lightbox-overlay, .dark-overlay': 'closeLightbox',
       'click .sidebar-control': 'toggleSidebar',
       'click .sidebar .close': 'closeSidebar',
@@ -158,8 +158,8 @@ define([
       var self = this;
       var $target = $(ev.target);
 
-      if (!$target.hasClass('slate, sidebar-container li.internal, nav-links ul li ')) {
-        $target = $target.closest('.slate, .sidebar-container li.internal , .nav-links ul li');
+      if (!$target.hasClass('slate, thelightbox, sidebar-container li.internal, nav-links ul li ')) {
+        $target = $target.closest('.slate, .thelightbox, .sidebar-container li.internal , .nav-links ul li');
       }
 
       var elementId = $target.attr('id');
