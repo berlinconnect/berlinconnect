@@ -60,7 +60,7 @@ fields:
   faithfulgivercopy:
     label: Faithful Giver
     type:  textarea
-    size:  small
+    size:  large
   visiongiver:
     label: Title
     type:  text
@@ -70,7 +70,7 @@ fields:
   visiongivercopy:
     label: Faithful Giver
     type:  textarea
-    size:  small
+    size:  large
   kingdomgiver:
     label: Title
     type:  text
@@ -80,4 +80,4 @@ fields:
   kingdomgivercopy:
     label: Faithful Giver
     type:  textarea
-    size:  small
+    size:  large
