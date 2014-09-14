@@ -7,7 +7,7 @@ fields:
   title:
     label: Title
     type:  text
-  introtheading:
+  introheading:
     label: Intro Title
     type:  text
   introcopy:
