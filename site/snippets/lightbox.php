@@ -17,7 +17,6 @@
       <a class="close-lightbox button">Done</a>
     </div>
   </div>
-
 </div>
 
 <?php endforeach ?>

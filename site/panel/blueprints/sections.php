@@ -6,6 +6,10 @@ title: Sections
 pages: true
 files: true
 fields:
+  pagelink:
+    label: Enter a url (leaving this blank opens the lightbox)
+    type:  text
+    help: If you enter a link here the section slate will be converted into a link. If you leave it blank, clicking on the slate will open a lightbox
   id:
     label: Unique ID (eg: sunday, kids, giving)
     type:  text

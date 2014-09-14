@@ -4,33 +4,60 @@
       </div>
       <div class="nav-links">
         <ul class="column first">
-          <li class="lvl-1"><a href="<?php echo url('/') ?>">Home</a></li>
+          <li class="lvl-1"><a href="<?php echo url('/home') ?>">Home</a></li>
           <!-- <li class="lvl-1"><a href="/#about">About</a></li> -->
           <h4>Sundays</h4>
           <?php foreach($pages->find('sections')->children()->filterBy('umbrella', 'Sundays') as $section): ?>
-          <li id="<?= $section->id() ?>" class="lvl-1 internal">
-            <a>
-              <?php echo html($section->title()) ?>
-            </a>
-          </li>
+          <?php if (strlen($section->pagelink()) != 0): ?>
+            <li class="lvl-1">
+              <a href="<?= $section->pagelink() ?>">
+                <?php echo html($section->title()) ?>
+              </a>
+            </li>
+          <?php endif ?>
+          <?php if (strlen($section->pagelink()) < 1): ?>
+            <li id="<?= $section->id() ?>" class="lvl-1 internal">
+              <a>
+                <?php echo html($section->title()) ?>
+              </a>
+            </li>
+          <?php endif ?>
           <?php endforeach ?>
         </ul>
         <ul class="column">
           <h4>Community</h4>
           <?php foreach($pages->find('sections')->children()->filterBy('umbrella', 'Community') as $section): ?>
-          <li id="<?= $section->id() ?>" class="lvl-1 internal">
-            <a>
-              <?php echo html($section->title()) ?>
-            </a>
-          </li>
+          <?php if (strlen($section->pagelink()) != 0): ?>
+            <li class="lvl-1">
+              <a href="<?= $section->pagelink() ?>">
+                <?php echo html($section->title()) ?>
+              </a>
+            </li>
+          <?php endif ?>
+          <?php if (strlen($section->pagelink()) < 1): ?>
+            <li id="<?= $section->id() ?>" class="lvl-1 internal">
+              <a>
+                <?php echo html($section->title()) ?>
+              </a>
+            </li>
+          <?php endif ?>
           <?php endforeach ?>
           <h4>Social Enterprise</h4>
           <?php foreach($pages->find('sections')->children()->filterBy('umbrella', 'Social') as $section): ?>
-          <li id="<?= $section->id() ?>" class="lvl-1 internal">
-            <a>
-              <?php echo html($section->title()) ?>
-            </a>
-          </li>
+          <?php if (strlen($section->pagelink()) != 0): ?>
+            <li class="lvl-1">
+              <a href="<?= $section->pagelink() ?>">
+                <?php echo html($section->title()) ?>
+              </a>
+            </li>
+          <?php endif ?>
+          <?php if (strlen($section->pagelink()) < 1): ?>
+            <li id="<?= $section->id() ?>" class="lvl-1 internal">
+              <a>
+                <?php echo html($section->title()) ?>
+              </a>
+            </li>
+          <?php endif ?>
           <?php endforeach ?>
         </ul>
         <ul class="column">

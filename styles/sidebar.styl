@@ -25,6 +25,7 @@ body.active
     transform: translateX(-260px)
 
 .the-white-table
+.heart-for-the-house
   .sidebar
     background: $white
     border-left: 1px solid rgba(black,0.06)
@@ -68,6 +69,26 @@ body.active
     .logo-outline
       background-image: url('../img/logo-outline-dark.svg')
 
+.heart-for-the-house
+  .sidebar
+    background: $yellow
+
+    .menu-message
+      .entypo
+        &.close
+          color: $mid
+
+          &:hover
+            color: $dark
+
+    .sidebar-container
+      li a:hover
+        color: $dark
+
+    .social-links
+      a:hover
+        color: $dark
+
 .sidebar
   position: fixed
   width: 260px
@@ -76,6 +97,7 @@ body.active
   right: 0
   top: 0
   overflow: scroll
+  -webkit-overflow-scrolling: touch
   transform: translateX(260px)
   transition: all 600ms $easing
 
