@@ -1,8 +1,8 @@
 <?php if(!defined('KIRBY')) exit ?>
 
-title: Our Venue
+title: Heart for the house
 pages: false
-files: false
+files: true
 fields:
   title:
     label: Title
