@@ -82,5 +82,5 @@ fields:
     type:  textarea
     size:  large
   threewaysbutton:
-    label: Title
+    label: Be Involved Button
     type:  text

@@ -21,7 +21,7 @@ fields:
   slatesize:
     label: Size
     type: text
-    help: This determines the size of the container with the image. It can be big-square, small-square or rectangle
+    help: This determines the size of the container with the image. It can be square big, square small or rectangle
   title:
     label: Title
     type:  text
