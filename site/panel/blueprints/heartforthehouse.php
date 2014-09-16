@@ -81,3 +81,6 @@ fields:
     label: Faithful Giver
     type:  textarea
     size:  large
+  threewaysbutton:
+    label: Title
+    type:  text

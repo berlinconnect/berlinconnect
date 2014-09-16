@@ -131,7 +131,7 @@
         </div>
       </div>
       <div class="center">
-        <a href="mailto:giving@berlinclc.de?Subject=I%20would%20like%20to%20find%20out%20more%20about%20Heart%20for%20the%20House" target="_top" class="button dark big">Get Involved</a>
+        <a href="mailto:giving@berlinclc.de?Subject=I%20would%20like%20to%20find%20out%20more%20about%20Heart%20for%20the%20House" target="_top" class="button dark big"><?= $page->threewaysbutton() ?></a>
       </div>
     </div>
   </div>

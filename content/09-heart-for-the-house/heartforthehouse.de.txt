@@ -32,7 +32,7 @@ AnneStory: What I am learning on Sundays helps me to take responsibility in my e
 ----
 
 
-ThreeWaysHeading: 3 Ways To Get Involved
+ThreeWaysHeading: 3 Ways To Be Involved
 ----
 
 FaithfulGiver: Any gift amount on the day
@@ -137,6 +137,9 @@ Reference/Verwendungszweck: Heart for the House
 All heart for the house giving to be completed before 31 OCT 2014.
 
 (file: application.pdf text: Download Application Form class: button)
+----
+
+ThreeWaysButton: Be Involved
 ----
 
 
