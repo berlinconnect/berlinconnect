@@ -38,6 +38,16 @@
           &:hover
             color: $orange
 
+      .language-switcher
+        li
+          border-right: 1px solid $mid
+
+          a
+            color: $mid
+
+            &:hover
+              color: $orange
+
 .heart-for-the-house
   .footer
     background: $yellow
@@ -52,6 +62,16 @@
       .social-links
         a:hover
           color: $dark
+
+      .language-switcher
+        li
+          border-right: 1px solid $mid
+
+          a
+            color: $mid
+
+            &:hover
+              color: $dark
 
 .footer
   padding: 50px 0
@@ -136,3 +156,29 @@
         color: $light
         margin-left: 10px
         text-decoration: none
+
+    .language-switcher
+      font-family: $heading
+      text-transform: uppercase
+      font-weight: 900
+      float: right
+      margin-right: 10px
+      margin-top: -2px
+
+      li
+        display: inline-block
+        border-right: 1px solid rgba(white,0.5)
+        padding-right: 10px
+
+        &:last-child
+          border: none
+          padding: 0
+          padding-left: 6px
+
+        a
+          text-decoration: none
+          color: $white
+          opacity: 0.5
+
+          &:hover
+            opacity: 1
