@@ -94,11 +94,11 @@
 </div>
 <?php
 
-  if (!isset($_COOKIE['visited'])) { // no cookie, so probably the first time here
-      setcookie ('visited', 'yes', time() + 3600); // set visited cookie
+  // if (!isset($_COOKIE['visited'])) { // no cookie, so probably the first time here
+  //     setcookie ('visited', 'yes', time() + 3600); // set visited cookie
 
-      header("Location: /heart-for-the-house");
-      exit(); // always use exit after redirect to prevent further loading of the page
-  }
+  //     header("Location: /heart-for-the-house");
+  //     exit(); // always use exit after redirect to prevent further loading of the page
+  // }
 
 ?>
