@@ -22,7 +22,7 @@
     </div>
     <div class="slates">
       <?php foreach($pages->find('sections')->children()->filterBy('umbrella', 'Sundays', ',') as $section): ?>
-        <div id="<?= $section->id() ?>" class="slate <?php if (strlen($section->pagelink()) < 1): ?>dimmed<?php endif ?> <?= $section->slatesize() ?>">
+        <div id="<?= $section->pageid() ?>" class="slate <?php if (strlen($section->pagelink()) < 1): ?>dimmed<?php endif ?> <?= $section->slatesize() ?>">
           <?php if (strlen($section->pagelink()) != 0): ?>
             <a class="pageLink" href="<?= $section->pagelink() ?>"></a>
           <?php endif ?>
@@ -46,7 +46,7 @@
     </div>
     <div class="slates">
       <?php foreach($pages->find('sections')->children()->filterBy('umbrella','Community') as $section): ?>
-        <div id="<?= $section->id() ?>" class="slate dimmed <?= $section->slatesize() ?>">
+        <div id="<?= $section->pageid() ?>" class="slate dimmed <?= $section->slatesize() ?>">
           <div class="background-image" style="background-image: url(<?= $section->images()->last()->url(); ?>)"></div>
           <div class="caption">
             <h2><?= html($section->title()) ?></h2>
@@ -70,7 +70,7 @@
     </div>
     <div class="slates">
       <?php foreach($pages->find('sections')->children()->filterBy('umbrella','Social') as $section): ?>
-        <div id="<?= $section->id() ?>" class="slate dimmed <?= $section->slatesize() ?>">
+        <div id="<?= $section->pageid() ?>" class="slate dimmed <?= $section->slatesize() ?>">
           <div class="background-image" style="background-image: url(<?= $section->images()->last()->url(); ?>)"></div>
           <div class="caption">
             <h2><?= html($section->title()) ?></h2>

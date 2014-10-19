@@ -1,4 +1,4 @@
-﻿Id: kindness
+﻿PageId: kindness
 
 ----
 
@@ -18,7 +18,7 @@ Intro: Freundlichkeit praktisch werden lassen - global und lokal.
 
 ----
 
-Text: Unser Wunsch ist, dass jeder, der Berlin Connect sein Zuhause nennt, darin involviert ist, Menschen vor Ort in unserer Stadt und weltweit Freundlichkeit durch praktische Hilfe auszudrücken. Wir können dies für diejenigen in unserer Community tun, aber gleichzeitig können wir uns auch zusammenschließen, um Menschen in schwierigen Lebenslagen in unserer Stadt zu stärken, indem wir vor allem durch unsere Dinner Parties und durch Sisterhood aktiv werden. 
+Text: Unser Wunsch ist, dass jeder, der Berlin Connect sein Zuhause nennt, darin involviert ist, Menschen vor Ort in unserer Stadt und weltweit Freundlichkeit durch praktische Hilfe auszudrücken. Wir können dies für diejenigen in unserer Community tun, aber gleichzeitig können wir uns auch zusammenschließen, um Menschen in schwierigen Lebenslagen in unserer Stadt zu stärken, indem wir vor allem durch unsere Dinner Parties und durch Sisterhood aktiv werden.
 
 Auf globaler Ebene sind wir Partner der folgenden strategischen Organisationen.
 

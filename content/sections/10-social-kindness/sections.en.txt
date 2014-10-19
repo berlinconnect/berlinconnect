@@ -1,4 +1,4 @@
-﻿Id: kindness
+﻿PageId: kindness
 
 ----
 
@@ -18,7 +18,7 @@ Intro: Expressing kindness globally and locally.
 
 ----
 
-Text: Our desire is that all who call Berlin Connect home are involved in expressing kindness locally and globally. Whilst we can personally express kindness to those in our community we also join collectively to empower the more vulnerable in our city, working primarily through our Dinner Parties and Sisterhood. 
+Text: Our desire is that all who call Berlin Connect home are involved in expressing kindness locally and globally. Whilst we can personally express kindness to those in our community we also join collectively to empower the more vulnerable in our city, working primarily through our Dinner Parties and Sisterhood.
 
 Globally we partner with the following strategic organisations.
 

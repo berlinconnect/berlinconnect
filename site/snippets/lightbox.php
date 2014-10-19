@@ -1,5 +1,5 @@
-<?php foreach($pages->find('sections')->children()->flip()->filterBy('sundays') as $section): ?>
-<div class="lightbox hidden <?= $section->id() ?>">
+<?php foreach($pages->find('sections')->children()->flip() as $section): ?>
+<div class="lightbox hidden <?= $section->pageid() ?>">
   <div class="lightbox-overlay"></div>
   <div class="lightbox-container scaleUp">
     <div class="header-image" style="background-image: url(<?php echo $section->images()->first()->url(); ?>)">
