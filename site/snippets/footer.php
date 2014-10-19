@@ -76,7 +76,15 @@
       <div class="clearfix"></div>
       <div class="copyrights">
         <?php snippet('sociallinks') ?>
-
+        <ul class="language-switcher">
+          <?php foreach($site->languages() as $language): ?>
+          <li<?php e($site->language() == $language, ' class="active"') ?>>
+            <a href="<?php echo $language->url() ?>">
+              <?php echo html($language->name()) ?>
+            </a>
+          </li>
+          <?php endforeach ?>
+        </ul>
         <?php echo $site->copyright() ?>
       </div>
     </div>
