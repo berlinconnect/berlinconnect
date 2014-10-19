@@ -6,11 +6,11 @@ Umbrella: Social
 
 ----
 
-Slatesize: rectangle
+Slatesize: square big
 
 ----
 
-Title: Menschen in der Stadt helfen
+Title: Menschen helfen
 
 ----
 

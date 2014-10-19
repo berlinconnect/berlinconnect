@@ -1,27 +1,37 @@
-Title: The White Table
+﻿Title: The White Table
 
 ----
 
-Subtitle: We want to encourage people to read, study and learn more about Jesus, His Church and His calling for you and me in this life.
+Subtitle: Encouraging people to read, study and learn more about Jesus, His Church and His purposes for us.
 
 ----
 
-PodcastTitle: Podcasts
-----
-PodcastSubtitle: Listen to messages from past services
+Podcasttitle: Podcasts
+
 ----
 
-BlogTitle: Notes
-----
-BlogSubtitle: Review the transcripts of the latest messages
+Podcastsubtitle: Listen to messages from our Sunday celebrations
+
 ----
 
-BooksTitle: Books
-----
-BooksSubtitle: See the books recommended by friends
+Blogtitle: Notes
+
 ----
 
-DownloadsTitle: Downloads
+Blogsubtitle: Review the transcripts of the latest messages
+
 ----
-DownloadsSubtitle: Get all the resources and informtion you need
+
+Bookstitle: Books
+
 ----
+
+Bookssubtitle: See the books recommended by friends
+
+----
+
+Downloadstitle: Downloads
+
+----
+
+Downloadssubtitle: Get all the resources and information you need

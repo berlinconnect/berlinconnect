@@ -6,7 +6,7 @@ Umbrella: Community
 
 ----
 
-Slatesize: rectangle
+Slatesize: square big
 
 ----
 

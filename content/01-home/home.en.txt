@@ -18,7 +18,11 @@ Sundaytitle: Berlin Connect
 
 ----
 
-Sundaycopy: Berlin Connect is a multicultural church in the heart of Berlin. Our philosophy is simply to love God, love people and love life. Our motto is: “Come as you are”.
+Sundaycopy: Berlin Connect is a multicultural church in the heart of Berlin. Our philosophy is simply to love God, love people and love life. Our motto is - 'Come as you are'
+
+Do you have any questions?
+Please ask!
+(email: questions@berlinclc.de text: questions@berlinclc.de)
 
 ----
 
@@ -30,7 +34,7 @@ Communitytitle: Community
 
 ----
 
-Communitycopy: Sitting around a table of friendship and family is important to us all. As Sundays get bigger in numbers, it’s important that our midweek connections become more meaningful and personal. What we learn on Sundays, about Christ and His kindness towards us, we get to put into practice midweek in our Dinner Parties and across every area of our lives.
+Communitycopy: Sitting together around a table of friendship and family is important for all of us.  As a church we place great value on developing meaningful and personal connections midweek through our Dinner Parties.  These are hosted throughout the city and enable us to put into practice midweek what we are learning on Sundays.
 
 ----
 
@@ -42,7 +46,7 @@ Socialtitle: Social Enterprise
 
 ----
 
-Socialcopy: Our desire is to contribute to the well-being of society as a whole through social enterprise and leadership innovation. Out of the overflow of our lives we can serve our city by getting involved, finding and supporting positive solutions that place value, speak to peoples potential and point to vision that shapes a better society.
+Socialcopy: Our desire is to contribute to the well-being of society as a whole through social enterprise and leadership innovation. Out of the overflow of our lives we can serve our city by getting involved, finding and supporting positive solutions that place value, speak to people's potential and point to vision that shapes a better society.
 
 ----
 

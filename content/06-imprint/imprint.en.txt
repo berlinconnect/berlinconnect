@@ -1,7 +1,11 @@
-Title: Imprint
+﻿Title: Imprint
+
 ----
-SubTitle: The legal stuff
+
+Subtitle: The legal stuff
+
 ----
+
 Text: Berlin Christian Life Centre e.V.
 Weinbergsweg 24
 D-10119 Berlin
@@ -12,7 +16,7 @@ Registered as a charity with Amtsgericht Charlottenburg, Registration No. VR 276
 
 David Berndt
 Phone: +49(0)174 3463491
-Email: dberndt@berlinclc.de
+Email: (email: dberndt@berlinclc.de text: dberndt@berlinclc.de)
 
 ###Liability for content
 
@@ -40,6 +44,4 @@ This website uses Google Analytics, a web analysis service by Google Inc. (“Go
 You can prohibit the installation of the cookies by a corresponding setting in your browser software; we do, however, make you aware, that in that case you may not be able to use all the functions of this website. By using this website you agree to the usage of your data by Google in the aforementioned manner for the aforementioned purposes.
 
 Source of imprint English version:
-twigg’s Übersetzungsbüro; Rechtsanwälte Streifler und Kollegen
-
-----
+(link: http://www.twigg.de text: twigg's Übersetzungsbüro; Rechtsanwälte Streifler und Kollegen)

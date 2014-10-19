@@ -1,4 +1,5 @@
-﻿PageLink: /heart-for-the-house
+﻿Pagelink: /heart-for-the-house
+
 ----
 
 Id: heart
@@ -9,7 +10,7 @@ Umbrella: Sundays
 
 ----
 
-Slatesize: rectangle
+Slatesize: square big
 
 ----
 

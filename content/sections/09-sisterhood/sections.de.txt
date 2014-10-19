@@ -6,7 +6,7 @@ Umbrella: Community
 
 ----
 
-Slatesize: rectangle
+Slatesize: square big
 
 ----
 
@@ -30,5 +30,5 @@ Für mehr Information kontaktiere Prisca (email: prisca@berlinclc.de text: prisc
 | ------------- |-------------|
 | Wann?             | Jeden Donnerstag, 10:30 Uhr - 12:30 Uhr |
 | Wo?            | The Hub<br>Weinbergsweg 24<br>10115 Berlin<br>Karte auf (link: https://www.google.com/maps/place/Weinbergsweg+24/@52.53077,13.40174,17z/data=!3m1!4b1!4m2!3m1!1s0x47a851e4ecf473bd:0x1a35ea77022ee6cc text: Google Maps) |
-| Öffentliche Verkehrsmittel | U8 Rosenthaler Platz / Tram M8, M12 Pappelplatz / S1, S2, S25 Nordbahnhof<br>(link: http://citymapper.com/berlin/superrouter?end=52.53077,13.401740000000018&eaddr=Weinbergsweg%2024%2C%2010119%20Berlin%2C%20Germany text: Wegbeschreibung) via Citymapper |
+| Öffentliche Verkehrsmittel | U8 / Tram M1, M8, 12 / Bus 142 Rosenthaler Platz<br>(link: http://citymapper.com/berlin/superrouter?end=52.53077,13.401740000000018&eaddr=Weinbergsweg%2024%2C%2010119%20Berlin%2C%20Germany text: Wegbeschreibung) via Citymapper |
 | Kinder      | Bringe deine Kinder mit! |

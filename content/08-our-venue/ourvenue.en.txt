@@ -1,26 +1,19 @@
-﻿Title: New Venue
+﻿Title: Our Venue
 
 ----
 
-Introtitle: We Are Moving
+Introtitle: Come join us!
 
 ----
 
-Introcopy: We are excited to announce the beginning of a new season at a brand new location: Haus Ungarn. Why not bring a friend or two and join us on Sunday 4th of May for our first Sunday in our new home?
-(vimeo: https://vimeo.com/90767564)
+Introcopy: (vimeo: https://vimeo.com/90767564)
 
 ----
 
-Detailscopy: ###New Service Times
-Our new service times at Haus Ungarn are<br>**10:30**, **12:30**, **16:30** and **18:30**.
+Detailscopy: ###Service Times
+Our service times at Haus Ungarn are<br>**10:30**, **12:30**, **17:00** and **19:00** (**+ new 15:00 service, 1 hour** on 02 Nov, 07 Dec).
 Communion & prayer available.
 Passionate worship / Biblical wisdom / Authentic connections
-
-###Three things that are better at the new venue
-**1.** More seats for more people, 
-**2.** More space to hang out, chat and connect with each other, 
-**3.** More rooms for families, kids & youth 
-+ extra bonus: It is super central, right at Alexanderplatz!
 
 ###Entrance
 The entrance is 50m to the left of the direct entrance of Karl-Liebknecht-Strasse 9, right across from Marienkirche. 

@@ -1,4 +1,8 @@
-﻿Id: kids
+﻿Pagelink: 
+
+----
+
+Id: kids
 
 ----
 
@@ -25,7 +29,8 @@ Wir glauben wirklich, dass Kinder ein Geschenk von Gott sind (Psalm 127,3) und b
 
 | Kalender        |            |
 | ------------- |-------------|
-| 31. August | **Big Family Fun Day** |
+| 9. November | Big Family Fun Day |
+|               | Ein Tag für die ganze Familie – mit tollen Spielangeboten und leckerem Essen. Bring gern deine Familie & Freunde mit!|
 
 **Interesse?**
 Kontaktiere Tini (email: tini@berlinclc.de text: tini@berlinclc.de), um mehr zu erfahren.

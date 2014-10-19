@@ -1,45 +1,44 @@
-﻿Title: New Venue
+﻿Title: Unser Venue
 
 ----
 
-Introtitle: We're Moving
+Introtitle: Komm vorbei!
 
 ----
 
-Introcopy: We are excited to announce the beginning of a new season at a brand new location: Haus Ungarn. Why not bring a friend or two and join us on Sunday 4th of May for our first Sunday in our new home?
-(vimeo: https://vimeo.com/90767564)
+Introcopy: (vimeo: https://vimeo.com/90767564)
 
 ----
 
-Detailscopy: ###New Service Times
-Our new service times at Haus Ungarn are<br>**10:30**, **12:30**, **16:30** and **18:30**.
-Communion & prayer available.
-Passionate worship / Biblical wisdom / Authentic connections
+Detailscopy: ###Service Times
+Die Anfangszeiten unserer Celebrations im Haus Ungarn sind<br>**10:30**, **12:30**, **17:00** und **19:00** **(+ neue 15:00 Celebration, 1 Stunde am 2. Nov, 7. Dez)**
+Abendmahl steht immer bereit & Gebet wird angeboten.
+Leidenschaftliche Anbetung / Weisheit aus der Bibel / authentische Beziehungen
 
-###Three things that are better at the new venue
-**1.** More seats for more people, 
-**2.** More space to hang out, chat and connect with each other, 
-**3.** More rooms for families, kids & youth 
-+ extra bonus: It is super central, right at Alexanderplatz!
+###Drei Dinge, die an unserem neuen "Venue" besser sind
+**1.** Mehr Sitzplätze für mehr Menschen, 
+**2.** Mehr Platz, um zusammen "abzuhängen" und einander kennenzulernen, 
+**3.** Mehr Platz für Familien, Kinder & Jugendliche
++ Bonus: Die sehr zentrale Lage, direkt am Alexanderplatz!
 
-###Entrance
-The entrance is 50m to the left of the direct entrance of Karl-Liebknecht-Strasse 9, right across from Marienkirche. Our hosts will be there to welcome you.
+###Eingang
+Der Eingang zu Berlin Connect ist direkt gegenüber der Marienkirche, 50m links neben der Tür mit der Hausnummer 9 (Karl-Liebknecht-Str.).
 
-###Lift and disability access:
-There is lift access. Please ask one of our hosts at the entrance to help you to the lift in case you need it.
-
-----
-
-Address: Address
+###Aufzug und Zugang für Menschen mit Behinderung:
+Es gibt einen Zugang zum Aufzug. Bitte frage einen unserer 'Hosts' am Eingang, um dir den Weg zum Aufzug zu zeigen.
 
 ----
 
-Transport: Transport
+Address: Adresse
 
 ----
 
-Openmaps: Open in Maps
+Transport: Öffentliche Verkehrsmittel
 
 ----
 
-Visithome: Visit Our Homepage
+Openmaps: Karte öffnen
+
+----
+
+Visithome: Zur Homepage

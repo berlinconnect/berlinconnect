@@ -1,7 +1,11 @@
-Title: FAQs
+﻿Title: FAQs
+
 ----
-SubTitle: I want to know more
+
+Subtitle: I want to know more
+
 ----
+
 Text: ###What can I expect?
 Basically, church is meant to be ENJOYED NOT ENDURED! There will be uplifting music, friendly people and positive teaching that we believe will encourage you in whatever stage of life you are currently in!
 
@@ -12,7 +16,7 @@ Berlin Connect is for EVERYONE, you are welcome to come and go as you please! Ou
 NO, NO & NO to all 3  (nothing personal to our USA-friends ☺).
 
 ###Are you a cult or sect?
-No: We are a new local Protestant church that started 5 years ago. The Pastors studied for 5 years at Hillsong International Leadership College in Australia and receive training in Church leadership and biblical theology. Berlin Connect was birthed out of Hillsong London as a connect group and has progressed into a vibrant, dynamic local church. Berlin Connect is a legal non-profit charitable organisation with church purposes, accountable to the German law and Finanzamt and is independent from the state church. We are a part of the Hillsong family and network.
+No: We are a new local Protestant church that started 5 years ago. The Pastors studied for 5 years at Hillsong International Leadership College in Australia and received training in Church leadership and biblical theology. Berlin Connect was birthed out of Hillsong London as a connect group and has progressed into a vibrant, dynamic local church. Berlin Connect is a legal non-profit charitable organisation with church purposes, accountable to the German law and Finanzamt and is independent from the state church. We are a part of the Hillsong family and network.
 
 ###Does it cost money to come?
 No way! God’s House is for anyone and everyone, there is no charge for coming along. The local church is for all people of all ages, so you're welcome to bring along your friends and family and just enjoy! (No perfect people allowed.)
@@ -70,5 +74,3 @@ We believe that God wants to heal and transform us so that we can live healthy a
 We believe that our eternal destination of either Heaven or hell is determined by our response to the Lord Jesus Christ.
 
 We believe that the Lord Jesus Christ is coming back again as He promised.
-
-----

@@ -18,23 +18,27 @@ Sundaytitle: Berlin Connect
 
 ----
 
-Sundaycopy: Unsere Philosophie ist einfach: Liebe Gott, liebe Menschen und liebe das Leben. Unser Motto lautet “Komm’ so wie du bist”.
+Sundaycopy: Berlin Connect ist eine multikulturelle Kirche im Herzen Berlins. Unsere Philosophie ist einfach: 'Liebe Gott, liebe Menschen und liebe das Leben'. Unser Motto lautet 'Komm’ so wie du bist'.
+
+Hast du Fragen?
+Schreib uns eine Email!
+(email: questions@berlinclc.de text: questions@berlinclc.de)
 
 ----
 
-Communitysubtitle: Den Sonntag mit unserem Alltag verknüpfen
+Communitysubtitle: Den Sonntag mit unserem Alltag verknüpfen.
 
 ----
 
-Communitytitle: Gemeinschaft
+Communitytitle: Community
 
 ----
 
-Communitycopy: Zusammen mit Freunden und Familie um den Tisch zu sitzen ist uns allen wichtig. Da die Sonntage immer stärker besucht werden, ist es wichtig, dass die Begegnungen unter der Woche an Tiefe und Persönlichkeit gewinnen. Was wir sonntags über Christus und Seine Freundlichkeit uns gegenüber lernen, wollen wir unter der Woche in unseren Dinner Parties und in jedem Bereich unseres Lebens in die Tat umsetzen.
+Communitycopy: Zusammen mit Freunden und Familie um den Tisch zu sitzen ist für uns alle wichtig. Als Kirche legen wir großen Wert darauf, durch unsere Dinner Parties persönliche Beziehungen unter der Woche aufzubauen, die uns etwas bedeuten. Dinner Parties finden an Orten verteilt über Berlin statt, und ermöglichen uns, das in die Tat umzusetzen, was wir sonntags lernen.
 
 ----
 
-Socialsubtitle: Unsere gesellschaftliche Verantwortung übernehmen
+Socialsubtitle: Unsere gesellschaftliche Verantwortung übernehmen.
 
 ----
 
@@ -42,11 +46,11 @@ Socialtitle: Social Enterprise
 
 ----
 
-Socialcopy: Unser Wunsch ist es, der Gesellschaft durch soziale Aktivitäten und Innovation etwas zurückzugeben. Wir dienen unserer Stadt, indem wir Lösungen finden und unterstützen, die den Menschen, Wert,Potentiale und Vision geben.
+Socialcopy: Unser Wunsch ist es, durch soziale Aktivitäten und durch Innovation unseren Teil zum Wohl der Gesellschaft insgesamt beizutragen. Aus Stärke heraus können wir unserer Stadt dienen, indem wir uns einbringen sowie positive Lösungen finden und unterstützen, die Menschen Wertschätzung bringen, in ihr Potential hineinsprechen und auf eine Vision hinweisen, die eine bessere Gesellschaft prägt.
 
 ----
 
-Charitywatersubtitle: Laufen, um einen Unterschied zu machen.
+Charitywatersubtitle: Laufen, um einen Unterschied zu bewirken.
 
 ----
 
@@ -58,6 +62,6 @@ Joinustitle: Komm vorbei!
 
 ----
 
-Joinuscopy: Wir lieben Gottes Haus und freuen uns über jeden, der zu uns kommen möchte. Wir würden uns freuen, dich diesen Sonntag bei uns begrüßen zu dürfen!
+Joinuscopy: Wir geben es offen zu: Wir lieben Gottes Haus. Wir freuen uns über jeden, der uns bei Berlin Connect besuchen möchte, und wir würden uns freuen, dich dieses Wochenende bei uns begrüßen zu dürfen!
 
 (link: https://www.google.de/maps/preview?ie=UTF-8&fb=1&gl=de&cid=817984857238402424&q=Berlin+Connect&ei=Oh2vU8D3EsX0Oe38gMAL&ved=0CIUBEPwSMAo class: button text: Uns auf der Karte finden)

@@ -6,11 +6,11 @@ Umbrella: Social
 
 ----
 
-Slatesize: rectangle
+Slatesize: square big
 
 ----
 
-Title: City Kindness
+Title: Social Kindness
 
 ----
 

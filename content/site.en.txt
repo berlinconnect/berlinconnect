@@ -1,20 +1,37 @@
-Title: Berlin Connect
+﻿Title: Berlin Connect
+
 ----
+
 Author: Berlin Connect
+
 ----
+
 Description: Berlin Connect is a multicultural church in the heart of the city. Our philosophy is simply to love God, love people and love life.  Our motto is "come as you are".
+
 ----
+
 Copyright: © Berlin Connect 2014
+
 ----
+
 Home: Home
+
 ----
+
 Sundays: Sundays
+
 ----
+
 Community: Community
+
 ----
-SocialEnterprise: Social Enterprise
+
+Socialenterprise: Social Enterprise
+
 ----
+
 More: More
+
 ----
-Notice: **Notice:** We will be meeting at a different venue on Sunday 7th, September. (link: https://www.facebook.com/myberlinconnect/photos/a.325511487530911.75515.116018065146922/701980156550707/?type=1&theater text: Find out more).
-----
+
+Notice: **Did you know:** Our afternoon service times have changed to 17:00 and 19:00.

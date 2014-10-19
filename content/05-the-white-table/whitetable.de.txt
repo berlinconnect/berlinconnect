@@ -1,7 +1,37 @@
-Title: The White Table
+﻿Title: The White Table
 
 ----
 
-Subtitle: 10 ways to be a self-feeder.
+Subtitle: Menschen ermutigen, mehr über Jesus, Seine Kirche und Seine Absichten für uns zu lesen, nachzuforschen und zu erfahren.
 
 ----
+
+Podcasttitle: Podcasts
+
+----
+
+Podcastsubtitle: Botschaften anhören aus den Sunday Celebrations
+
+----
+
+Blogtitle: Stichpunkte aus den Botschaften
+
+----
+
+Blogsubtitle: Transkripte der neuesten Botschaften durchgehen
+
+----
+
+Bookstitle: Bücher
+
+----
+
+Bookssubtitle: Buchempfehlungen von Freunden
+
+----
+
+Downloadstitle: Downloads
+
+----
+
+Downloadssubtitle: Hol' dir alle Resourcen und Informationen, die du brauchst
