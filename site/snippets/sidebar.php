@@ -17,7 +17,7 @@
       </li>
     <?php endif ?>
     <?php if (strlen($section->pagelink()) < 1): ?>
-      <li id="<?= $section->id() ?>" class="lvl-1 internal">
+      <li id="<?= $section->pageid() ?>" class="lvl-1 internal">
         <a>
           <?php echo html($section->title()) ?>
         </a>
@@ -34,7 +34,7 @@
       </li>
     <?php endif ?>
     <?php if (strlen($section->pagelink()) < 1): ?>
-      <li id="<?= $section->id() ?>" class="lvl-1 internal">
+      <li id="<?= $section->pageid() ?>" class="lvl-1 internal">
         <a>
           <?php echo html($section->title()) ?>
         </a>
@@ -51,7 +51,7 @@
       </li>
     <?php endif ?>
     <?php if (strlen($section->pagelink()) < 1): ?>
-      <li id="<?= $section->id() ?>" class="lvl-1 internal">
+      <li id="<?= $section->pageid() ?>" class="lvl-1 internal">
         <a>
           <?php echo html($section->title()) ?>
         </a>
