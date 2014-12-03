@@ -47,6 +47,9 @@
     <div class="slates">
       <?php foreach($pages->find('sections')->children()->filterBy('umbrella','Community') as $section): ?>
         <div id="<?= $section->id() ?>" class="slate dimmed <?= $section->slatesize() ?>">
+          <?php if (strlen($section->pagelink()) != 0): ?>
+            <a class="pageLink" href="<?= $section->pagelink() ?>"></a>
+          <?php endif ?>
           <div class="background-image" style="background-image: url(<?= $section->images()->last()->url(); ?>)"></div>
           <div class="caption">
             <h2><?= html($section->title()) ?></h2>
@@ -71,6 +74,9 @@
     <div class="slates">
       <?php foreach($pages->find('sections')->children()->filterBy('umbrella','Social') as $section): ?>
         <div id="<?= $section->id() ?>" class="slate dimmed <?= $section->slatesize() ?>">
+          <?php if (strlen($section->pagelink()) != 0): ?>
+            <a class="pageLink" href="<?= $section->pagelink() ?>"></a>
+          <?php endif ?>
           <div class="background-image" style="background-image: url(<?= $section->images()->last()->url(); ?>)"></div>
           <div class="caption">
             <h2><?= html($section->title()) ?></h2>
