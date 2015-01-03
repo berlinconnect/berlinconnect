@@ -1,0 +1,65 @@
+.team
+  .content
+    .quote
+      padding 80px 0 60px
+      p
+        font-size: 40px
+        font-weight: 100
+        font-style: italic
+        color #55D3BC
+
+    .about
+      width: 700px
+      margin 0 auto
+
+      p
+        font-size: 22px
+        line-height: @font-size + 16px
+        color: $mid
+        margin-bottom: 20px
+
+    .reasons
+      margin 80px 0
+
+      h1
+        width 600px
+        font-size: 50px
+        font-weight: 100
+        letter-spacing: 7px
+        margin 0 auto
+        color #55D3BC
+
+      ol
+        counter-reset: my-badass-counter;
+        font-size: 0
+        margin-top 60px
+
+        li
+          width: 50%
+          display: inline-block
+          font-size: 24px
+          vertical-align: top
+          box-sizing: border-box
+          padding 0 20px 0 70px
+          margin 0 0 30px 0
+          position: relative
+
+        li:before
+          font-family: $heading
+          content: counter(my-badass-counter)
+          counter-increment: my-badass-counter
+          font-size: 30px
+          font-weight: 900
+          line-height: 53px
+          text-align: center
+          display: block
+          position: absolute
+          top -12px
+          width 50px
+          height 50px
+          margin-left -70px
+          background #55D3BC
+          white-space:nowrap;
+          color white
+          transform: skew(10deg,0deg)
+
