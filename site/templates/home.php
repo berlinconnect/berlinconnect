@@ -14,7 +14,7 @@
       <div id="about" class="intro center">
         <h2><?= $page->sundaysubtitle() ?></h2>
         <h1><?= $page->sundaytitle() ?></h1>
-        <p><?= kirbytext($page->sundaycopy()) ?></p>
+        <?= kirbytext($page->sundaycopy()) ?>
         <div class="welcome-home hidden">
           <span class="entypo play"></span>
         </div>
