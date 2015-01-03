@@ -11,7 +11,7 @@
       <p><?= $page->aboutteam() ?></p>
     </div>
     <div class="reasons">
-      <h1 class="center">10 REASONS WHY YOU SHOULD CONSIDER BEING ON TEAM</h1>
+      <h1 class="center"><?= $page->reasonstitle() ?></h1>
       <?= kirbytext($page->reasons()) ?>
     </div>
   </div>

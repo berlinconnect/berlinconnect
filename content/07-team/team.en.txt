@@ -7,8 +7,9 @@ Quote: “The local Church is not built on the gifts and talents of a few, but o
 AboutTeam: Berlin Connect is a local church community built and carried by ordinary people serving an extraordinary God. People just like you who give their time, talent and energy to make church great for others. Whether it’s sweeping or singing, on Sunday or midweek, serving on a team is a fantastic way to get to know new friends while learning new skills.
 ----
 
-10ReasonsTitle:
+ReasonsTitle: 10 REASONS WHY YOU SHOULD CONSIDER BEING ON TEAM
 ----
+
 Reasons:
 1. Develops your passion for: God, People, Life
 2. Challenge your mindset
