@@ -19,3 +19,9 @@ fields:
   reasons:
     label: Reasons
     type:  textarea
+  teamday:
+    label: Team Day
+    type: textarea
+  teambesties:
+    label: Team Besties
+    type: text
