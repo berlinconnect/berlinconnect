@@ -257,6 +257,15 @@
                 line-height: 30px
                 bottom: 20px
 
+    &.team
+      .content
+        .besties-feed
+          #instafeed
+            div:hover
+              .caption
+                display: none
+
+
 @media $media-full-width
 
   body
@@ -553,6 +562,13 @@
               bottom: 30px
               z-index: 5
 
+  body.team
+    .content
+      .besties-feed
+        #instafeed
+          div
+            width 33.334%
+
 @media $media-mobile
 
   body
@@ -752,6 +768,16 @@
                 opacity: 1
                 color: $yellow
 
+  body.team
+    .content
+      .about
+      .teamday
+        width: 100%
+
+      .reasons
+        h1
+          width 100%
+
 @media $media-mobile-portrait
 
   body
@@ -857,3 +883,19 @@
         .logo
           display: block
           background-image: url('../img/logo-dark.svg')
+
+  &.team
+    .content
+      .reasons
+        ol
+          counter-reset: my-badass-counter;
+          font-size: 0
+          margin-top 60px
+
+          li
+            width: 100%
+            margin-bottom: 50px
+            padding 0 20px 0 90px
+
+          li:before
+            margin-left -80px
