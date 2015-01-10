@@ -23,7 +23,7 @@
         </div>
       </div>
     </section>
-    <section class="blog center">
+    <section class="blog hidden center">
       <h1><?= $page->blogtitle() ?></h1>
       <h2><?= $page->blogsubtitle() ?></h2>
       <div class="items">
