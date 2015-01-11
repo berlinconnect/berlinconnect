@@ -62,7 +62,7 @@
         </ul>
         <ul class="column">
           <h4><?= $site->more() ?></h4>
-          <?php $items = $pages->find('giving', 'contact', 'the-white-table', 'faq', 'imprint', 'our-venue'); if($items->count() > 0): ?>
+          <?php $items = $pages->find('giving', 'team', 'contact', 'the-white-table', 'faq', 'imprint', 'our-venue'); if($items->count() > 0): ?>
             <?php foreach($items as $item): ?>
               <li class="lvl-2">
                 <a href="<?php echo $item->url() ?>">
