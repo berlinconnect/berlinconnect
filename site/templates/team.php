@@ -32,7 +32,6 @@
       tagName: 'bcteambesties',
       clientId: 'ca090230b9b241d79c684fc7f76b89d8',
       resolution: 'standard_resolution',
-      limit: '60',
       sortBy: 'most-recent',
       links: 'false',
       template: '<div class="image"><div class="caption">{{caption}}</div><img src="{{image}}" /></div>'
