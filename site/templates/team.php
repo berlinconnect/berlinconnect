@@ -21,7 +21,7 @@
   <div class="besties-feed center">
     <h2><?= $page->teambesties() ?></h2>
      <div id="instafeed"></div>
-     <a id="load-more" class="button white filled"><?= $page->loadmore() ?></a>
+     <a id="load-more" class="filled"><?= $page->loadmore() ?></a>
   </div>
 </div>
 
