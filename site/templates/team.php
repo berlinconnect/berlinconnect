@@ -21,13 +21,23 @@
   <div class="besties-feed center">
     <h2><?= $page->teambesties() ?></h2>
      <div id="instafeed"></div>
+     <a id="load-more" class="button white filled"><?= $page->loadmore() ?></a>
   </div>
 </div>
 
 <?php snippet('lightbox') ?>
 <script type="text/javascript" src="/js/plugins/instafeed.js"></script>
 <script type="text/javascript">
+
+  var loadButton = document.getElementById('load-more');
   var feed = new Instafeed({
+      after: function() {
+        // disable button if no more results to load
+        if (!this.hasNext()) {
+          $('#load-more').addClass('hidden');
+        }
+      },
+
       get: 'tagged',
       tagName: 'bcteambesties',
       clientId: 'ca090230b9b241d79c684fc7f76b89d8',
@@ -36,6 +46,11 @@
       links: 'false',
       template: '<div class="image"><div class="caption">{{caption}}</div><img src="{{image}}" /></div>'
   });
+
+  loadButton.addEventListener('click', function() {
+    feed.next();
+  });
+
   feed.run();
 </script>
 <?php snippet('footer') ?>

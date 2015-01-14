@@ -25,3 +25,6 @@ fields:
   teambesties:
     label: Team Besties
     type: text
+  loadmore:
+    label: Load More Button
+    type: text
