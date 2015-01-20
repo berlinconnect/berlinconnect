@@ -19,15 +19,15 @@
         </a>
         <?php endforeach ?>
         <div class="center">
-          <a class="button orange">View All on Soundcloud</a>
+          <a class="button orange" href='https://soundcloud.com/berlinconnect'>View All on Soundcloud</a>
         </div>
       </div>
     </section>
-    <section class="blog hidden center">
+    <section class="blog center">
       <h1><?= $page->blogtitle() ?></h1>
       <h2><?= $page->blogsubtitle() ?></h2>
       <div class="items">
-        <?php foreach($pages->find('transcripts')->children() as $transcript): ?>
+        <?php foreach($pages->find('transcripts')->children()->visible() as $transcript): ?>
         <a class="itemLink" href="<?= $transcript->url() ?>">
           <div class="item">
             <span class="entypo list"></span>
