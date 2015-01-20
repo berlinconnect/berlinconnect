@@ -27,7 +27,7 @@
       <h1><?= $page->blogtitle() ?></h1>
       <h2><?= $page->blogsubtitle() ?></h2>
       <div class="items">
-        <?php foreach($pages->find('transcripts')->children() as $transcript): ?>
+        <?php foreach($pages->find('transcripts')->children()->visible() as $transcript): ?>
         <a class="itemLink" href="<?= $transcript->url() ?>">
           <div class="item">
             <span class="entypo list"></span>
