@@ -20,7 +20,7 @@ fields:
     label: Reasons
     type:  textarea
   teamday:
-    label: Team Day
+    label: Team Registration
     type: textarea
   teambesties:
     label: Team Besties

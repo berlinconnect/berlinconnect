@@ -7,7 +7,7 @@ Quote: “The local Church is not built on the gifts and talents of a few, but o
 AboutTeam: Berlin Connect is a local church community built and carried by ordinary people serving an extraordinary God. People just like you who give their time, talent and energy to make church great for others. Whether it’s sweeping or singing, on Sunday or midweek, serving on a team is a fantastic way to get to know new friends while learning new skills.
 ----
 
-ReasonsTitle: 10 REASONS WHY YOU SHOULD CONSIDER BEING ON TEAM
+ReasonsTitle: 10 REASONS TO SERVE IN CHURCH
 ----
 
 Reasons:
@@ -23,11 +23,9 @@ Reasons:
 10. Builds your character, credibility and increases your trust worthiness
 ----
 
-TeamDay: ##Team Conference Day
-with special guest Ray Bevan, UK
-09:30 - 13:30 at Haus Ungarn
-10 Euro entrance & Refreshments on arrival
-For more information contanct Conny (email:conny@berlinclc.de)
+TeamDay: ##**Serve the lord with gladness**
+Are you considering serving in church? Click the button below, complete the form and someone will be in touch with you.
+(link: https://docs.google.com/forms/d/1BK9h-DFZTAup4udmH76tZdvYEgOVR3GZPtXaYD28Ygg/viewform text: Sign Up Today class: button)
 ----
 
 TeamBesties: Meet some of the team
