@@ -1,8 +1,8 @@
-﻿Pagelink: 
+﻿Pagelink:
 
 ----
 
-Id: calendar
+UniqueId: calendar
 
 ----
 
@@ -29,18 +29,7 @@ There are various speakers including our Pastors Mark & Joyce Wilkinson, the Ber
 
 | Calendar        |            |
 | ------------- |-------------|
-| October 18th | Sisterhood Walk for Freedom <br>We walk to make a stand against human trafficking |
-| October 19th | Sunday Celebrations with guest speaker Pastor John Borefelt from Hillsong London / 10:30, 12:30, 17:00, 19:00 at Haus Ungarn (link: http://goo.gl/FeGH72 text:View on the map)|
-| October 21th | Discovery Continued - Growing in your God-given potential / 19:30 at Haus Ungarn (link: http://goo.gl/FeGH72 text:View on the map)|
-| October 26th | Sunday Celebrations / 10:30, 12:30, 17:00, 19:00 at Haus Ungarn (link: http://goo.gl/FeGH72 text:View on the map)|
-| October 28th | Discovery Continued - Growing in your God-given potential / 19:30 at Haus Ungarn (link: http://goo.gl/FeGH72 text:View on the map)|
-| October 29th | Dinner Parties with Purpose 19:30 / A table of friendship & family* |
-| October 31st | "Hallelujah House Parties" 19:30 / For more details contact your Dinner Party host or email (email: tini@berlinclc.de text: tini@berlinclc.de)|
-| November 2nd | Sunday Celebrations with guest speaker Pastor Tim Sukowski from K21 / 10:30, 12:30, (+ 1h celebration service at 15:00), 17:00, 19:00 at Haus Ungarn (link: http://goo.gl/FeGH72 text:View on the map) |
-| November 9th | Sunday Celebrations / 10:30, 12:30, 17:00, 19:00 at Haus Ungarn (link: http://goo.gl/FeGH72 text:View on the map) <br><br> Big Family Fun Day <br> A day for the whole family with fun activities, crazy games & yummy food. Bring your family & friends along and let's have fun!|
-| November 12th | Dinner Parties with Purpose 19:30 / A table of friendship & family* |
-| November 26th | Dinner Parties with Purpose 19:30 / A table of friendship & family* |
-| November 30th | Sunday Celebrations with guest speaker Mal Flecher / 10:30, 12:30, 17:00, 19:00 at Haus Ungarn (link: http://goo.gl/FeGH72 text:View on the map) |
+| January 28th | Launch Dinner Parties* / 19:00 all over Berlin |
 
 *To find a Dinner Party near you contact Conny (email: conny@berlinclc.de text: conny@berlinclc.de)
 

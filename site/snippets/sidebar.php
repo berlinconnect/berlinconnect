@@ -1,4 +1,4 @@
-<div class="sidebar">
+  <div class="sidebar">
   <div class="menu-message"><span class="entypo close"></span><span class="nav-text">Navigate through the site</span><span class="close-text">Close this sidebar</span></div>
   <ul class="sidebar-container">
 
@@ -17,7 +17,7 @@
       </li>
     <?php endif ?>
     <?php if (strlen($section->pagelink()) < 1): ?>
-      <li id="<?= $section->id() ?>" class="lvl-1 internal">
+      <li id="<?= $section->uniqueid() ?>" class="lvl-1 internal">
         <a>
           <?php echo html($section->title()) ?>
         </a>
@@ -34,7 +34,7 @@
       </li>
     <?php endif ?>
     <?php if (strlen($section->pagelink()) < 1): ?>
-      <li id="<?= $section->id() ?>" class="lvl-1 internal">
+      <li id="<?= $section->uniqueid() ?>" class="lvl-1 internal">
         <a>
           <?php echo html($section->title()) ?>
         </a>
@@ -51,7 +51,7 @@
       </li>
     <?php endif ?>
     <?php if (strlen($section->pagelink()) < 1): ?>
-      <li id="<?= $section->id() ?>" class="lvl-1 internal">
+      <li id="<?= $section->uniqueid() ?>" class="lvl-1 internal">
         <a>
           <?php echo html($section->title()) ?>
         </a>
@@ -71,9 +71,9 @@
   </ul>
   <?php snippet('sociallinks') ?>
   <ul class="language-switcher">
-    <?php foreach(c::get('lang.available') as $lang): ?>
-    <li<?php if($lang == c::get('lang.current')) echo ' class="active"' ?>>
-      <a href="<?php echo $page->url($lang) ?>"><?php echo $lang ?></a>
+    <?php foreach($site->languages() as $language): ?>
+    <li<?php e($site->language() == $language, ' class="active"') ?>>
+      <a href="<?php echo $language->url() ?>"><?php echo html($language->code()) ?></a>
     </li>
     <?php endforeach ?>
   </ul>

@@ -10,7 +10,7 @@ Description: Berlin Connect is a multicultural church in the heart of the city. 
 
 ----
 
-Copyright: © Berlin Connect 2014
+Copyright: © Berlin Connect 2015
 
 ----
 
@@ -34,4 +34,4 @@ More: More
 
 ----
 
-Notice: **Did you know:** Our afternoon service times have changed to 17:00 and 19:00.
+Notice: **Did you know**: We have 5 new service times at 11:00, 13:00, 15:00, 17:00 & 19:00.

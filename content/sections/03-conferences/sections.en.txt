@@ -1,0 +1,37 @@
+﻿UniqueId: conferences
+
+----
+
+Umbrella: Sundays
+
+----
+
+Slatesize: rectangle
+
+----
+
+Title: Conferences
+
+----
+
+Intro: Connecting to a bigger picture.
+
+----
+
+Text: Hillsong and Colour Conferences are annual gatherings that unite people from every walk of life and church background.  An environment that places value, speaks to potential and points to Godly vision.
+
+###Hillsong Conference
+Hillsong Conference is about ‘Championing the cause of the local Church’. You will be inspired, refreshed and energised to live out your God-given purpose and will find great strength and unity amongst the diversity of the local Church worldwide.
+
+###Colour Conference
+Colour Conference is much more than a conference.  It is a gathering, strengthening, sharpening, equipping and mobilising of thousands of women around the world.  It is a stand for justice and the mobilisation of women, who have experienced the incredible grace and love of a wonderful Saviour.
+
+
+| Dates        |            |
+| ------------- |-------------|
+| April 30th - May 24nd 2015 | Colour Conference Europe 2015 in London - (link:http://hillsong.com/colour text: Find out more)|
+| July 22nd - 24th 2015 | Hillsong Conference Europe 2015 in London - (link:http://www.hillsongconference.com/london/ text: Find out more)|
+
+(vimeo: http://vimeo.com/89073598 width: 100%)
+
+(vimeo: http://vimeo.com/99685323 width: 100%)
