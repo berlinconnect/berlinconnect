@@ -10,7 +10,7 @@ fields:
     label: Enter a url (leaving this blank opens the lightbox)
     type:  text
     help: If you enter a link here the section slate will be converted into a link. If you leave it blank, clicking on the slate will open a lightbox
-  id:
+  uniqueid:
     label: Unique ID (eg: sunday, kids, giving)
     type:  text
     help: This is a unique ID. It should describe the content. It can't have spaces or capital letters.
