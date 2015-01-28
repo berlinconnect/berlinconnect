@@ -1,0 +1,40 @@
+﻿Pagelink: /heart-for-the-house
+
+----
+
+Id: heart
+
+----
+
+Umbrella: Social
+
+----
+
+Slatesize: rectangle
+
+----
+
+Title: Herz für Sein Haus
+
+----
+
+Intro: Nicht jeder gibt gleich viel, aber jeder trägt dasselbe bei.
+
+----
+
+Text: Unser jährliches 'Herz für Sein Haus' Opfer ist ein freiwilliger, finanzieller Beitrag, den wir gemeinsam über den regelmäßigen Zehnten und Opfer hinaus zusammenbringen, um den Auftrag und die Vision voranzubringen und um die Chancen, die Gott vor uns ausbreitet, voll zu nutzen; um zu verändern, wie Menschen über Jesus und Seine Kirche denken und um die kommenden Generation zu stärken.
+
+Drei Wege, um mitzumachen:
+
+**Faithful Givers**
+Ein Beitrag jeglicher Höhe am Tag des 'Herz für Sein Haus' Opfers
+
+**Vision Givers**
+Beitrag am Tag des 'Herz für Sein Haus' Opfers
++
+monatlicher Beitrag
+
+**Kingdom Givers**
+Beitrag am Tag des 'Herz für Sein Haus' Opfers
++
+jährlicher Beitrag

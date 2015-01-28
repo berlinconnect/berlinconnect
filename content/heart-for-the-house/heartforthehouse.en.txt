@@ -38,127 +38,44 @@ Annestory: What I am learning on Sundays helps me to take responsibility in my e
 
 ----
 
-Threewaysheading: 3 Ways To Be Involved
+Threewaysheading: 
 
 ----
 
-Faithfulgiver: Any gift amount on the day
+Faithfulgiver: 
 
 ----
 
-Faithfulgivertitle: Faithful Givers
+Faithfulgivertitle: 
 
 ----
 
-Faithfulgivercopy: ANY AMOUNT ON THE DAY
-
-1 Chronicles 29 MSG
-Dear Lord, who am I, and who are these my people, that we should presume to be giving something to you? Everything comes from you; all we’re doing is giving back what we’ve been given from your generous hand..... so I have given from the heart, honestly and happily...
-
-Berlin Connect has always been blessed with faithful givers who are willing and generous in their outlook on life and understand that our contribution large or small will always give God an opportunity to show His faithfulness in our lives.
-Let’s prepare our hearts with prayer and excitement as we consider what to bring to the Heart for the House offering on 5th October 2014 enabling us to strengthen our church and speed up the work of Jesus here in our city, Berlin.
-
-**Time Frame:**
-Online giving open 01 October 2014
-Giving envelopes ready to be picked up in foyer on 28th September 2014
-Bank account details for your Heart for the House transfers details below:
-
-Account owner/Kontoinhaber: Berlin Christian Life Centre e.V.
-IBAN: DE07120400000623459500
-Account number/Kontonummer 623459500
-Bank code/BLZ: 12040000
-Commerzbank Berlin
-SWIFT Code (BIC): COBADEFFXXX
-Reference/Verwendungszweck: Heart for the House
-
-All Heart for the House giving to be completed before 31 OCT 2014.
+Faithfulgivercopy: 
 
 ----
 
-Visiongiver: Gift on the day & a monthly commitment
+Visiongiver: 
 
 ----
 
-Visiongivertitle: Vision Givers
+Visiongivertitle: 
 
 ----
 
-Visiongivercopy: BRING A GIFT ON THE DAY PLUS A MONTHLY COMMITMENT FOR 12 MONTHS OF € 10 OR LARGER
-
-Vision givers bring a gift on 5th October plus a monthly commitment for 12 months resourcing the ongoing vision of Berlin Connect. This monthly commitment is above the normal giving of tithes and offerings.
-Vision giving starts at € 10 and runs for 12 months.
-The bank account details are below:
-
-Account owner/Kontoinhaber: Berlin Christian Life Centre e.V.
-IBAN: DE77120400000623459501
-Account number/Kontonummer 623459501
-Bank code/BLZ: 12040000
-Commerzbank Berlin
-SWIFT Code (BIC): COBADEFFXXX
-Reference/Verwendungszweck: Vision givers
-
-1 Chronicles 29 MSG
-Dear Lord, who am I, and who are these my people, that we should presume to be giving something to you? Everything comes from you; all we’re doing is giving back what we’ve been given from your generous hand..... so I have given from the heart, honestly and happily...
-
-Berlin Connect has always been blessed with faithful givers who are willing and generous in their outlook on life and understand that our contribution large or small will always give God an opportunity to show His faithfulness in our lives.
-Let’s prepare our hearts with prayer and excitement as we consider what to bring to the Heart for the House offering on 5th October 2014 enabling us to strengthen our church and speed up the work of Jesus here in our city, Berlin.
-
-**Time Frame:**
-Online giving open 01 October 2014
-Giving envelopes ready to be picked up in foyer on 28th September 2014
-Bank account details for your Heart for the House transfers details below:
-
-Account owner/Kontoinhaber: Berlin Christian Life Centre e.V.
-IBAN: DE07120400000623459500
-Account number/Kontonummer 623459500
-Bank code/BLZ: 12040000
-Commerzbank Berlin
-SWIFT Code (BIC): COBADEFFXXX
-Reference/Verwendungszweck: Heart for the House
-
-All Heart for the House giving to be completed before 31 OCT 2014.
+Visiongivercopy: 
 
 ----
 
-Kingdomgiver: Gift on the day & an annual commitment
+Kingdomgiver: 
 
 ----
 
-Kingdomgivertitle: Kingdom Givers
+Kingdomgivertitle: 
 
 ----
 
-Kingdomgivercopy: BRING A GIFT ON THE DAY & A YEARLY COMMITMENT
-
-Kingdom givers is a new initiative starting this year that will create an opportunity for people to develop as financial leaders in God’s House. This new initiative will enable us to invest and develop people who believe God has called them to finance the work of Jesus by using their gifts, talents and character to add value and strength to build God’s House. Kingdom givers will be a vehicle to help people who want to develop as business leaders, entrepreneurs and marketplace leaders.
-
-We are very excited about this new initiative and its potential to release people into the fullness of God's purposes on their lives. Kingdom givers is by application and is an annual commitment to resourcing the ongoing work of Berlin Connect.
-
-If you have a desire to be a financial leader in building God's House as a Kingdom giver please contact David for an application form on (email: dberndt@berlinclc.de text: dberndt@berlinclc.de).
-
-1 Chronicles 29 MSG
-Dear Lord, who am I, and who are these my people, that we should presume to be giving something to you? Everything comes from you; all we’re doing is giving back what we’ve been given from your generous hand..... so I have given from the heart, honestly and happily...
-
-Berlin Connect has always been blessed with faithful givers who are willing and generous in their outlook on life and understand that our contribution large or small will always give God an opportunity to show His faithfulness in our lives.
-Let’s prepare our hearts with prayer and excitement as we consider what to bring to the Heart for the House offering on 5th October 2014 enabling us to strengthen our church and speed up the work of Jesus here in our city, Berlin.
-
-**Time Frame:**
-Online giving open 01 October 2014
-Giving envelopes ready to be picked up in foyer on 28th September 2014
-Bank account details for your Heart for the House transfers details below:
-
-Account owner/Kontoinhaber: Berlin Christian Life Centre e.V.
-IBAN: DE07120400000623459500
-Account number/Kontonummer 623459500
-Bank code/BLZ: 12040000
-Commerzbank Berlin
-SWIFT Code (BIC): COBADEFFXXX
-Reference/Verwendungszweck: Heart for the House
-
-All Heart for the House giving to be completed before 31 OCT 2014.
-
-(file:kingdomgiversapplication.en.pdf text:Download The Application Form class:button)
+Kingdomgivercopy: 
 
 ----
 
-Threewaysbutton: Be Involved
+Threewaysbutton: 

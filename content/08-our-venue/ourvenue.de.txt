@@ -1,4 +1,4 @@
-﻿Title: Unser Venue
+﻿Title: Wo?
 
 ----
 
@@ -10,8 +10,8 @@ Introcopy: (vimeo: https://vimeo.com/90767564)
 
 ----
 
-Detailscopy: ###Service Times
-Die Anfangszeiten unserer Celebrations im Haus Ungarn sind<br>**10:30**, **12:30**, **17:00** und **19:00** **(+ neue 15:00 Celebration, 1 Stunde am 2. Nov, 7. Dez)**
+Detailscopy: ###Celebrations
+Die Anfangszeiten unserer Celebrations im Haus Ungarn sind<br>**11:00**, **13:00**, **15:00**, **17:00** und **19:00** 
 Abendmahl steht immer bereit & Gebet wird angeboten.
 Leidenschaftliche Anbetung / Weisheit aus der Bibel / authentische Beziehungen
 

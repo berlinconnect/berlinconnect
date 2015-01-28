@@ -10,7 +10,7 @@ Description: Berlin Connect is a multicultural church in the heart of the city. 
 
 ----
 
-Copyright: © Berlin Connect 2014
+Copyright: © Berlin Connect 2015
 
 ----
 
@@ -34,4 +34,4 @@ More: Mehr
 
 ----
 
-Notice: **Schon gewusst:** Unsere Nachmittags Celebrations sind ab jetzt um 17:00 und 19:00.
+Notice: **Schon gewusst:** Wir haben 5 neue Anfangszeiten der Sunday Celebrations: 11:00, 13:00, 15:00, 17;00 & 19:00.
