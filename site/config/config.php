@@ -406,11 +406,21 @@ to set the default locale settings for all PHP functions
 
 */
 
-c::set('lang.support', true);
-c::set('lang.default', 'en');
-c::set('lang.available', array('en','de'));
-c::set('lang.detect', true);
-c::set('lang.locale', true);
+c::set('languages', array(
+  array(
+    'code'    => 'en',
+    'name'    => 'English',
+    'default' => true,
+    'locale'  => 'en_US',
+    'url'     => '/en',
+  ),
+  array(
+    'code'    => 'de',
+    'name'    => 'Deutsch',
+    'locale'  => 'de_DE',
+    'url'     => '/de',
+  ),
+));
 
 
 /*
@@ -445,3 +455,24 @@ array('.', '..', '.DS_Store', '.svn', '.git', '.htaccess');
 
 */
 c::set('content.file.ignore', array());
+
+// set the default panel language
+c::set('panel.language', 'en');
+
+// set the main color for the panel design
+// can be any valid css color definition
+c::set('panel.color', 'red');
+
+// allowed mime types for file uploads
+c::set('upload.allowed', array(
+  'image/jpeg',
+  'image/pjpeg',
+  'image/png',
+  'image/x-png',
+  'image/gif',
+  'application/pdf',
+  'application/gzip',
+  'application/zip',
+));
+
+c::set('panel.check', false);
