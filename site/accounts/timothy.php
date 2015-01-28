@@ -3,7 +3,7 @@
 username: timothy
 email: timothy@achumba.com
 password: >
-  $2a$10$5iWa6.AR6OBbFbrG4qVOsO/gqSn6Sm9sfg4vNU4NP.unYigv4qYGW
+  $2a$10$ZzBEBsdbg5z0YcmO7WtmLufunA2wC.5jZ6gxkJT9g.cOKl7jq64vK
 language: en
 role: admin
-token: 8edd016bf976308e0067d440d42f6ae5a362bb37
+token: 234964c4eca23f2fcc4a0bb5e75fc526fd28e62d
