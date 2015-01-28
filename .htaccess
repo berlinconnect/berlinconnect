@@ -14,7 +14,9 @@ RewriteEngine on
 # If your homepage is http://yourdomain.com/mysite
 # Set the RewriteBase to:
 #
-RewriteBase /
+# RewriteBase /mysite
+#
+# RewriteBase /
 
 # block text files in the content folder from being accessed directly
 RewriteRule ^content/(.*)\.(txt|md|mdown)$ error [R=301,L]
@@ -23,7 +25,7 @@ RewriteRule ^content/(.*)\.(txt|md|mdown)$ error [R=301,L]
 RewriteRule ^site/(.*) error [R=301,L]
 
 # block all files in the kirby folder from being accessed directly
-RewriteRule ^kirby/(.*) error [R=301,L]
+# RewriteRule ^kirby/(.*) error [R=301,L]
 
 # make panel links work
 RewriteCond %{REQUEST_FILENAME} !-f
@@ -37,10 +39,11 @@ RewriteRule ^(.*) index.php [L]
 
 </IfModule>
 
+
 # Additional recommended values
 # Remove comments for those you want to use.
 #
-AddDefaultCharset UTF-8
+# AddDefaultCharset UTF-8
 #
 # php_flag short_open_tag on
 
