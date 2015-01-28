@@ -1,8 +1,8 @@
-﻿Pagelink: 
+﻿Pagelink:
 
 ----
 
-Id: coming-up
+UniqueId: coming-up
 
 ----
 
@@ -22,7 +22,7 @@ Intro: Diesen Sonntag, Gastsprecher & weitere Infos.
 
 ----
 
-Text: Kirche ist nicht was du denkst.....Kirche ist *mehr als* du denkst. Jeden Sonntag wirst du ermutigt durch 'Nahrung', die dich innerlich stärkt und durch Weisheit von Gott, die dich fürs Leben ausrüstet.  
+Text: Kirche ist nicht was du denkst.....Kirche ist *mehr als* du denkst. Jeden Sonntag wirst du ermutigt durch 'Nahrung', die dich innerlich stärkt und durch Weisheit von Gott, die dich fürs Leben ausrüstet.
 
 Verschiedene Leute sprechen, unter anderem unsere Pastoren Mark & Joyce Wilkinson, Leute aus dem Berlin Connect Team und Gastredner aus der ganzen Welt.
 
