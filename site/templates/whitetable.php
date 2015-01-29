@@ -8,7 +8,7 @@
       <h1><?= $page->podcasttitle() ?></h1>
       <h2><?= $page->podcastsubtitle() ?></h2>
       <div class="items">
-        <?php foreach($pages->find('podcasts')->children() as $message): ?>
+        <?php foreach($page->find('podcasts')->children() as $message): ?>
         <a class="itemLink" href="<?= $message->link() ?>">
           <div class="item">
             <span class="entypo play"></span>
@@ -27,7 +27,7 @@
       <h1><?= $page->blogtitle() ?></h1>
       <h2><?= $page->blogsubtitle() ?></h2>
       <div class="items">
-        <?php foreach($pages->find('transcripts')->children()->visible() as $transcript): ?>
+        <?php foreach($page->find('transcripts')->children()->visible() as $transcript): ?>
         <a class="itemLink" href="<?= $transcript->url() ?>">
           <div class="item">
             <span class="entypo list"></span>
@@ -43,7 +43,7 @@
       <h1><?= $page->bookstitle() ?></h1>
       <h2><?= $page->bookssubtitle() ?></h2>
       <div class="items">
-        <?php foreach($pages->find('books')->children() as $book): ?>
+        <?php foreach($page->find('books')->children() as $book): ?>
         <a class="itemLink" href="<?= $book->link() ?>">
           <div class="item">
             <span class="entypo book"></span>
@@ -59,7 +59,7 @@
       <h1><?= $page->downloadstitle() ?></h1>
       <h2><?= $page->downloadssubtitle() ?></h2>
       <div class="items">
-        <?php foreach($pages->find('downloads')->children() as $download): ?>
+        <?php foreach($page->find('downloads')->children() as $download): ?>
         <a class="itemLink" href="<?= $download->link() ?>">
           <div class="item">
             <span class="entypo download"></span>
