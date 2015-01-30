@@ -10,6 +10,9 @@ fields:
   link:
     label: Link
     type:  text
+  linktext:
+    label: LinkText
+    type: text
   author:
     label: Author
     type:  text

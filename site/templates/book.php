@@ -6,7 +6,7 @@
   <div class="wrapper page transcript">
   <?= kirbytext($page->text()) ?>
     <div class="center">
-      <a class="button" href='<?= $page->link() ?>'>View on Amazon</a>
+      <a class="button" href='<?= $page->link() ?>'><?= $page->linktext() ?></a>
     </div>
   </div>
 </div>
