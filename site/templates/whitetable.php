@@ -43,8 +43,8 @@
       <h1><?= $page->bookstitle() ?></h1>
       <h2><?= $page->bookssubtitle() ?></h2>
       <div class="items">
-        <?php foreach($page->find('books')->children() as $book): ?>
-        <a class="itemLink" href="<?= $book->link() ?>">
+        <?php foreach($page->find('books')->children()->visible() as $book): ?>
+        <a class="itemLink" href="<?= $book->url() ?>">
           <div class="item">
             <span class="entypo book"></span>
             <span class="speaker right"><?= $book->author() ?></span>

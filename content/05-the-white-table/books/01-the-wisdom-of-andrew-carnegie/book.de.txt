@@ -7,3 +7,7 @@ Link: http://amzn.to/Y0PhII
 ----
 
 Author: Napoleon Hill
+
+----
+
+Text: TESTING TEXt COPY!
