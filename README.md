@@ -4,14 +4,6 @@ Berlin Connect &#8211; Young local church in the heart of Berlin // English spea
 
 # Get started with development
 
-_It would be great if you document the following points as well_
-
-* What does this repository contain, and how is it hosted?
-* How can I host it locally, and deploy to the server?
-* What does Node.js do?
-* How do edit stuff (styles, blog, content)?
-* What is make start vs. make build – and why does our marketing team have to care?
-
 ### Install dependencies
 
     $ make npm
