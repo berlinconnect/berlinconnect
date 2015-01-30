@@ -10,6 +10,18 @@ fields:
   link:
     label: Link
     type:  text
+  linktext:
+    label: LinkText
+    type: text
   author:
     label: Author
     type:  text
+  text:
+    label: Copy
+    type:  textarea
+    size:  large
+    buttons:
+      - h3
+      - bold
+      - italic
+      - link

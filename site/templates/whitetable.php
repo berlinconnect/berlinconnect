@@ -43,15 +43,33 @@
       <h1><?= $page->bookstitle() ?></h1>
       <h2><?= $page->bookssubtitle() ?></h2>
       <div class="items">
-        <?php foreach($page->find('books')->children() as $book): ?>
-        <a class="itemLink" href="<?= $book->link() ?>">
-          <div class="item">
-            <span class="entypo book"></span>
-            <span class="speaker right"><?= $book->author() ?></span>
-            <h3><?= $book->title() ?></h3>
-            <div class="clearfix"></div>
-          </div>
-        </a>
+        <?php foreach($page->find('books')->children()->visible() as $book): ?>
+
+          <!-- 
+            Checking whether there is a review or not,
+            review    => Book Review page
+            no review => Amazon page      
+           -->
+          <?php 
+            $review = $book->text();
+            $review = (string)$review;
+            $bookLink;
+            if(strlen($review) > 50) {
+              $bookLink = $book->url();
+            }
+            else{
+              $bookLink = $book->link();
+            }
+          ?>
+
+          <a class="itemLink" href="<?= $bookLink ?>">
+            <div class="item">
+              <span class="entypo book"></span>
+              <span class="speaker right"><?= $book->author() ?></span>
+              <h3><?= $book->title() ?></h3>
+              <div class="clearfix"></div>
+            </div>
+          </a>
         <?php endforeach ?>
       </div>
     </section>
