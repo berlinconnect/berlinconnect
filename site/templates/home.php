@@ -26,7 +26,7 @@
           <?php if (strlen($section->pagelink()) != 0): ?>
             <a class="pageLink" href="<?= $section->pagelink() ?>"></a>
           <?php endif ?>
-          <div class="background-image" style="background-image: url(<?= $section->images()->last()->url(); ?>)"></div>
+          <div class="background-image" style="background-image: url(<?= $section->images()->first()->url(); ?>)"></div>
           <div class="caption">
             <h2><?= html($section->title()) ?></h2>
             <p><?= html($section->intro()) ?></p>
@@ -50,7 +50,7 @@
           <?php if (strlen($section->pagelink()) != 0): ?>
             <a class="pageLink" href="<?= $section->pagelink() ?>"></a>
           <?php endif ?>
-          <div class="background-image" style="background-image: url(<?= $section->images()->last()->url(); ?>)"></div>
+          <div class="background-image" style="background-image: url(<?= $section->images()->first()->url(); ?>)"></div>
           <div class="caption">
             <h2><?= html($section->title()) ?></h2>
             <p><?= html($section->intro()) ?></p>
@@ -77,7 +77,7 @@
           <?php if (strlen($section->pagelink()) != 0): ?>
             <a class="pageLink" href="<?= $section->pagelink() ?>"></a>
           <?php endif ?>
-          <div class="background-image" style="background-image: url(<?= $section->images()->last()->url(); ?>)"></div>
+          <div class="background-image" style="background-image: url(<?= $section->images()->first()->url(); ?>)"></div>
           <div class="caption">
             <h2><?= html($section->title()) ?></h2>
             <p><?= html($section->intro()) ?></p>
