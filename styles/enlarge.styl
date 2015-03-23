@@ -18,6 +18,56 @@ body
           p
             font-family: $heading
 
+          .items
+            width: 100%
+            margin: 30px auto 0
+            text-align: left
+
+            a.itemLink
+              text-decoration: none
+
+              &:hover
+                color: #f25a2b
+                background-color: rgba(black,0.01)
+                display: block
+
+                .item
+                  .entypo
+                    border: 2px solid #f25a2b
+
+              .item
+                padding: 9px 10px 5px
+                border-bottom: 1px solid rgba($light,0.3)
+
+                .entypo
+                  font-size: 40px
+                  text-decoration: none
+                  margin-top: -8px
+                  padding: 5px 0
+                  border: 2px solid $dark
+                  height: 30px
+                  width: 30px
+                  line-height:17px
+                  border-radius: 15px
+                  margin-right: 10px
+                  text-align: center
+
+                  &.play
+                    padding: 5px 4px 5px 6px
+
+                  &.download
+                    padding: 6px 0 4px
+
+                h3
+                  font-size: 22px
+                  display: inline-block
+                  font-family: $heading
+
+                .speaker
+                  padding-top: 8px
+                  font-style: italic
+                  font-family: $heading
+
       .sections
         .col
           box-sizing border-box

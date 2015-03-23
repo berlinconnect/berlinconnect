@@ -13,23 +13,13 @@
 
   <div class="cols center sections">
     <div class="col col-33 comingup">
-      <h3>COMING UP</h3>
+      <h3><strong>COMING UP</strong></h3>
       <ul>
+        <?php foreach($page->find('coming-up')->children()->limit(5) as $event): ?>
         <li>
-          03.10 - This is a notification for an upcoming event
+          <?= $event->eventdate() ?> - <?= $event->title() ?>
         </li>
-        <li>
-          03.10 - Teaching Night
-        </li>
-        <li>
-          03.10 - Teaching Night
-        </li>
-        <li>
-          03.10 - Teaching Night
-        </li>
-        <li>
-          03.10 - Teaching Night
-        </li>
+        <?php endforeach ?>
       </ul>
     </div>
     <div class="col col-33 jesus">
