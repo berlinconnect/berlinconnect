@@ -18,6 +18,7 @@ RewriteRule ^/?de/the-white-table/(.*)$ /de/enlarge/$1 [L,R=301]
 # Set the RewriteBase to:
 #
 # RewriteBase /mysite
+RewriteBase /
 
 # block text files in the content folder from being accessed directly
 RewriteRule ^content/(.*)\.(txt|md|mdown)$ error [R=301,L]
