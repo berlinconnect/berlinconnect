@@ -4,6 +4,11 @@ body
       padding 0 0 100px
       color white
 
+      .sub-hero
+        h1
+          font-size: 70px
+          letter-spacing: 10px
+
       .wrapper
         section
           padding: 60px 0 40px
@@ -68,39 +73,58 @@ body
                   font-style: italic
                   font-family: $heading
 
-      .sections
-        .col
-          box-sizing border-box
-          padding 50px 30px
-          height 460px
+        .sections
+          .col
+            box-sizing border-box
+            padding 0 10px
 
-          h3
-            font-size: 40px
-            font-family: $heading
-            font-weight: 300
+            .circle
+              width: 286px
+              height: 286px
+              display: table
+              box-sizing border-box
+              padding 0 20px
+              width: 100%
+              border-radius: 227px
 
-          p, ul
-            font-size: 20px
-            margin-top: 20px
-            font-family: $heading
+              .circle-container
+                display: table-cell
+                vertical-align: middle
 
-          .button
-            color white
-            border-color white
-            margin-top 30px
+            h3
+              font-size: 24px
+              line-height: 30px
+              font-family: $heading
+              font-weight: 300
+              margin-bottom: 10px
 
-          &.comingup
-            background #12e096
+            p, ul
+              font-size: 17px
+              line-height: 24px
+              margin-top: 20px
+              font-family: $heading
+              color white
+              margin 0
 
-            ul
-              text-align: left
+            .button
+              color white
+              border-color white
+              margin-top 30px
 
-              li
-                margin-bottom 16px
+            &.comingup
+              .circle
+                background #12e096
 
-          &.jesus
-            background #f25a2b
-            padding 160px 0 0
+              ul
+                text-align: left
 
-          &.discover
-            background #0087e0
+                li
+                  margin-bottom 16px
+
+            &.jesus
+              .circle
+                background #f25a2b
+
+            &.discover
+              .circle
+                background #0087e0

@@ -11,28 +11,47 @@
     </section>
   </div>
 
-  <div class="cols center sections">
-    <div class="col col-33 comingup">
-      <h3><strong>COMING UP</strong></h3>
-      <ul>
-        <?php foreach($page->find('coming-up')->children()->limit(5) as $event): ?>
-        <li>
-          <?= $event->eventdate() ?> - <?= $event->title() ?>
-        </li>
-        <?php endforeach ?>
-      </ul>
-    </div>
-    <div class="col col-33 jesus">
-      <h3><strong>WHO IS JESUS?</strong></h3>
-      <a class="button">Sign Up Today</a>
-    </div>
-    <div class="col col-33 discover">
-      <h3>DISCOVERING<br/><strong>JESUS</strong><br/>AND HIS<br/><strong>CHURCH</strong></h3>
-      <p>Start the 6 Weeks Course</p>
-      <a class="button">Start Now</a>
+  <div class="wrapper">
+    <div class="cols center sections">
+      <div class="col col-33 comingup">
+        <div class="circle">
+          <div class="circle-container">
+            <h3><strong>COMING UP</strong></h3>
+            <p>Start the 6 Weeks Course</p>
+          </div>
+        </div>
+      </div>
+      <div class="col col-33 comingup hidden">
+        <h3><strong>COMING UP</strong></h3>
+        <ul>
+          <?php foreach($page->find('coming-up')->children()->limit(5) as $event): ?>
+          <li>
+            <?= $event->eventdate() ?> - <?= $event->title() ?>
+          </li>
+          <?php endforeach ?>
+        </ul>
+      </div>
+      <div class="col col-33 jesus">
+        <div class="circle">
+          <div class="circle-container">
+            <h3><strong>WHO IS JESUS?</strong></h3>
+            <p>Start the 6 Weeks Course</p>
+          </div>
+        </div>
+      </div>
+      <div class="col col-33 discover">
+        <div class="circle">
+          <div class="circle-container">
+            <h3>DISCOVERING <strong>JESUS</strong> AND HIS <strong>CHURCH</strong></h3>
+            <p>Start the 6 Weeks Course</p>
+          </div>
+        </div>
+        <!-- <h3>DISCOVERING<br/><strong>JESUS</strong><br/>AND HIS<br/><strong>CHURCH</strong></h3>
+        <p>Start the 6 Weeks Course</p>
+        <a class="button">Start Now</a> -->
+      </div>
     </div>
   </div>
-
 
   <div class="wrapper page">
     <section class="podcasts center">

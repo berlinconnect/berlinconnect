@@ -1,9 +1,9 @@
-Title: (En)large
+Title: (en)large
 ----
 
 AboutTitle: About (EN)LARGE
 ----
-About: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+About: As a church community, we are committed to being life-long learners in every area of our lives. (En)large is our learning and resources platform to help you be all God has called you to be, to ‘shine brightly’ and add value to whatever sphere of society you find yourself in.
 ----
 
 Podcasttitle: Podcasts
