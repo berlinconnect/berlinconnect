@@ -142,23 +142,12 @@
 
     &.enlarge
       .content
-        .sections
-          .col
-            padding 30px
-            height 370px
-
-            h3
-              font-size: 24px
-              font-family: $heading
-              font-weight: 300
-
-            p, ul
-              font-size: 20px
-              margin-top: 20px
-              font-family: $heading
-
-            &.jesus
-              padding 130px 0 0
+        .wrapper
+          .sections
+            .col
+              .circle
+                min-height 240px
+                border-radius: 10px
 
 
 @media $media-tablet-portrait
@@ -490,14 +479,30 @@
                   margin-left: 0px
                   top: 13px
 
-      .sections
-        .col
-          padding 30px
-          height 340px
-          width 100%
+        .sections
+          .col
+            width 100%
+            margin-bottom 20px
 
-          &.jesus
-            padding 110px 30px 0
+            .circle
+              box-sizing border-box
+              padding 0 50px
+
+            h3
+              font-size: 30px
+              line-height: 40px
+
+            p,ul
+              font-size: 20px
+              line-height: 29px
+
+          .col.workshops
+          .col.toolbox
+            width 50%
+            margin-top 0
+
+            .box
+              height 286px
 
   body.heart-for-the-house
     .content
@@ -806,6 +811,35 @@
       .wrapper
         .logo
           display: block
+
+    &.enlarge
+      .content
+        .sub-hero
+          h1
+            font-size: 80px
+
+        .wrapper
+          .sections
+            .col
+              .circle
+                padding-top 30px
+                padding-bottom 30px
+                padding-left 10px
+                padding-right 10px
+
+              h3
+                font-size: 20px
+                line-height: 28px
+            .col.workshops
+            .col.toolbox
+              width 100%
+
+              h3
+                font-size: 30px
+                line-height: 38px
+
+              .box
+                height 280px
 
     &.heart-for-the-house
       .menu

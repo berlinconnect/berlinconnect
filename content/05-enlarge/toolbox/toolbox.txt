@@ -1,0 +1,17 @@
+Title: Toolbox
+----
+Podcasttitle: Podcasts
+----
+Podcastsubtitle: Listen to messages from our Sunday celebrations
+----
+Blogtitle: Notes
+----
+Blogsubtitle: Review the transcripts of the latest messages
+----
+Bookstitle: Books
+----
+Bookssubtitle: See the books recommended by friends
+----
+Downloadstitle: Downloads
+----
+Downloadssubtitle: Get all the resources and information you need
