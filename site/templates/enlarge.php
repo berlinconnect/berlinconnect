@@ -50,8 +50,8 @@
         <p>Start the 6 Weeks Course</p>
         <a class="button">Start Now</a> -->
       </div>
-      <div class="col col-50 workshops">
-        <a href="#" class="box">
+      <div id="workshopsLightbox" class="col col-50 workshops thelightbox">
+        <a class="box">
           <div class="box-container">
             <h3>SESSION WORKSHOPS</h3>
           </div>
@@ -79,6 +79,35 @@
         <?php endforeach ?>
       </ul>
     </section>
+  </div>
+</div>
+
+<div class="lightbox hidden workshopsLightbox">
+  <div class="lightbox-overlay"></div>
+  <div class="lightbox-container scaleUp">
+    <div class="header-image" style="background-image: url(<?php echo $page->images()->first()->url(); ?>)">
+      <span class="entypo close"></span>
+      <div class="overlay"></div>
+      <div class="header-copy">
+        <h2>Session Workshops</h2>
+        <p>Coming Up</p>
+      </div>
+    </div>
+    <div class="container center">
+      <p>Sessions include biblical teaching, resources, lively small group discussions where you can ask questions and practical tips as well as make new friends.</p>
+      <ul class="dates">
+        <?php foreach($page->find('coming-up')->children()->limit(5) as $event): ?>
+        <li>
+          <strong class="heading"><?= $event->eventdate() ?> — <?= $event->type() ?></strong>
+          <br><?= $event->title() ?>
+        </li>
+        <?php endforeach ?>
+      </ul>
+      <p>Continue the conversation by <a href="mailto:conny@berlinclc.com">joining a Dinner Party</a></p>
+    </div>
+    <div class="center button-container">
+      <a class="close-lightbox button">Done</a>
+    </div>
   </div>
 </div>
 <?php snippet('lightbox') ?>
