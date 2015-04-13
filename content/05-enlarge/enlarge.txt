@@ -3,21 +3,5 @@ Title: (en)large
 
 AboutTitle: About (EN)LARGE
 ----
-About: As a church community, we are committed to being life-long learners in every area of our lives. (En)large is our learning and resources platform to help you be all God has called you to be, to ‘shine brightly’ and add value to whatever sphere of society you find yourself in.
+About: (En)large is our learning and resources platform to help you be all God has called you to be, to ‘shine brightly’ and add value to whatever sphere of society you find yourself in.
 ----
-
-Podcasttitle: Podcasts
-----
-Podcastsubtitle: Listen to messages from our Sunday celebrations
-----
-Blogtitle: Notes
-----
-Blogsubtitle: Review the transcripts of the latest messages
-----
-Bookstitle: Books
-----
-Bookssubtitle: See the books recommended by friends
-----
-Downloadstitle: Downloads
-----
-Downloadssubtitle: Get all the resources and information you need

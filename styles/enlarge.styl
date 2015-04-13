@@ -6,8 +6,9 @@ body
 
       .sub-hero
         h1
-          font-size: 70px
-          letter-spacing: 10px
+          font-size: 130px
+          letter-spacing: 0
+          text-transform: none
 
       .wrapper
         section
@@ -79,6 +80,7 @@ body
             padding 0 10px
 
             .circle
+            .box
               width: 286px
               height: 286px
               display: table
@@ -88,15 +90,17 @@ body
               border-radius: 227px
 
               .circle-container
+              .box-container
                 display: table-cell
                 vertical-align: middle
 
             h3
-              font-size: 24px
+              font-size: 20px
               line-height: 30px
               font-family: $heading
               font-weight: 300
               margin-bottom: 10px
+              text-transform: uppercase
 
             p, ul
               font-size: 17px
@@ -128,3 +132,39 @@ body
             &.discover
               .circle
                 background #0087e0
+
+            &.workshops
+            &.toolbox
+              margin-top 100px
+
+              h3
+                font-size: 40px
+                padding-top 10px
+                line-height: 52px
+
+              .box
+                text-decoration: none
+                color white
+                height: 386px
+                border-radius: 5px
+                background #0087e0
+                transition transform 300ms ease
+
+                &:hover
+                  transform: scale(1.04)
+
+            &.toolbox
+              .box
+                background-color #f25a2b
+
+ul.dates
+  margin-top 30px
+  font-family: $heading
+
+  li
+    list-style-type none
+    margin-bottom 20px
+    font-size: 24px
+
+    strong
+      font-size: 20px
