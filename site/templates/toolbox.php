@@ -6,8 +6,8 @@
 
   <div class="wrapper page">
     <section class="downloads center">
-      <h1>Discovery Notes</h1>
-      <h2><?= $page->downloadssubtitle() ?></h2>
+      <h1><?= $page->discoverytitle() ?></h1>
+      <h2><?= $page->discoverysubtitle() ?></h2>
       <div class="items">
         <?php foreach($page->find('discovery')->children()->limit(5) as $download): ?>
         <a class="itemLink" href="<?= $download->link() ?>">
@@ -17,14 +17,11 @@
           </div>
         </a>
         <?php endforeach ?>
-        <div class="center hidden">
-          <a class="button orange">Download Everything</a>
-        </div>
       </div>
     </section>
     <section class="downloads center">
-      <h1>Identity Collection</h1>
-      <h2><?= $page->blogsubtitle() ?></h2>
+      <h1><?= $page->identitytitle() ?></h1>
+      <h2><?= $page->identitysubtitle() ?></h2>
       <div class="items">
         <?php foreach($page->find('identity')->children()->visible()->limit(10) as $transcript): ?>
         <a class="itemLink" href="<?= $transcript->url() ?>">
