@@ -1,6 +1,6 @@
 <?php if(!defined('KIRBY')) exit ?>
 
-# default blueprint
+# giving blueprint
 
 title: Giving
 pages: false
