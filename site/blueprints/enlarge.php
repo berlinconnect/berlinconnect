@@ -43,9 +43,6 @@ fields:
   sessionstitle:
     label: Sessions Title
     type:  text
-  comingup:
-    label: Coming Up
-    type:  text
   sessions:
     label: Sessions
     type:  textarea
@@ -54,4 +51,3 @@ fields:
     label: Continue Conversations
     type:  textarea
     size:  small
-

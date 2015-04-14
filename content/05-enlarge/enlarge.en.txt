@@ -25,15 +25,13 @@ BibleTitle: MY BIBLE
 Bible: will equip you with practical skills in key areas such as finances, work, career and relationships.
 ----
 
-WorkshopsTitle: SESSION &amp; WORKSHOPS
+WorkshopsTitle: SESSION &amp; WORKSHOP Dates
 ----
 
 ToolboxTitle: Toolbox
 ----
 
-SessionsTitle: Sessions & Workshops
-----
-Comingup: Coming Up
+SessionsTitle: Sessions & Workshop Dates
 ----
 
 Sessions: Sessions include biblical teaching, resources, lively small group discussions where you can ask questions and practical tips as well as make new friends.

@@ -1,6 +1,13 @@
 Title: (en)large
 ----
-
+Discoverytitle: Disovery Notes
+----
+Discoverysubtitle: Discovery notes are blah blah
+----
+Identitytitle: Identity Collection
+----
+Identitysubtitle: Identity collection are blah blah
+----
 AboutTitle: About (EN)LARGE
 ----
 About: (en)large is a learning and resources platform to equip you to be all God has called you to be, to shine brightly and add value to whatever sphere of society you find yourself in.
@@ -25,15 +32,13 @@ BibleTitle: MY BIBLE
 Bible: will equip you with practical skills in key areas such as finances, work, career and relationships.
 ----
 
-WorkshopsTitle: SESSION &amp; WORKSHOPS
+WorkshopsTitle: SESSION &amp; WORKSHOP Dates
 ----
 
 ToolboxTitle: Toolbox
 ----
 
-SessionsTitle: Sessions & Workshops
-----
-Comingup: Coming Up
+SessionsTitle: Session & Workshop Dates
 ----
 
 Sessions: Sessions include biblical teaching, resources, lively small group discussions where you can ask questions and practical tips as well as make new friends.

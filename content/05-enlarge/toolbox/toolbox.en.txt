@@ -1,5 +1,13 @@
 Title: Toolbox
 ----
+Discoverytitle: Disovery Notes
+----
+Discoverysubtitle: Discovery notes are blah blah
+----
+Identitytitle: Identity Collection
+----
+Identitysubtitle: Identity collection are blah blah
+----
 Podcasttitle: Podcasts
 ----
 Podcastsubtitle: Listen to messages from our Sunday celebrations
