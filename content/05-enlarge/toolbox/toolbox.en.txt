@@ -1,37 +1,17 @@
-﻿Title: The White Table
-
+Title: Toolbox
 ----
-
-Subtitle: Encouraging people to read, study and learn more about Jesus, His Church and His purposes for us.
-
-----
-
 Podcasttitle: Podcasts
-
 ----
-
 Podcastsubtitle: Listen to messages from our Sunday celebrations
-
 ----
-
 Blogtitle: Notes
-
 ----
-
 Blogsubtitle: Review the transcripts of the latest messages
-
 ----
-
 Bookstitle: Books
-
 ----
-
 Bookssubtitle: See the books recommended by friends
-
 ----
-
 Downloadstitle: Downloads
-
 ----
-
 Downloadssubtitle: Get all the resources and information you need
