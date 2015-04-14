@@ -5,10 +5,15 @@ body
       color white
 
       .sub-hero
-        h1
-          font-size: 130px
-          letter-spacing: 0
-          text-transform: none
+        .enlargelogo
+          position relative
+          z-index: 1
+          background url('/img/enlarge-logo.svg')
+          background-size contain
+          background-repeat no-repeat
+          width 600px
+          height 200px
+          margin 0 auto
 
       .wrapper
         section
@@ -149,6 +154,7 @@ body
                 border-radius: 5px
                 background #0087e0
                 transition transform 300ms ease
+                background-size cover
 
                 &:hover
                   transform: scale(1.04)

@@ -2,7 +2,7 @@
 <?php snippet('menu') ?>
 <?php snippet('sidebar') ?>
 <div class="content">
-  <?php snippet('subhero') ?>
+  <?php snippet('enlargehero') ?>
 
   <div class="wrapper page">
     <section class="center">
@@ -13,7 +13,7 @@
 
   <div class="wrapper">
     <div class="cols center sections">
-      <div class="col col-33 comingup">
+      <div class="col col-33 jesus">
         <div class="circle">
           <div class="circle-container">
             <h3><strong>DISCOVERING JESUS &amp; HIS CHURCH</strong></h3>
@@ -21,17 +21,7 @@
           </div>
         </div>
       </div>
-      <div class="col col-33 comingup hidden">
-        <h3><strong>COMING UP</strong></h3>
-        <ul>
-          <?php foreach($page->find('coming-up')->children()->limit(5) as $event): ?>
-          <li>
-            <?= $event->eventdate() ?> - <?= $event->title() ?>
-          </li>
-          <?php endforeach ?>
-        </ul>
-      </div>
-      <div class="col col-33 jesus">
+      <div class="col col-33 comingup">
         <div class="circle">
           <div class="circle-container">
             <h3><strong>LIFE BUILDERS</strong></h3>
@@ -51,14 +41,14 @@
         <a class="button">Start Now</a> -->
       </div>
       <div id="workshopsLightbox" class="col col-50 workshops thelightbox">
-        <a class="box">
+        <a class="box" <?php if($image = $page->image('box1.jpg')): ?>style="background-image: url(<?= $image->url() ?>)"<?php endif ?>>
           <div class="box-container">
-            <h3>SESSION WORKSHOPS</h3>
+            <h3>SESSION &amp; WORKSHOPS</h3>
           </div>
         </a>
       </div>
       <div class="col col-50 toolbox">
-        <a href="enlarge/toolbox" class="box">
+        <a href="enlarge/toolbox" <?php if($image = $page->image('box2.jpg')): ?>style="background-image: url(<?= $image->url() ?>)"<?php endif ?> class="box">
           <div class="box-container">
             <h3>Toolbox</h3>
           </div>
@@ -85,11 +75,11 @@
 <div class="lightbox hidden workshopsLightbox">
   <div class="lightbox-overlay"></div>
   <div class="lightbox-container scaleUp">
-    <div class="header-image" style="background-image: url(<?php echo $page->images()->first()->url(); ?>)">
+    <div class="header-image" <?php if($image = $page->image('box1.jpg')): ?>style="background-image: url(<?= $image->url() ?>)"<?php endif ?>>
       <span class="entypo close"></span>
       <div class="overlay"></div>
       <div class="header-copy">
-        <h2>Session Workshops</h2>
+        <h2>Sessions &amp; Workshops</h2>
         <p>Coming Up</p>
       </div>
     </div>

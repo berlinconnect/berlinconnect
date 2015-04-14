@@ -5,11 +5,28 @@
   <?php snippet('subhero') ?>
 
   <div class="wrapper page">
+    <section class="downloads center">
+      <h1>Discovery Notes</h1>
+      <h2><?= $page->downloadssubtitle() ?></h2>
+      <div class="items">
+        <?php foreach($page->find('discovery')->children()->limit(5) as $download): ?>
+        <a class="itemLink" href="<?= $download->link() ?>">
+          <div class="item">
+            <span class="entypo download"></span>
+            <h3><?= $download->title() ?></h3>
+          </div>
+        </a>
+        <?php endforeach ?>
+        <div class="center hidden">
+          <a class="button orange">Download Everything</a>
+        </div>
+      </div>
+    </section>
     <section class="podcasts center">
       <h1><?= $page->podcasttitle() ?></h1>
       <h2><?= $page->podcastsubtitle() ?></h2>
       <div class="items">
-        <?php foreach($page->find('podcasts')->children()->limit(5) as $message): ?>
+        <?php foreach($page->find('podcasts')->children()->visible()->limit(5) as $message): ?>
         <a class="itemLink" href="<?= $message->link() ?>">
           <div class="item">
             <span class="entypo play"></span>
