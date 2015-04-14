@@ -16,24 +16,24 @@
       <div class="col col-33 jesus">
         <div class="circle">
           <div class="circle-container">
-            <h3><strong>DISCOVERING JESUS &amp; HIS CHURCH</strong></h3>
-            <p>focuses on the essentials of living your Christian faith. Topics include ‘Who is Jesus?’, Water baptism, prayer and more.</p>
+            <h3><strong><?= $page->discoverytitle() ?></strong></h3>
+            <?= $page->discovery()->kirbytext() ?>
           </div>
         </div>
       </div>
       <div class="col col-33 comingup">
         <div class="circle">
           <div class="circle-container">
-            <h3><strong>LIFE BUILDERS</strong></h3>
-            <p>will equip you with practical skills in key areas such as finances, work, career and relationships.</p>
+            <h3><strong><?= $page->lifetitle() ?></strong></h3>
+            <?= $page->life()->kirbytext() ?>
           </div>
         </div>
       </div>
       <div class="col col-33 discover">
         <div class="circle">
           <div class="circle-container">
-            <h3><strong>MY BIBLE</strong></h3>
-            <p>includes teaching, resources and practical tools on how to read and study the Bible.</p>
+            <h3><strong><?= $page->bibletitle() ?></strong></h3>
+            <?= $page->bible()->kirbytext() ?>
           </div>
         </div>
         <!-- <h3>DISCOVERING<br/><strong>JESUS</strong><br/>AND HIS<br/><strong>CHURCH</strong></h3>
@@ -43,14 +43,14 @@
       <div id="workshopsLightbox" class="col col-50 workshops thelightbox">
         <a class="box" <?php if($image = $page->image('box1.jpg')): ?>style="background-image: url(<?= $image->url() ?>)"<?php endif ?>>
           <div class="box-container">
-            <h3>SESSION &amp; WORKSHOPS</h3>
+            <h3><?= $page->workshopstitle() ?></h3>
           </div>
         </a>
       </div>
       <div class="col col-50 toolbox">
         <a href="enlarge/toolbox" <?php if($image = $page->image('box2.jpg')): ?>style="background-image: url(<?= $image->url() ?>)"<?php endif ?> class="box">
           <div class="box-container">
-            <h3>Toolbox</h3>
+            <h3><?= $page->toolboxtitle() ?></h3>
           </div>
         </a>
       </div>
@@ -59,7 +59,7 @@
 
   <div class="wrapper hidden page">
     <section class="center">
-      <h1>Session Workshops Dates</h1>
+      <h1><?= $page->sessionstitle() ?></h1>
       <ul class="dates">
         <?php foreach($page->find('coming-up')->children()->limit(5) as $event): ?>
         <li>
@@ -79,12 +79,12 @@
       <span class="entypo close"></span>
       <div class="overlay"></div>
       <div class="header-copy">
-        <h2>Sessions &amp; Workshops</h2>
-        <p>Coming Up</p>
+        <h2><?= $page->sessionstitle() ?></h2>
+        <p><?= $page->comingup() ?></p>
       </div>
     </div>
     <div class="container center">
-      <p>Sessions include biblical teaching, resources, lively small group discussions where you can ask questions and practical tips as well as make new friends.</p>
+      <?= $page->sessions()->kirbytext() ?>
       <ul class="dates">
         <?php foreach($page->find('coming-up')->children()->limit(5) as $event): ?>
         <li>
@@ -93,7 +93,7 @@
         </li>
         <?php endforeach ?>
       </ul>
-      <p>Continue the conversation by <a href="mailto:conny@berlinclc.com">joining a Dinner Party</a></p>
+      <p><?= $page->continueconversation() ?></p>
     </div>
     <div class="center button-container">
       <a class="close-lightbox button">Done</a>

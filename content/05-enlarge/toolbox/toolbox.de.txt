@@ -1,0 +1,33 @@
+Title: Toolbox
+
+----
+
+Podcasttitle: Podcasts
+
+----
+
+Podcastsubtitle: Botschaften anhören aus den Sunday Celebrations
+
+----
+
+Blogtitle: Stichpunkte aus den Botschaften
+
+----
+
+Blogsubtitle: Transkripte der neuesten Botschaften durchgehen
+
+----
+
+Bookstitle: Bücher
+
+----
+
+Bookssubtitle: Buchempfehlungen von Freunden
+
+----
+
+Downloadstitle: Downloads
+
+----
+
+Downloadssubtitle: Hol' dir alle Resourcen und Informationen, die du brauchst

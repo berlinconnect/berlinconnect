@@ -22,6 +22,22 @@
         </div>
       </div>
     </section>
+    <section class="downloads center">
+      <h1>Identity Collection</h1>
+      <h2><?= $page->blogsubtitle() ?></h2>
+      <div class="items">
+        <?php foreach($page->find('identity')->children()->visible()->limit(10) as $transcript): ?>
+        <a class="itemLink" href="<?= $transcript->url() ?>">
+          <div class="item">
+            <span class="entypo list"></span>
+            <span class="speaker right"><?= $transcript->datestamp() ?></span>
+            <h3><?= $transcript->title() ?></h3>
+            <div class="clearfix"></div>
+          </div>
+        </a>
+        <?php endforeach ?>
+      </div>
+    </section>
     <section class="podcasts center">
       <h1><?= $page->podcasttitle() ?></h1>
       <h2><?= $page->podcastsubtitle() ?></h2>
