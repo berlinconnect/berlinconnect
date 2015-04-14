@@ -80,7 +80,6 @@
       <div class="overlay"></div>
       <div class="header-copy">
         <h2><?= $page->sessionstitle() ?></h2>
-        <p><?= $page->comingup() ?></p>
       </div>
     </div>
     <div class="container center">
