@@ -41,11 +41,11 @@
         <a class="button">Start Now</a> -->
       </div>
       <div id="workshopsLightbox" class="col col-50 workshops thelightbox">
-        <a class="box" <?php if($image = $page->image('box1.jpg')): ?>style="background-image: url(<?= $image->url() ?>)"<?php endif ?>>
+        <div class="box" <?php if($image = $page->image('box1.jpg')): ?>style="background-image: url(<?= $image->url() ?>)"<?php endif ?>>
           <div class="box-container">
             <h3><?= $page->workshopstitle() ?></h3>
           </div>
-        </a>
+        </div>
       </div>
       <div class="col col-50 toolbox">
         <a href="enlarge/toolbox" <?php if($image = $page->image('box2.jpg')): ?>style="background-image: url(<?= $image->url() ?>)"<?php endif ?> class="box">
