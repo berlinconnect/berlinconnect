@@ -10,7 +10,7 @@
       <h2><?= $page->discoverysubtitle() ?></h2>
       <div class="items">
         <?php foreach($page->find('discovery')->children()->limit(5) as $download): ?>
-        <a class="itemLink" href="<?= $download->link() ?>">
+        <a class="itemLink" href="<?= $download->url() ?>">
           <div class="item">
             <span class="entypo download"></span>
             <h3><?= $download->title() ?></h3>
