@@ -85,7 +85,7 @@
     <div class="container center">
       <?= $page->sessions()->kirbytext() ?>
       <ul class="dates">
-        <?php foreach($page->find('coming-up')->children()->limit(5) as $event): ?>
+        <?php foreach($page->find('coming-up')->children()->limit(10) as $event): ?>
         <li>
           <strong class="heading"><?= $event->eventdate() ?> — <?= $event->type() ?></strong>
           <br><?= $event->title() ?>

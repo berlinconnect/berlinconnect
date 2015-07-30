@@ -13,21 +13,27 @@
       <div class="mapInfo">
         <div class="address">
           <h3><?= $page->address() ?></h3>
-          <p>Maritim proArte Hotel<br>Friedrichstraße 151<br>10117 Berlin</p>
+          <p>Haus Ungarn<br>Karl-Liebknecht-Straße 9<br>10178 Berlin</p>
         </div>
         <div class="transport">
           <h3><?= $page->transport() ?></h3>
-          <p>Friedrichstraße (4min):</p>
+          <p>Alexanderplatz:</p>
           <div class="connections">
-            <span style="background-color:#6F4E9C">U6</span><span style="background-color:#DE4DA4">S1</span><span style="background-color:#005F27">S2</span><span style="background-color:#005F27">S25</span>
+            <span style="background-color:#F05921">U2</span><span style="background-color:#825942">U5</span><span style="background-color:#0D619E">U8</span><span class="s" style="background-color:#F47922">S5</span><span class="s" style="background-color:#7A6CAC">S7</span><span class="s" style="background-color:#7A6CAC">S75</span>
           </div>
           <div class="m connections">
-            <span>M1</span><span>12</span>
+            <span>M4</span><span>M5</span><span>M6</span><span>M8</span><span>M48</span>
+          </div>
+          <div class="b connections">
+            <span>TXL</span><span>100</span><span>200</span>
           </div>
           <br>
-          <p>Unter den Linden/Friedrichstraße (4min):</p>
-          <div class="b connections">
-            <span>100</span><span>200</span><span>TXL</span><span>147</span>
+          <p>Hackescher Markt:</p>
+          <div class="s connections">
+            <span class="s" style="background-color:#F47922">S5</span><span class="s" style="background-color:#7A6CAC">S7</span><span class="s" style="background-color:#7A6CAC">S75</span>
+          </div>
+          <div class="m connections">
+            <span>M1</span><span>M4</span><span>M5</span>
           </div>
         </div>
         <a href="https://www.google.com/maps/place/Karl-Liebknecht-Stra%C3%9Fe+9/@52.5210193,13.4059784,17z/data=!3m1!4b1!4m2!3m1!1s0x47a851dffce76a15:0xad943eb434bb3f7f" class="button white"><?= $page->openmaps() ?></a>

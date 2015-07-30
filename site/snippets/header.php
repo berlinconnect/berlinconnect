@@ -22,12 +22,12 @@
   <script>
     function initialize() {
 
-      var myLatLng = new google.maps.LatLng(52.5183684, 13.3883659);
+      var myLatLng = new google.maps.LatLng(52.521300, 13.406281);
       var map_canvas = document.getElementById('map_canvas');
       var myIcon = new google.maps.MarkerImage("<?php echo url('img/logo.png') ?>", null, null, null, new google.maps.Size(60,60));
 
       var map_options = {
-        center: new google.maps.LatLng(52.5180224, 13.3941917),
+        center: new google.maps.LatLng(52.521874, 13.410211),
         zoom: 16,
         mapTypeId: google.maps.MapTypeId.ROADMAP,
         scrollwheel: false,
