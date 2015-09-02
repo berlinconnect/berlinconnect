@@ -1,4 +1,4 @@
-﻿Title: Geben
+Title: Geben
 
 ----
 
@@ -6,15 +6,19 @@ Subtitle: Gottes Weg in jedem Lebensbereich gehen.
 
 ----
 
-Text: Wenn du finanziell zur Arbeit von ‘Berlin Connect’ beitragen willst, benutze bitte die folgenden Kontodaten. Falls du eine Spendenquittung benötigst, gib bitte deine Anschrift als Verwendungszweck an. 
+Text: 
+
+Wenn du finanziell zur Arbeit von ‘Berlin Connect’ beitragen willst, benutze bitte die folgenden Kontodaten. Falls du eine Spendenquittung benötigst, gib bitte deine Anschrift als Verwendungszweck an. 
 
 Du kannst auch online geben, indem du unten auf den Button klickst. Danke, dass du mithilfst, Gottes Haus hier in Berlin zu bauen.
 
-Hier kannst du unseren Jahres-Bericht 2013 (file: bc_annual_report_2013_final.pdf text:herunterladen). (PDF)
+Hier kannst du unseren (link: http://issuu.com/berlinconnect/docs/bc_annual_report_2014_final text: jährlichen Bericht 2014) anschauen .
 
 ----
 
-Bankdetails: **Name**
+Bankdetails: 
+
+**Name**
 Berlin Christian Life Centre e.V.
 
 **Bank:**
@@ -34,3 +38,4 @@ DE07 1204 0000 0623 4595 00
 
 **BIC (SWIFT-Code):**
 COBADEFFXXX
+oder COBADEFF120

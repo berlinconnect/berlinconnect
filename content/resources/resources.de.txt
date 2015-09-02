@@ -1,4 +1,4 @@
-﻿Title: Ressourcen
+Title: Resourcen
 
 ----
 
@@ -6,7 +6,9 @@ Subtitle: 10 Wege, Neues zu lernen.
 
 ----
 
-Text: Wir wollen Menschen ermutigen mehr über Jesus, Seine Kirche und seine Berufung für dein Leben zu erfahren und zu studieren. Wenn du anfängst mit anderen zu teilen, was du lernst, wird es stärker in dir und in den Leben deiner Freunde.
+Text: 
+
+Wir wollen Menschen ermutigen mehr über Jesus, Seine Kirche und seine Berufung für dein Leben zu erfahren und zu studieren. Wenn du anfängst mit anderen zu teilen, was du lernst, wird es stärker in dir und in den Leben deiner Freunde.
 
 1. ###Buch Empfehlungen.
 Wir veröffentlichen jeden Monat nützliche (link: https://www.facebook.com/myberlinconnect/photos/a.217953441620050.53715.116018065146922/606862149395842/?type=1&theater text: Buch Empfehlungen).
@@ -15,13 +17,13 @@ Wir veröffentlichen jeden Monat nützliche (link: https://www.facebook.com/mybe
 Höre dir die letzten Predigten bei (link: https://soundcloud.com/berlinconnect text: Soundcloud) an.
 
 3. ###Newsletter.
-Melde dich für den "Wer ich in Christus bin"-Newsletter an. Kontact (email:conny@berlinclc.de text:conny@berlinclc.de).
+Melde dich für den "Wer ich in Christus bin"-Newsletter an. Kontakt (email:dave@berlinclc.de text:dave@berlinclc.de).
 
 4. ###Bible App. 
 Schaue dir die (link: https://www.bible.com/app text: Bible App von YouVersion) an und suche nach "Berlin Connect", um die Notizen vom letzten Sonntag nochmal anzuschauen.
 
 5. ###Team Konferenz.
-Hier kannst du die Predigt unserer Team Konferenz von Paul Scanlon und Mark Wilkinson herunterladen: (link: http://www.nimbitmusic.com/berlinconnect text: Download)
+Hier kannst du die Predigt unserer Team Konferenz von Paul Scanlon und Mark Wilkinson herunterladen: (link: http://www.nimbitmusic.com/berlinconnect/#thinkbigservestrongteamconferenceday2014 text: Download)
 
 6. ###Lobpreis-Musik.
 (link:https://itunes.apple.com/de/album/we-are-young-free/id692897617 text:Höre) dir unsere Lobpreis Musik auf iTunes an.
@@ -29,8 +31,8 @@ Hier kannst du die Predigt unserer Team Konferenz von Paul Scanlon und Mark Wilk
 7. ###Monats-Kalender.
 Hier den aktuellen Kalender (file: bc-com-print-august-calendar.pdf text:herunterladen). (PDF)
 
-8. ###Jahres-Bericht.
-Hier kannst du unseren Jahres-Bericht (file: bc_annual_report_2013_final.pdf text:herunterladen). (PDF)
+8. ###Jährlicher Bericht.
+Hier kannst du unseren jährlichen Bericht (file: bc_annual_report_2013_final.pdf text:herunterladen). (PDF)
 
 9. ###Der Sonntag.
 Beobachte den Sonntag aus dem Blick eines Künstlers auf (link: http://berlinconnect.tumblr.com/ text: Tumblr).
