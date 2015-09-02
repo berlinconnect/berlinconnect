@@ -49,7 +49,7 @@
   </script>
 
   <!-- Scripts -->
-  <?
+  <?php
     $isProduction = (strpos($site->url(), 'myberlinconnect.com') > 0);
     if ($isProduction) {
       $mainJS = 'main.build';
@@ -67,9 +67,9 @@
   </script>
   <script type="text/javascript" src="/js/<?= $mainJS ?>.js?v=<?= time(); ?>"></script>
 
-  <? if($page->hasImages()): ?>
+  <?php if($page->hasImages()): ?>
     <link rel="image_src" href="<?= $page->images()->first()->url(); ?>">
-  <? endif ?>
+  <?php endif ?>
 
   <!-- Google Analytics -->
   <script type="text/javascript">
@@ -88,17 +88,7 @@
 
 </head>
 
-<body class="<?=$page->uri()?>">
+<body class="<?= $page->uri() ?>">
 <div class="notice">
   <?= kirbytext($site->notice()) ?>
 </div>
-<?php
-
-  // if (!isset($_COOKIE['visited'])) { // no cookie, so probably the first time here
-  //     setcookie ('visited', 'yes', time() + 3600); // set visited cookie
-
-  //     header("Location: /heart-for-the-house");
-  //     exit(); // always use exit after redirect to prevent further loading of the page
-  // }
-
-?>
