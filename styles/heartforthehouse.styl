@@ -73,6 +73,13 @@
       margin 0 auto
       padding 80px 0
 
+      h3
+        font-family: $heading
+        font-weight: 900
+        margin-top 40px
+        text-transform: uppercase
+        letter-spacing 3px
+
       h4
         font-family: $heading
         line-height 30px
@@ -83,6 +90,15 @@
       p
         font-size: 20px
         font-family: $heading
+
+      .adphoto
+        width 90px
+        height 90px
+        border-radius 90px
+        background-image url("/img/h4h/mjphoto.jpg")
+        background-size cover
+        background-repeat no-repeat
+        margin 20px auto 0
 
   .threeways
 
@@ -96,7 +112,8 @@
 
     .cols .col
       position relative
-      padding 120px 0
+      height 0
+      padding-bottom 33.3333%
       background-size cover
       background-position center center
       cursor pointer
@@ -106,13 +123,23 @@
         transform scale(1.1)
         z-index 2
 
+      .sectioncontent
+        position absolute
+        width 100%
+        height 100%
+        display table
+
+        .md-table
+          display table-cell
+          vertical-align middle
+
       h2
         font-size 40px
         color white
         font-family: $heading
         text-transform: uppercase
         font-weight 900
-        padding 0 80px
+        padding 0 20px
 
       p
         font-size 20px

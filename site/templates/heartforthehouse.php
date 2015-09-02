@@ -22,24 +22,40 @@
     <p class="center">
       Andrew is a Kingdom Builder and Business leader with a powerful story of how Heart for the House has impacted his personal and business life with kingdom purpose.
     </p>
+    <h3 class="center">Andrew Denton</h3>
+    <div class="adphoto">
+
+    </div>
   </div>
 </div>
 <div class="threeways">
   <div class="cols">
     <div class="col col-33 center faithfulgiver">
       <a id="faithfulgiver" class="thelightbox"></a>
-      <h2 class="center">Faithful Givers</h2>
-      <p><?= $page->faithfulgiver() ?></p>
+      <div class="sectioncontent">
+        <div class="md-table">
+          <h2 class="center">Faithful Givers</h2>
+          <p><?= $page->faithfulgiver() ?></p>
+        </div>
+      </div>
     </div>
     <div class="col col-33 center visiongiver">
-    <a id="visiongiver" class="thelightbox"></a>
-      <h2 class="center">Vision Givers</h2>
-      <p><?= $page->visiongiver() ?></p>
+      <a id="visiongiver" class="thelightbox"></a>
+      <div class="sectioncontent">
+        <div class="md-table">
+          <h2 class="center">Vision Givers</h2>
+          <p><?= $page->visiongiver() ?></p>
+        </div>
+      </div>
     </div>
     <div class="col col-33 center kingdomgiver">
       <a id="kingdomgiver" class="thelightbox"></a>
-      <h2 class="center">Kingdom Givers</h2>
-      <p><?= $page->kingdomgiver() ?></p>
+      <div class="sectioncontent">
+        <div class="md-table">
+          <h2 class="center">Kingdom Givers</h2>
+          <p><?= $page->kingdomgiver() ?></p>
+        </div>
+      </div>
     </div>
   </div>
 </div>
