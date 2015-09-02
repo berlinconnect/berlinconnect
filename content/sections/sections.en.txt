@@ -1,0 +1,25 @@
+Title: sections
+
+----
+
+Pagelink: 
+
+----
+
+Uniqueid: 
+
+----
+
+Umbrella: 
+
+----
+
+Slatesize: 
+
+----
+
+Intro: 
+
+----
+
+Text: 

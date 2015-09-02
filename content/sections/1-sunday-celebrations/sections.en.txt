@@ -1,0 +1,40 @@
+Pagelink: 
+
+----
+
+Umbrella: Sundays
+
+----
+
+Slatesize: rectangle
+
+----
+
+Title: Sunday Experience
+
+----
+
+Intro: Sundays are Jesus-focused and people-empowering.
+
+----
+
+Text: 
+
+Our desire is that Sundays in God’s House will be a place where people from all walks of life can come and feel 'AT HOME'. A place of connection with God and each other, of encouragement and worship, a place where guests become family.
+
+Our services are @11:00, 13:00, 15:00, 17:00, 19:00 every Sunday.  They include live music, kids & youth activities for 1-18 year olds and translation in German, Spanish and Portuguese.
+
+For more information contact Dave (email: dave@berlinclc.de text: dave@berlinclc.de).
+
+| Facts        |            |
+| ------------- |-------------|
+| When?             | Sundays, 11:00, 13:00, 15:00, 17:00, 19:00 |
+| Where?            | Haus Ungarn<br>Karl-Liebknecht-Strasse 9<br>10178 Berlin<br>(opposite Marienkirche; entrance to church is 50m to the left of the door with house number 9)<br>View on (link: https://www.google.com/maps/place/Berlin+Connect/@52.5213,13.406281,17z/data=!3m1!4b1!4m2!3m1!1s0x47a851efed6cf87d:0xb5a10e4cf57f578 text: Google Maps) |
+| Public Transport |  Alexanderplatz U2, U5, U8, S5, S7, S75 / Tram M4, M5, M6, M8, M48<br> |
+| Parking           | Pay and display |
+| Youth & Kids      | Kids & youth activities for ages 1-18 yrs |
+| Translations      | German, Spanish & Portuguese |
+
+----
+
+Uniqueid: sundays

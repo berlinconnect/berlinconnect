@@ -1,4 +1,4 @@
-﻿Title: Mein Herz für Sein Haus
+Title: Mein Herz für Sein Haus
 
 ----
 
@@ -42,7 +42,7 @@ Threewaysheading: 3 Wege, um mitzumachen
 
 ----
 
-Faithfulgiver: Betrag in beliebiger Höhe am 5. Oktober
+Faithfulgiver: Betrag in beliebiger Höhe am 4. Oktober
 
 ----
 
@@ -50,7 +50,9 @@ Faithfulgivertitle: Faithful Givers
 
 ----
 
-Faithfulgivercopy: BETRAG IN BELIEBIGER HÖHE AM 5. OKTOBER
+Faithfulgivercopy: 
+
+BETRAG IN BELIEBIGER HÖHE AM 5. OKTOBER
 
 
 1. Chronik 29 (frei nach der englischen Message Bible)
@@ -58,11 +60,11 @@ Herr, wer bin ich und wer sind diese Menschen, zu meinen, Dir überhaupt etwas g
 
 Berlin Connect war schon immer beschenkt mit Menschen, die beständig geben und einen großzügigen Blick auf das Leben haben. Menschen, die verstehen, dass ihr Beitrag, ob groß oder klein, immer Gott eine Gelegenheit gibt, zu zeigen, dass Er beständig zu uns hält.
 
-Lasst uns unser Herz durch Gebet und mit Freude vorbereiten für unseren Beitrag zu Herz für Sein Haus am 5. Oktober 2014, der uns in die Lage versetzt, unsere Kirche zu stärken und das zu beschleunigen, was Jesus hier in unserer Stadt Berlin tut.
+Lasst uns unser Herz durch Gebet und mit Freude vorbereiten für unseren Beitrag zu Herz für Sein Haus am 4. Oktober 2015, der uns in die Lage versetzt, unsere Kirche zu stärken und das zu beschleunigen, was Jesus hier in unserer Stadt Berlin tut.
 
 **Zeitrahmen:**
-Online geben möglich ab 1. Oktober 2014
-Umschläge für den Herz für Sein Haus Beitrag liegen ab 28. September 2014 im Foyer bereit zum Mitnehmen
+Online geben möglich ab 1. Oktober 2015
+Umschläge für den Herz für Sein Haus Beitrag liegen ab September im Foyer bereit zum Mitnehmen
 Die Informationen für deine Banküberweisung für Herz für Sein Haus sind folgende:
 
 IBAN: DE77120400000623459500
@@ -72,11 +74,11 @@ Commerzbank Berlin
 SWIFT Code (BIC): COBADEFFXXX
 Verwendungszweck: Herz für Sein Haus
 
-Beiträge für Herz für Sein Haus sind bis zum 31. OKTOBER 2014 möglich.
+Beiträge für Herz für Sein Haus sind bis zum 31. OKTOBER 2015 möglich.
 
 ----
 
-Visiongiver: Beitrag am 5. Oktober & Zusage eines monatlichen Betrags
+Visiongiver: Beitrag am 4. Oktober & Zusage eines monatlichen Betrags
 
 ----
 
@@ -84,10 +86,13 @@ Visiongivertitle: Vision Givers
 
 ----
 
-Visiongivercopy: BEITRAG AM 5. OKTOBER & ZUSÄTZLICH EINE ZUSAGE VON MONATLICH 10 € ODER MEHR ÜBER 12 MONATE
+Visiongivercopy: 
 
-Vision givers geben einen Betrag am 5. Oktober und sagen darüber hinaus für 12 Monate einen bestimmten Betrag zu, um die fortlaufende Umsetzung der Vision von Berlin Connect zu unterstützen. Dieser monatliche Beitrag geht über den regelmäßigen Zehnten & finanzielle Opfer hinaus.
+BEITRAG AM 4. OKTOBER & ZUSÄTZLICH EINE ZUSAGE VON MONATLICH 10 € ODER MEHR ÜBER 12 MONATE
+
+Vision givers geben einen Betrag am 4. Oktober und sagen darüber hinaus für 12 Monate einen bestimmten Betrag zu, um die fortlaufende Umsetzung der Vision von Berlin Connect zu unterstützen. Dieser monatliche Beitrag geht über den regelmäßigen Zehnten und finanzielle Beiträge hinaus.
 Als Vision giver ist der monatliche Mindestbeitrag 10 €.
+
 Die Bankverbindung:
 
 Kontoinhaber: Berlin Christian Life Centre e.V.
@@ -105,11 +110,11 @@ Herr, wer bin ich und wer sind diese Menschen, zu meinen, Dir überhaupt etwas g
 
 Berlin Connect war schon immer beschenkt mit Menschen, die beständig geben und einen großzügigen Blick auf das Leben haben. Menschen, die verstehen, dass ihr Beitrag, ob groß oder klein, immer Gott eine Gelegenheit gibt, zu zeigen, dass Er beständig zu uns hält.
 
-Lasst uns unser Herz durch Gebet und mit Freude vorbereiten für unseren Beitrag zu Herz für Sein Haus am 5. Oktober 2014, der uns in die Lage versetzt, unsere Kirche zu stärken und das zu beschleunigen, was Jesus hier in unserer Stadt Berlin tut.
+Lasst uns unser Herz durch Gebet und mit Freude vorbereiten für unseren Beitrag zu Herz für Sein Haus am 4. Oktober 2015, der uns in die Lage versetzt, unsere Kirche zu stärken und das zu beschleunigen, was Jesus hier in unserer Stadt Berlin tut.
 
 **Zeitrahmen:**
-Online geben möglich ab 1. Oktober 2014
-Umschläge für den Herz für Sein Haus Beitrag liegen ab 28. September 2014 im Foyer bereit zum Mitnehmen
+Online geben möglich ab 1. Oktober 2015
+Umschläge für den Herz für Sein Haus Beitrag liegen ab September im Foyer bereit zum Mitnehmen
 Die Informationen für deine Banküberweisung für Herz für Sein Haus sind folgende:
 
 IBAN: DE77120400000623459500
@@ -119,11 +124,11 @@ Commerzbank Berlin
 SWIFT Code (BIC): COBADEFFXXX
 Verwendungszweck: Herz für Sein Haus
 
-Beiträge für Herz für Sein Haus sind bis zum 31. OKTOBER 2014 möglich.
+Beiträge für Herz für Sein Haus sind bis zum 31. OKTOBER 2015 möglich.
 
 ----
 
-Kingdomgiver: Beitrag am 5. Oktober & Zusage eines jährlichen Betrags
+Kingdomgiver: Beitrag am 4. Oktober & Zusage eines jährlichen Betrags
 
 ----
 
@@ -131,9 +136,11 @@ Kingdomgivertitle: Kingdom Givers
 
 ----
 
-Kingdomgivercopy: BEITRAG AM 5. OKTOBER & ZUSÄTLICH DIE ZUSAGE EINES JAHRESBEITRAGS
+Kingdomgivercopy: 
 
-Kingdom givers ist eine neue Initative, die in diesem Jahr startet und Menschen die Gelegenheit gibt, sich dahingehend zu entwickeln, dass sie in finanzieller Hinsicht Verantwortung übernehmen darin in Gottes Haus vorangehen. Diese neue Initiative wird es uns ermöglichen, zu investieren und Menschen zu fördern, die den Ruf von Gott verspüren, das Wirken von Jesus in finanzieller Hinsicht zu unterstützen, indem sie ihre Begabungen, Talente und ihren Charakter einsetzen, um Gottes Haus wertzuschätzen und zu stärken. Kingdom givers wird ein Weg sein, um Menschen auszurüsten, die Führungsverantwortung in der Geschäftswelt übernehmen wollen.
+BEITRAG AM 4. OKTOBER & ZUSÄTLICH DIE ZUSAGE EINES JAHRESBEITRAGS
+
+Kingdom givers ist eine neue Initative, die in diesem Jahr startet und Menschen die Gelegenheit gibt, sich dahingehend zu entwickeln, dass sie in finanzieller Hinsicht Verantwortung übernehmen und darin in Gottes Haus vorangehen. Diese neue Initiative wird es uns ermöglichen, zu investieren und Menschen zu fördern, die den Ruf von Gott verspüren, das Wirken von Jesus in finanzieller Hinsicht zu unterstützen, indem sie ihre Begabungen, Talente und ihren Charakter einsetzen, um Gottes Haus wertzuschätzen und zu stärken. Kingdom givers wird ein Weg sein, um Menschen auszurüsten, die Führungsverantwortung in der Geschäftswelt übernehmen wollen.
 
 Wir sind sehr gespannt auf diese neue Initiative und ihr Potential, Menschen in vollem Maß frei zu setzen für das, was Gott mit ihrem Leben vor hat. Bei Interesse daran, ein Kingdom Giver zu werden, gibt es einen Bewerbungsprozess und beinhaltet die Zusage eines jährlichen Beitrags, durch den die Arbeit von Berlin Connect unterstützt wird. 
 
@@ -146,11 +153,11 @@ Herr, wer bin ich und wer sind diese Menschen, zu meinen, Dir überhaupt etwas g
 
 Berlin Connect war schon immer beschenkt mit Menschen, die beständig geben und einen großzügigen Blick auf das Leben haben. Menschen, die verstehen, dass ihr Beitrag, ob groß oder klein, immer Gott eine Gelegenheit gibt, zu zeigen, dass Er beständig zu uns hält.
 
-Lasst uns unser Herz durch Gebet und mit Freude vorbereiten für unseren Beitrag zu Herz für Sein Haus am 5. Oktober 2014, der uns in die Lage versetzt, unsere Kirche zu stärken und das zu beschleunigen, was Jesus hier in unserer Stadt Berlin tut.
+Lasst uns unser Herz durch Gebet und mit Freude vorbereiten für unseren Beitrag zu Herz für Sein Haus am 4. Oktober 2015, der uns in die Lage versetzt, unsere Kirche zu stärken und das zu beschleunigen, was Jesus hier in unserer Stadt Berlin tut.
 
 **Zeitrahmen:**
-Online geben möglich ab 1. Oktober 2014
-Umschläge für den Herz für Sein Haus Beitrag liegen ab 28. September 2014 im Foyer bereit zum Mitnehmen
+Online geben möglich ab 1. Oktober 2015
+Umschläge für den Herz für Sein Haus Beitrag liegen ab September im Foyer bereit zum Mitnehmen
 Die Informationen für deine Banküberweisung für Herz für Sein Haus sind folgende:
 
 IBAN: DE77120400000623459500
@@ -160,7 +167,7 @@ Commerzbank Berlin
 SWIFT Code (BIC): COBADEFFXXX
 Verwendungszweck: Herz für Sein Haus
 
-Beiträge für Herz für Sein Haus sind bis zum 31. OKTOBER 2014 möglich.
+Beiträge für Herz für Sein Haus sind bis zum 31. OKTOBER 2015 möglich.
 
 (file:kingdomgiversapplication.de.pdf text:Download The Application Form class:button)
 
