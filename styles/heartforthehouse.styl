@@ -1,59 +1,55 @@
-.heart-for-the-house
-  background-color: $yellow
+.h4h-2015
 
   .content
-    background-color: $yellow
 
     .intro
-    .threeways
-    .thanks
-      background: $yellow
+    .verse
       color: $dark
       padding: 80px 0 0
 
       .wrapper
         .heading-container
-          max-width: 470px
+          max-width: 600px
           margin: 0 auto 50px
-          text-align: center
 
         h1
           text-transform: uppercase
-          font-size: 50px
-          line-height: 70px
-          font-style: italic
+          font-size: 20px
+          line-height: 40px
           font-weight: 900
-          display: inline
-          background-image: url("/img/underline.svg")
-          background-position: 200px 60px
-          background-repeat: repeat-x
+          margin-bottom 20px
+
+        h3
+          font-family: $heading
+          font-weight: 900
+          margin-top 40px
+          text-transform: uppercase
+          letter-spacing 3px
+
+        h4
+          padding-top 40px
+          font-family: $heading
+          line-height 30px
+          margin-top 40px
+          text-transform: uppercase
+          letter-spacing 3px
 
 
-          p
-            font-size: 17px
-            font-family: $heading
-            font-weight: 600
-            text-align: justify
-            text-justify: inter-word
+        p
+          font-size: 20px
+          font-family: $heading
+          margin-bottom 20px
 
-        .cols .col
-          h2
-            font-family: "munich", sans-serif
-            font-size: 62px
-            line-height: 55px
-            text-align: center
-            color: $dark
-            font-weight: normal
-            letter-spacing: 1px
-            margin-bottom: 20px
+        .mjphoto
+          width 90px
+          height 90px
+          border-radius 90px
+          background-image url("/img/h4h/mjphoto.jpg")
+          background-size cover
+          background-repeat no-repeat
+          margin 20px auto 0
 
-          p
-            font-size: 30px
-            line-height: 38px
-            font-family: $heading
-            font-weight: 200
-            padding: 0 20px
-            text-align: center
+
 
     .intro
       .wrapper
@@ -61,69 +57,82 @@
           margin-bottom 0
 
           h1
-            paddin-top: 30px
-            font-size: 70px
-            line-height: 90px
+            font-size: 40px
+            line-height: 50px
             background-position: 200px 90px
 
-    .stories
-      width: 100%
-      overlay: hidden
+    .verse
+      padding-bottom 40px
 
-      .story
-        position: relative
-        overlay: hidden
+  .event
+    background-color #212121
+    margin-top 80px
 
-        .copyoverlay
-          background: $yellow
-          position: absolute
-          height: 100%
-          width: 100%
-          opacity: 0
-          z-index: 1
-          transition: all 300ms ease
+    .content
+      background-color #212121
+      color white
+      width 700px
+      margin 0 auto
+      padding 80px 0
 
-          table, table td
-            border: none !important;
-            padding: 0 50px
-            box-shadow: none
+      h4
+        font-family: $heading
+        line-height 30px
+        text-transform: uppercase
+        letter-spacing 3px
+        margin-bottom 30px
 
-            p
-              font-family: "munich", sans-serif
-              font-size: 3.5em
-              line-height: 1.2em
-              letter-spacing: 1px
-              text-align: center
-              color: $dark
-              font-weight: normal
-              transform: scale(0.95)
-              opacity: 0
-              transition: all 200ms ease
+      p
+        font-size: 20px
+        font-family: $heading
 
-        &:hover
-          .copyoverlay
-            opacity: 1
+  .threeways
 
-            table p
-              opacity: 1
-              transform: scale(1.0)
+    .heading-container
+      h1
+        text-transform: uppercase
+        font-size: 35px
+        line-height: 45px
+        font-weight: 900
+        margin-bottom 40px
 
-        .image
-          img
-            width: 100%
+    .cols .col
+      position relative
+      padding 120px 0
+      background-size cover
+      background-position center center
+      cursor pointer
+      transition transform 300ms ease
 
-          .name
-            font-size: 34px
-            line-height: 40px
-            font-weight: 900
-            font-family: $heading
-            font-style: italic
-            text-transform: uppercase
-            color: $yellow
-            letter-spacing: 1px
-            text-align: center
-            width: 100%
-            position: absolute
-            bottom: 40px
-            left: 0
-            padding: 0 40px
+      &:hover
+        transform scale(1.1)
+        z-index 2
+
+      h2
+        font-size 40px
+        color white
+        font-family: $heading
+        text-transform: uppercase
+        font-weight 900
+        padding 0 80px
+
+      p
+        font-size 20px
+        font-family: $heading
+        color white
+
+      a
+        position absolute
+        left 0
+        top 0
+        width 100%
+        height 100%
+
+      &.faithfulgiver
+        background-image url("/img/h4h/fgbg.jpg")
+
+      &.visiongiver
+        background-image url("/img/h4h/vgbg.jpg")
+
+      &.kingdomgiver
+        background-image url("/img/h4h/kgbg.jpg")
