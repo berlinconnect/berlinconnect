@@ -61,7 +61,7 @@
 <div class="lightbox hidden faithfulgiver">
   <div class="lightbox-overlay"></div>
   <div class="lightbox-container scaleUp">
-    <div class="header-image" style="background-color: #fff200">
+    <div class="header-image" style="background-image: url('<?= $site->url() ?>/img/h4h/fgbg.jpg')">
       <span class="entypo close"></span>
       <div class="header-copy">
         <h2><?php echo html($page->faithfulgivertitle()) ?></h2>
@@ -78,7 +78,7 @@
 <div class="lightbox hidden visiongiver">
   <div class="lightbox-overlay"></div>
   <div class="lightbox-container scaleUp">
-    <div class="header-image" style="background-color: #fff200">
+    <div class="header-image" style="background-image: url('<?= $site->url() ?>/img/h4h/vgbg.jpg')">
       <span class="entypo close"></span>
       <div class="header-copy">
         <h2><?php echo html($page->visiongivertitle()) ?></h2>
@@ -95,7 +95,7 @@
 <div class="lightbox hidden kingdomgiver">
   <div class="lightbox-overlay"></div>
   <div class="lightbox-container scaleUp">
-    <div class="header-image" style="background-color: #fff200">
+    <div class="header-image" style="background-image: url('<?= $site->url() ?>/img/h4h/kgbg.jpg')">
       <span class="entypo close"></span>
       <div class="header-copy">
         <h2><?php echo html($page->kingdomgivertitle()) ?></h2>
