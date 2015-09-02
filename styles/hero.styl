@@ -170,21 +170,24 @@
     animation: fade 1000ms ease
 
     .wrapper
-      padding: 120px
+      padding: 120px 0
 
       .heading-container
         margin: 0 auto
         text-align: center
 
-      .logo
+      .h4hlogo
         width 500px
-        margin 0 auto
         height 500px
+        margin 0 auto
         animation: fade 2000ms ease
         background-image: url("/img/h4h/h4h-logo-white.svg")
         background-position: center center
-        background-size: cover
+        background-size: contain
         background-repeat: no-repeat
+
+        &.de
+          background-image: url("/img/h4h/h4h-logo-white-de.svg")
 
       .arrow
         color: white

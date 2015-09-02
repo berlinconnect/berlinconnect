@@ -8,7 +8,7 @@
       <div class="heading-container center">
         <h1 class="center"><?= $page->introheading() ?></h1>
         <?= $page->introcopy()->kirbytext() ?>
-        <h3>Mark & Joyce</h3>
+        <h3>Mark &amp; Joyce</h3>
         <div class="mjphoto">
 
         </div>
@@ -18,28 +18,48 @@
 </div>
 <div class="event">
   <div class="content">
-    <h4 class="center">JOIN US TO HEAR MORE ABOUT HEART FOR THE HOUSE<br>30th SEPTEMBER 2015 19:00 HAUS UNGARN<br>WITH OUR SPECIAL GUEST: ANDREW DENTON FROM SYDNEY AUSTRALIA</h4>
-    <p class="center">
-      Andrew is a Kingdom Builder and Business leader with a powerful story of how Heart for the House has impacted his personal and business life with kingdom purpose.
-    </p>
+    <div class="wrapper">
+      <div class="heading-container center">
+        <h4><?= $page->specialguest() ?></h4>
+        <p>
+          <?= $page->specialguestcopy() ?>
+        </p>
+        <h3 class="center">Andrew Denton</h3>
+        <div class="adphoto">
+
+        </div>
+      </div>
+    </div>
   </div>
 </div>
 <div class="threeways">
   <div class="cols">
     <div class="col col-33 center faithfulgiver">
       <a id="faithfulgiver" class="thelightbox"></a>
-      <h2 class="center">Faithful Givers</h2>
-      <p><?= $page->faithfulgiver() ?></p>
+      <div class="sectioncontent">
+        <div class="md-table">
+          <h2 class="center">Faithful Givers</h2>
+          <p><?= $page->faithfulgiver() ?></p>
+        </div>
+      </div>
     </div>
     <div class="col col-33 center visiongiver">
-    <a id="visiongiver" class="thelightbox"></a>
-      <h2 class="center">Vision Givers</h2>
-      <p><?= $page->visiongiver() ?></p>
+      <a id="visiongiver" class="thelightbox"></a>
+      <div class="sectioncontent">
+        <div class="md-table">
+          <h2 class="center">Vision Givers</h2>
+          <p><?= $page->visiongiver() ?></p>
+        </div>
+      </div>
     </div>
     <div class="col col-33 center kingdomgiver">
       <a id="kingdomgiver" class="thelightbox"></a>
-      <h2 class="center">Kingdom Givers</h2>
-      <p><?= $page->kingdomgiver() ?></p>
+      <div class="sectioncontent">
+        <div class="md-table">
+          <h2 class="center">Kingdom Givers</h2>
+          <p><?= $page->kingdomgiver() ?></p>
+        </div>
+      </div>
     </div>
   </div>
 </div>
@@ -48,11 +68,16 @@
   <div class="verse">
     <div class="wrapper">
       <div class="heading-container center">
-        <h1 class="center">1 Chronicles 29 MSG</h1>
+        <h1 class="center"><?= $page->verse() ?></h1>
         <p>
-          Dear Lord, who am I, and who are these my people, that we should presume to be giving something to you? Everything comes from you; all we’re doing is giving back what we’ve been given from your generous hand..... so I have given from the heart, honestly and happily...
+          <?= $page->versecopy() ?>
         </p>
-        <a class="button">Give Online</a>
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank"><input type="hidden" name="cmd" value="_s-xclick" />
+          <input type="hidden" name="hosted_button_id" value="P67SBR8J2RHYE" />
+          <button data-track="<?= $page->title() ?>:Give Now:Online Giving Section"  type="submit" class="giving button" border="0" name="submit" alt="Support us now by donating through PayPal.">Onlien Giving</button>
+          <img alt="" src="https://www.paypalobjects.com/de_DE/i/scr/pixel.gif" width="1" height="1" border="0" />
+          <div class="payment-icons"></div>
+        </form>
       </div>
     </div>
   </div>
