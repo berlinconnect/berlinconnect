@@ -39,7 +39,6 @@
       <div class="sectioncontent">
         <div class="md-table">
           <h2 class="center">Faithful Givers</h2>
-          <p><?= $page->faithfulgiver() ?></p>
         </div>
       </div>
     </div>
@@ -48,7 +47,6 @@
       <div class="sectioncontent">
         <div class="md-table">
           <h2 class="center">Vision Givers</h2>
-          <p><?= $page->visiongiver() ?></p>
         </div>
       </div>
     </div>
@@ -57,7 +55,6 @@
       <div class="sectioncontent">
         <div class="md-table">
           <h2 class="center">Kingdom Givers</h2>
-          <p><?= $page->kingdomgiver() ?></p>
         </div>
       </div>
     </div>

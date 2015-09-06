@@ -31,10 +31,6 @@ SpecialGuestCopy: Andrew ist ein Kingdom Builder und eine Führungsperson in der
 
 ----
 
-Faithfulgiver: Beitrag am 4. Oktober
-
-----
-
 Faithfulgivertitle: Faithful Givers
 
 ----
@@ -45,15 +41,14 @@ Berlin Connect war schon immer beschenkt mit Menschen, die beständig geben und 
 
 Lasst uns unser Herz durch Gebet und mit Freude vorbereiten für unseren Beitrag zu Herz für Sein Haus am 4. Oktober 2015, der uns in die Lage versetzt, unsere Kirche zu stärken und das zu beschleunigen, was Jesus hier in unserer Stadt Berlin tut.
 
+Online giving opens 1 October 2015… Giving Envelopes ready to be picked up….
+
 Account owner/Kontoinhaber: Berlin Christian Life Centre e.V.
 IBAN: DE07120400000623459500
 Commerzbank Berlin
 SWIFT Code (BIC): COBADEFF120
 Reference/Verwendungszweck: H4TH2015
 
-----
-
-Visiongiver: Beitrag am 4. Oktober + Zusage eines monatlichen Betrags
 ----
 
 Visiongivertitle: Vision Givers
@@ -64,15 +59,13 @@ Visiongivercopy:
 
 Vision Vision Givers geben einen Beitrag am 4. Oktober und sagen darüber hinaus für 12 Monate einen bestimmten Betrag zu, um die fortlaufende Umsetzung der Vision von Berlin Connect zu unterstützen. Dieser geht über den regelmäßigen Zehnten und Beiträge hinaus. Als Vision Giver ist der monatliche Mindestbeitrag € 10 oder mehr und wird für die Dauer von  12 Monaten gegeben.
 
+Online giving opens 1 October 2015… Giving Envelopes ready to be picked up….
+
 Account owner/Kontoinhaber: Berlin Christian Life Centre e.V.
 Commerzbank Berlin
 SWIFT Code (BIC): COBADEFF120
 IBAN: DE771204000000623459501
 Reference/Verwendungszweck: Vision Giver
-
-----
-
-Kingdomgiver: Beitrag am 4. Oktober + Zusage eines Jahresbetrags
 
 ----
 
@@ -83,6 +76,8 @@ Kingdomgivertitle: Kingdom Givers
 Kingdomgivercopy:
 
 Kingdom Kingdom Givers wissen, dass sie durch ihre Begabungen, Talente und ihren Charakter einen wertvollen Beitrag leisten können, um das Haus Gottes zu stärken. Dies ist ein Weg, Menschen zu helfen, die glauben, dass sie in ihrem Leben in finanzieller Hinsicht zu Führungsverantwortung berufen sind und die sich entscheiden, den Herrn mit ihrem Vermögen und finanziellen Zuwächsen zu ehren. Der Jahresbeitrag der Kingdom Givers beginnt bei € 3.000,00 oder mehr (über deinen normalen Zehnten und regelmäßige Beiträge hinaus) und unterstützt die laufende Arbeit von Berlin Connect.
+
+Online giving opens 1 October 2015… Giving Envelopes ready to be picked up….
 
 Account owner/Kontoinhaber: Berlin Christian Life Centre e.V.
 Commerzbank Berlin
