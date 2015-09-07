@@ -1,25 +1,49 @@
 Title: Toolbox
+
 ----
-Discoverytitle: Disovery Notes
+
+Discoverytitle: Discovery Notes
+
 ----
-Discoverysubtitle: Discovery notes are blah blah
+
+Discoverysubtitle: get inspired by notes from our sessions
+
 ----
+
 Identitytitle: Identity Collection
+
 ----
-Identitysubtitle: Identity collection are blah blah
+
+Identitysubtitle: discover your identity in Christ
+
 ----
+
 Podcasttitle: Podcasts
+
 ----
+
 Podcastsubtitle: Listen to messages from our Sunday celebrations
+
 ----
+
 Blogtitle: Notes
+
 ----
+
 Blogsubtitle: Review the transcripts of the latest messages
+
 ----
+
 Bookstitle: Books
+
 ----
+
 Bookssubtitle: See the books recommended by friends
+
 ----
+
 Downloadstitle: Downloads
+
 ----
+
 Downloadssubtitle: Get all the resources and information you need

@@ -31,3 +31,19 @@ Downloadstitle: Downloads
 ----
 
 Downloadssubtitle: Hol' dir alle Resourcen und Informationen, die du brauchst
+
+----
+
+Discoverytitle: Discovery Notes
+
+----
+
+Discoverysubtitle: get inspired by notes from our sessions
+
+----
+
+Identitytitle: Identity Collection
+
+----
+
+Identitysubtitle: discover your identity in Christ

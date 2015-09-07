@@ -167,55 +167,33 @@
       color: $dark !important
 
   &#heartforthehousehero
-    background-color: $yellow
     animation: fade 1000ms ease
 
     .wrapper
-      padding: 70px 0 120px
+      padding: 120px 0
 
       .heading-container
-        width: 290px
         margin: 0 auto
         text-align: center
 
-      h1
-        font-family: $heading
-        color: $yellow
-        font-size: 75px
-        line-height: @font-size + 20px
-        font-style: italic
-        font-weight: 900
+      .h4hlogo
+        width 500px
+        height 500px
+        margin 0 auto
         animation: fade 2000ms ease
-        display: inline
-        background-image: url("/img/underline-yellow.svg")
-        background-position: 200px 88px
-        background-size: 1px 10px
-        background-repeat: repeat-x
+        background-image: url("/img/h4h/h4h-logo-white.svg")
+        background-position: center center
+        background-size: contain
+        background-repeat: no-repeat
 
-      .logos
-        margin-top: 50px
-        animation: fade 2600ms ease
-
-        span
-          margin: 0 5px
-
-        .hfthlogo
-          display: inline-block
-          width: 54px
-          height: @width
-          background-image: url('../img/hfth-yellow.svg')
-
-        .bclogo
-          display: inline-block
-          width: 52px
-          height: @width
-          background-image: url('../img/logo-outline-yellow.svg')
+        &.de
+          background-image: url("/img/h4h/h4h-logo-white-de.svg")
 
       .arrow
-        color: $yellow
+        color: white
 
     .menu
-      color: $yellow !important
+      color: white !important
 
   &#ourvenuehero
     background-color: $dark

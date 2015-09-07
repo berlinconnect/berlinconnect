@@ -1,4 +1,4 @@
-﻿Title: Welcome Home
+Title: Welcome Home
 
 ----
 
@@ -10,7 +10,7 @@ Herocopy: A multicultural church in the heart of Berlin, changing people's perce
 
 ----
 
-Sundaysubtitle: A little about...
+Sundaysubtitle: A bit more about...
 
 ----
 
@@ -18,15 +18,17 @@ Sundaytitle: Berlin Connect
 
 ----
 
-Sundaycopy: Berlin Connect is a multicultural church in the heart of Berlin. Our philosophy is simply to love God, love people and love life. Our motto is - 'Come as you are'
+Sundaycopy: 
+
+Berlin Connect is a multicultural church in the heart of Berlin. Our philosophy is simply: 'Love God, love people, love life'. Our motto is 'Come as you are'.
 
 Do you have any questions?
 Please ask!
-(email: questions@berlinclc.de text: questions@berlinclc.de)
+(email:questions@berlinclc.de text: questions@berlinclc.de)
 
 ----
 
-Communitysubtitle: Connecting our Sundays to our Midweek
+Communitysubtitle: Connecting our Sundays to our Midweek.
 
 ----
 
@@ -34,7 +36,7 @@ Communitytitle: Community
 
 ----
 
-Communitycopy: Sitting together around a table of friendship and family is important for all of us.  As a church we place great value on developing meaningful and personal connections midweek through our Dinner Parties.  These are hosted throughout the city and enable us to put into practice midweek what we are learning on Sundays.
+Communitycopy: Sitting together around a table of friendship and family is important for all of us.  As a church we place great value on developing meaningful and personal connections midweek through our Dinner Parties.  These are hosted throughout the city and enable us to put into practice midweek what we are learning on Sundays.
 
 ----
 
@@ -42,7 +44,7 @@ Socialsubtitle: Shining brightly in society
 
 ----
 
-Socialtitle: Social Enterprise
+Socialtitle: Social Enterprise.
 
 ----
 
@@ -50,7 +52,7 @@ Socialcopy: Our desire is to contribute to the well-being of society as a whole 
 
 ----
 
-Charitywatersubtitle: Run to make a difference.
+Charitywatersubtitle: Making a difference locally and globally
 
 ----
 
@@ -62,6 +64,10 @@ Joinustitle: Come join us
 
 ----
 
-Joinuscopy: We are unashamedly passionate about the House of God. We welcome visitors at Berlin Connect and would love to have you join us in church this weekend.
+Joinuscopy: 
 
-(link: https://www.google.de/maps/preview?ie=UTF-8&fb=1&gl=de&cid=817984857238402424&q=Berlin+Connect&ei=Oh2vU8D3EsX0Oe38gMAL&ved=0CIUBEPwSMAo class: button text: Find Us on a map)
+We are unashamedly passionate about the House of God. We welcome visitors at Berlin Connect and would love to have you join us in church this weekend.
+
+(link: https://www.google.de/maps/place/Haus+Ungarn,+Karl-Liebknecht-Stra%C3%9Fe+9,+10178+Berlin/@52.5216631,13.4070553,17z/data=!3m1!4b1!4m2!3m1!1s0x47a851dffd417757:0xc73af00f815047f4 class: button text: Find Us on a map)
+
+To receive updates about upcoming Sunday Gatherings and midweek events you can also subscribe to (link:http://form.jotformeu.com/form/22960694330354 text: our newsletter here).

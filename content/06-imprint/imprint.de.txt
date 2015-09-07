@@ -1,4 +1,4 @@
-﻿Title: Impressum
+Title: Impressum
 
 ----
 
@@ -6,7 +6,9 @@ Subtitle: Der rechtliche Kram
 
 ----
 
-Text: ### Angaben gemäß § 5 TMG:
+Text: 
+
+### Angaben gemäß § 5 TMG:
 
 Berlin Christian Life Centre e.V.
 Weinbergsweg 24
@@ -15,7 +17,7 @@ Als gemeinnützig anerkannt und eingetragen beim Amtsgericht Charlottenburg, Reg
 
 ### Vertreten durch:
 David Berndt
-Email: dberndt@berlinclc.de
+Email: dave@berlinclc.de
 Telefon: +49(0)174 346391
 
 ### Haftung für Inhalte

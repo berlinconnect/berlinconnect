@@ -21,66 +21,45 @@ fields:
       - email
       - link
       - vimeo
-  videolink:
-    label: Video URL
+  specialguest:
+    label: Special Guest
     type:  text
-  danielstory:
-    label: Daniel's Story
+  specialguestcopy:
+    label: Special Guest Copy
     type:  textarea
-    size:  medium
-  mattstory:
-    label: Matt's Story
-    type:  textarea
-    size:  medium
-  fraukeconststory:
-    label: Frauke's and Constantines' Story
-    type:  textarea
-    size:  medium
-  dennisstory:
-    label: Dennis's Story
-    type:  textarea
-    size:  medium
-  chistory:
-    label: Chi's Story
-    type:  textarea
-    size:  medium
-  annestory:
-    label: Anne's Story
-    type:  textarea
-    size:  medium
-  threewaysheading:
-    label: Title
-    type:  text
-  faithfulgiver:
-    label: Title
-    type:  text
+    size:  large
+    buttons:
+      - h3
+      - bold
+      - italic
+      - email
+      - link
+      - vimeo
   faithfulgivertitle:
-    label: Title
+    label: Faithful Title
     type:  text
   faithfulgivercopy:
     label: Faithful Giver
     type:  textarea
     size:  large
-  visiongiver:
-    label: Title
-    type:  text
   visiongivertitle:
-    label: Title
+    label: Vision Title
     type:  text
   visiongivercopy:
     label: Faithful Giver
     type:  textarea
     size:  large
-  kingdomgiver:
-    label: Title
-    type:  text
   kingdomgivertitle:
-    label: Title
+    label: Kingdom Title
     type:  text
   kingdomgivercopy:
-    label: Faithful Giver
+    label: Kingdom Giver
     type:  textarea
     size:  large
-  threewaysbutton:
-    label: Be Involved Button
+  verse:
+    label: Verse
     type:  text
+  versecopy:
+    label: Verse Copy
+    type:  textarea
+    size:  large

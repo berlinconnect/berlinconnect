@@ -1,0 +1,25 @@
+﻿Pagelink: /h4th2015
+
+----
+
+UniqueId: heart
+
+----
+
+Umbrella: Social
+
+----
+
+Slatesize: rectangle
+
+----
+
+Title: Heart for the House
+
+----
+
+Intro: Equal sacrifice, not equal giving
+
+----
+
+Text:
