@@ -1,3 +1,6 @@
+html, body
+  height 100%
+
 .h4th2015
   .content
     .intro
@@ -117,6 +120,7 @@
       background-position center center
       cursor pointer
       transition transform 300ms ease
+      display inline-block
 
       &:hover
         transform scale(1.1)
@@ -125,11 +129,14 @@
       .sectioncontent
         position absolute
         width 100%
+        min-height 100%
         height 100%
-        display table
+        display flex
+        align-items center
+        justify-content center
+        margin auto
 
         .md-table
-          display table-cell
           vertical-align middle
 
       h2
@@ -139,6 +146,7 @@
         text-transform: uppercase
         font-weight 900
         padding 0 20px
+        position relative
 
       p
         font-size 20px
@@ -151,6 +159,7 @@
         top 0
         width 100%
         height 100%
+        z-index 3
 
       &.faithfulgiver
         background-image url("/img/h4h/fgbg.jpg")
