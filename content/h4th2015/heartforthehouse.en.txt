@@ -39,20 +39,17 @@ Faithful Givers are people who are willing and generous in their outlook on life
 
 Let’s prepare our hearts with prayer and excitement as we consider what to bring to the Heart for the House offering on 4th October 2015 enabling us to strengthen our church and speed up the work of Jesus here in our city Berlin.
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank"><input type="hidden" name="cmd" value="_s-xclick" />
-  <input type="hidden" name="hosted_button_id" value="P67SBR8J2RHYE" />
-  <button data-track="<?= $page->title() ?>:Give Now:Online Giving Section"  type="submit" class="giving button" border="0" name="submit" alt="Support us now by donating through PayPal.">Give Online</button>
-</form>
+(link:giving text:Give Online class: button center give-button)
 
 Online giving opens 1 October 2015.
 Giving envelopes ready on 30 September 2015.
 All Heart for the House giving to be completed before 31 October 2015.
 
-Account owner: Berlin Christian Life Centre e.V.
-IBAN: DE07120400000623459500
+**Account owner**: Berlin Christian Life Centre e.V.
 Commerzbank Berlin
-SWIFT Code (BIC): COBADEFF120
-Reference: H4TH2015
+**SWIFT Code (BIC)**: COBADEFF120
+**IBAN**: DE771204000000623459501
+**Reference**: H4TH2015
 
 ----
 
@@ -64,20 +61,17 @@ Visiongivercopy:
 
 Vision Givers bring a gift on 4th October plus a monthly commitment for 12 months resourcing the ongoing vision of Berlin Connect. This monthly commitment is above your normal giving of tithes and offerings. Vision giving starts at € 10 or more and runs for 12 months.
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank"><input type="hidden" name="cmd" value="_s-xclick" />
-  <input type="hidden" name="hosted_button_id" value="P67SBR8J2RHYE" />
-  <button data-track="<?= $page->title() ?>:Give Now:Online Giving Section"  type="submit" class="giving button" border="0" name="submit" alt="Support us now by donating through PayPal.">Give Online</button>
-</form>
+(link:giving text:Give Online class: button center give-button)
 
 Online giving opens 1 October 2015.
 Giving envelopes ready on 30 September 2015.
 All Heart for the House giving to be completed before 31 October 2015.
 
-Account owner: Berlin Christian Life Centre e.V.
+**Account owner**: Berlin Christian Life Centre e.V.
 Commerzbank Berlin
-SWIFT Code (BIC): COBADEFF120
-IBAN: DE771204000000623459501
-Reference: Vision Giver
+**SWIFT Code (BIC)**: COBADEFF120
+**IBAN**: DE771204000000623459501
+**Reference**: Vision Giver
 
 ----
 
@@ -96,10 +90,7 @@ Kingdom Givers understand that their gifts, talents and character add value that
 
 Kingdom giving starts at € 3,000.00 or more and is an annual commitment, over and above your normal tithes and offerings, to resource the ongoing work of Berlin Connect.
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank"><input type="hidden" name="cmd" value="_s-xclick" />
-  <input type="hidden" name="hosted_button_id" value="P67SBR8J2RHYE" />
-  <button data-track="<?= $page->title() ?>:Give Now:Online Giving Section"  type="submit" class="giving button" border="0" name="submit" alt="Support us now by donating through PayPal.">Give Online</button>
-</form>
+(link:giving text:Give Online class: button center give-button)
 
 Online giving opens 1 October 2015.
 Giving envelopes ready on 30 September 2015.
@@ -110,11 +101,11 @@ All Heart for the House giving to be completed before 31 October 2015.
 Dear Lord, who am I, and who are these my people, that we should presume to be giving something to you? Everything
 comes from you; all we’re doing is giving back what we’ve been given from your generous hand..... so I have given from the heart, honestly and happily...
 
-Account owner: Berlin Christian Life Centre e.V.
+**Account owner**: Berlin Christian Life Centre e.V.
 Commerzbank Berlin
-SWIFT Code (BIC): COBADEFF120
-IBAN: DE771204000000623459501
-Reference: Kingdom Giver
+**SWIFT Code (BIC)**: COBADEFF120
+**IBAN**: DE771204000000623459501
+**Reference**: Kingdom Giver
 
 ----
 

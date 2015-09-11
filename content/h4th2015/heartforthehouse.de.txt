@@ -6,11 +6,12 @@ Introheading: LIEBE FREUNDE
 
 ----
 
-Introcopy: Unsere Geschichte von Herz für Sein Haus kann man nur als Wunder bezeichnen. Es ist eine Geschichte ganz normaler Leute aus ganz unterschiedlichen Hintergründen, die sich entschlossen haben, daran mitzuarbeiten, dass Gottes Einflussbereich wächst und großzügig die Vision von Berlin Connect mit den nötigen Ressourcen auszustatten.
+Introcopy: Unsere Geschichte von Herz für Sein Haus kann man nur als Wunder bezeichnen. Es ist eine Geschichte ganz normaler Leute aus unterschiedlichen Hintergründen, die sich entschlossen haben, daran mitzuarbeiten, dass Gottes Einflussbereich wächst und großzügig die Vision von Berlin Connect mit den nötigen Ressourcen auszustatten.
 
-Diese wunderbare Reise dahin, dass sich die Herzen von Menschen angezogen fühlen von Jesus & Seiner Kirche hat gerade erst begonnen und hilft, die nötige Dynamik aufzubauen, um unsere Stadt und darüber hinaus für Christus zu erreichen.
+Diese wunderbare Reise dahin, dass sich die Herzen von Menschen angezogen fühlen von Jesus & Seiner Kirche
+hat gerade erst begonnen und hilft, die nötige Dynamik aufzubauen, um unsere Stadt und darüber hinaus für Christus zu erreichen.
 
-Das eigentliche Wunder an Herz für Sein Haus ist zu sehen, wie beständig Gott im Herz jedes Menschen und jeder Familie am Wirken ist, die sich – nach Einbeziehen von Gebet - entschließt mitzumachen. Vergesst dabei nie: „Was deine Hand verlässt, wird nie dein Leben verlassen.“
+Das eigentliche Wunder an Herz für Sein Haus ist, zu sehen, wie beständig Gott im Herz jedes Menschen und jeder Familie am Wirken ist, die sich – nach Einbeziehen von Gebet – entschließt mitzumachen. Vergiss dabei nie: „Was deine Hand verlässt, wird nie dein Leben verlassen.“
 
 Joyce und ich betrachten es als eine Ehre, bei Herz für Sein Haus durch eigenes Vorbild voranzugehen, und wir ermutigen euch, Gebet bei eurer Entscheidung einzubeziehen, wie euer Beitrag für Herz für Sein Haus in diesem Jahr aussehen kann.
 
@@ -21,10 +22,9 @@ Wir sind Gott für euch dankbar. Alles Liebe.
 ----
 
 SpecialGuest:
-ERFAHRE MEHR ÜBER HERZ FÜR SEIN HAUS<br>
 30. SEPTEMBER 2015 19:00 HAUS UNGARN<br>
-MIT UNSEREM SPECIAL GUEST: ANDREW DENTON VON<br>
-HILLSONG SYDNEY AUSTRALIEN
+ERFAHRE MEHR ÜBER HERZ FÜR SEIN HAUS<br>
+MIT UNSEREM SPECIAL GUEST: ANDREW DENTON VON HILLSONG SYDNEY, AUSTRALIEN
 ----
 
 SpecialGuestCopy: Andrew ist ein Kingdom Builder und eine Führungsperson in der Geschäftswelt. Er hat eine starke Geschichte darüber, wie sich Herz für Sein Haus ausgewirkt hat auf sein persönliches Leben und auf seinen Beruf als Unternehmer, den er mit Fokus auf Gottes Königreich auslebt.
@@ -37,17 +37,21 @@ Faithfulgivertitle: Faithful Givers
 
 Faithfulgivercopy:
 
-Berlin Connect war schon immer beschenkt mit Menschen, die beständig geben und einen groß-  zügigen Blick auf das Leben haben. Menschen, die verstehen, dass ihr Beitrag, ob groß oder klein, immer Gott eine Gelegenheit gibt, zu zeigen, dass Er beständig zu uns hält.
+Faithful Givers sind Menschen die bereitwillig sind und einen großzügigen Blick auf das Leben haben. Sie verstehen, dass ihr Beitrag, ob groß oder klein, immer Gott eine Gelegenheit gibt, zu zeigen, dass Er beständig zu uns hält.
 
 Lasst uns unser Herz durch Gebet und mit Freude vorbereiten für unseren Beitrag zu Herz für Sein Haus am 4. Oktober 2015, der uns in die Lage versetzt, unsere Kirche zu stärken und das zu beschleunigen, was Jesus hier in unserer Stadt Berlin tut.
 
-Online giving opens 1 October 2015… Giving Envelopes ready to be picked up….
+(link:giving text:Give Online class: button center give-button)
 
-Account owner/Kontoinhaber: Berlin Christian Life Centre e.V.
-IBAN: DE07120400000623459500
-Commerzbank Berlin
-SWIFT Code (BIC): COBADEFF120
-Reference/Verwendungszweck: H4TH2015
+Online zu geben ist ab 1. Oktober 2015 möglich.
+Umschläge für Herz für Sein Haus können im Foyer am 30. September mitgenommen werden.
+Beiträge zu Herz für Sein Haus sind bis 31. Oktober möglich.
+
+**Kontoinhaber**: Berlin Christian Life Centre e.V.
+**IBAN**: DE07120400000623459500
+**Commerzbank Berlin
+**SWIFT Code (BIC)**: COBADEFF120
+**Verwendungszweck**: H4TH2015
 
 ----
 
@@ -57,15 +61,21 @@ Visiongivertitle: Vision Givers
 
 Visiongivercopy:
 
-Vision Vision Givers geben einen Beitrag am 4. Oktober und sagen darüber hinaus für 12 Monate einen bestimmten Betrag zu, um die fortlaufende Umsetzung der Vision von Berlin Connect zu unterstützen. Dieser geht über den regelmäßigen Zehnten und Beiträge hinaus. Als Vision Giver ist der monatliche Mindestbeitrag € 10 oder mehr und wird für die Dauer von  12 Monaten gegeben.
+Vision Givers geben einen Beitrag am 4. Oktober und
+sagen darüber hinaus für 12 Monate einen bestimmten
+Betrag zu, um die fortlaufende Umsetzung der Vision von Berlin Connect zu unterstützen. Dieser geht über den regelmäßigen Zehnten und Beiträge hinaus. Als Vision Giver ist der monatliche Mindestbeitrag € 10 oder mehr und wird für die Dauer von 12 Monaten gegeben.
 
-Online giving opens 1 October 2015… Giving Envelopes ready to be picked up….
+(link:giving text:Give Online class: button center give-button)
 
-Account owner/Kontoinhaber: Berlin Christian Life Centre e.V.
-Commerzbank Berlin
-SWIFT Code (BIC): COBADEFF120
-IBAN: DE771204000000623459501
-Reference/Verwendungszweck: Vision Giver
+Online zu geben ist ab 1. Oktober 2015 möglich.
+Umschläge für Herz für Sein Haus können im Foyer am 30. September mitgenommen werden.
+Beiträge zu Herz für Sein Haus sind bis 31. Oktober möglich.
+
+**Kontoinhaber**: Berlin Christian Life Centre e.V.
+**IBAN**: DE07120400000623459500
+**Commerzbank Berlin
+**SWIFT Code (BIC)**: COBADEFF120
+**Verwendungszweck**: Vision Giver
 
 ----
 
@@ -75,15 +85,25 @@ Kingdomgivertitle: Kingdom Givers
 
 Kingdomgivercopy:
 
-Kingdom Kingdom Givers wissen, dass sie durch ihre Begabungen, Talente und ihren Charakter einen wertvollen Beitrag leisten können, um das Haus Gottes zu stärken. Dies ist ein Weg, Menschen zu helfen, die glauben, dass sie in ihrem Leben in finanzieller Hinsicht zu Führungsverantwortung berufen sind und die sich entscheiden, den Herrn mit ihrem Vermögen und finanziellen Zuwächsen zu ehren. Der Jahresbeitrag der Kingdom Givers beginnt bei € 3.000,00 oder mehr (über deinen normalen Zehnten und regelmäßige Beiträge hinaus) und unterstützt die laufende Arbeit von Berlin Connect.
+Kingdom Givers wissen, dass sie durch ihre Begabungen, Talente und ihren Charakter einen wertvollen Beitrag leisten können, um das Haus Gottes zu stärken. Dies ist ein Weg, Menschen zu helfen, die glauben, dass sie in ihrem Leben in finanzieller Hinsicht zu Führungsverantwortung berufen sind und die sich entscheiden, den Herrn mit ihrem Vermögen und
+finanziellen Zuwächsen zu ehren.
 
-Online giving opens 1 October 2015… Giving Envelopes ready to be picked up….
+Der Jahresbeitrag der Kingdom Givers beginnt bei € 3.000,00 oder mehr (über deinen normalen Zehnten und regelmäßige Beiträge hinaus) und unterstützt die laufende Arbeit von Berlin Connect.
 
-Account owner/Kontoinhaber: Berlin Christian Life Centre e.V.
+(link:giving text:Give Online class: button center give-button)
+
+Online zu geben ist ab 1. Oktober 2015 möglich.
+Umschläge für Herz für Sein Haus können im Foyer am 30. September mitgenommen werden.
+Beiträge zu Herz für Sein Haus sind bis 31. Oktober möglich.
+
+1. CHRONIK 29 (FREI NACH MSG)
+Herr, wer bin ich und wer sind diese Menschen, zu meinen, dir überhaupt etwas geben zu können? Alles kommt von dir; alles was wir tun ist, dir von dem zurückzugeben, was uns aus deiner großzügigen Hand zugekommen ist..... deshalb habe ich von Herzen gegeben, ehrlich und mit Freude...
+
+Kontoinhaber: Berlin Christian Life Centre e.V.
 Commerzbank Berlin
 SWIFT Code (BIC): COBADEFF120
 IBAN: DE771204000000623459501
-Reference/Verwendungszweck: Kingdom Giver
+Verwendungszweck: Kingdom Giver
 
 ----
 
