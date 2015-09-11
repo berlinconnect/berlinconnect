@@ -63,7 +63,7 @@
     </div>
   </div>
 </div>
-<div class="content">
+<div class="hidden content">
 
   <div class="verse">
     <div class="wrapper">
