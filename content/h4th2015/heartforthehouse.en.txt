@@ -20,12 +20,12 @@ We love and thank God for you.
 
 ----
 
-SpecialGuest: JOIN US TO HEAR MORE ABOUT HEART FOR THE HOUSE<br>
-30th SEPTEMBER 2015 19:00 HAUS UNGARN<br>
+SpecialGuest: 30TH SEPTEMBER 2015 19:00 HAUS UNGARN<br>
+JOIN US TO HEAR MORE ABOUT HEART FOR THE HOUSE<br>
 WITH OUR SPECIAL GUEST: ANDREW DENTON FROM SYDNEY AUSTRALIA
 ----
 
-SpecialGuestCopy: Andrew is a Kingdom Builder and Business leader with a powerful story of how Heart for the House has impacted his personal and business life with kingdom purpose.
+SpecialGuestCopy: Andrew is a Kingdom Builder and Business leader with a powerful story of how Heart for the House has impacted his personal and business life with Kingdom purpose.
 
 ----
 
@@ -35,17 +35,21 @@ Faithfulgivertitle: Faithful Givers
 
 Faithfulgivercopy:
 
-Berlin Connect has always been blessed with faithful givers who are willing and generous in their outlook on life and understand that our contribution large or small will always give God an opportunity to show His faithfulness in our lives.
+Faithful Givers are people who are willing and generous in their outlook on life and understand that their contribution large or small will always give God an opportunity to show His faithfulness in our lives.
 
-Let’s prepare our hearts with prayer and excitement as we consider what to bring to the Heart for the House offering on 4th October 2015 enabling us to strengthen our church and speed up the work of Jesus here in our city Berlin
+Let’s prepare our hearts with prayer and excitement as we consider what to bring to the Heart for the House offering on 4th October 2015 enabling us to strengthen our church and speed up the work of Jesus here in our city Berlin.
 
-Online giving opens 1 October 2015… Giving Envelopes ready to be picked up….
+(link:giving text:Give Online class: button center give-button)
 
-Account owner/Kontoinhaber: Berlin Christian Life Centre e.V.
-IBAN: DE07120400000623459500
+Online giving opens 1 October 2015.
+Giving envelopes ready on 30 September 2015.
+All Heart for the House giving to be completed before 31 October 2015.
+
+**Account owner**: Berlin Christian Life Centre e.V.
 Commerzbank Berlin
-SWIFT Code (BIC): COBADEFF120
-Reference/Verwendungszweck: H4TH2015
+**SWIFT Code (BIC)**: COBADEFF120
+**IBAN**: DE771204000000623459501
+**Reference**: H4TH2015
 
 ----
 
@@ -57,13 +61,17 @@ Visiongivercopy:
 
 Vision Givers bring a gift on 4th October plus a monthly commitment for 12 months resourcing the ongoing vision of Berlin Connect. This monthly commitment is above your normal giving of tithes and offerings. Vision giving starts at € 10 or more and runs for 12 months.
 
-Online giving opens 1 October 2015… Giving Envelopes ready to be picked up….
+(link:giving text:Give Online class: button center give-button)
 
-Account owner/Kontoinhaber: Berlin Christian Life Centre e.V.
+Online giving opens 1 October 2015.
+Giving envelopes ready on 30 September 2015.
+All Heart for the House giving to be completed before 31 October 2015.
+
+**Account owner**: Berlin Christian Life Centre e.V.
 Commerzbank Berlin
-SWIFT Code (BIC): COBADEFF120
-IBAN: DE771204000000623459501
-Reference/Verwendungszweck: Vision Giver
+**SWIFT Code (BIC)**: COBADEFF120
+**IBAN**: DE771204000000623459501
+**Reference**: Vision Giver
 
 ----
 
@@ -77,15 +85,27 @@ Kingdomgivertitle: Kingdom Givers
 
 Kingdomgivercopy:
 
-Kingdom Givers understand that their gifts, talents and character add value that strengthens the House of God. This is a vehicle to help people who believe they are called to be financial leaders in life and who choose to honour the Lord with their increase and wealth. Kingdom giving starts at € 3,000.00 or more and is an annual commitment, over and above your normal tithes and offerings, to resource the ongoing work of Berlin Connect.
 
-Online giving opens 1 October 2015… Giving Envelopes ready to be picked up….
+Kingdom Givers understand that their gifts, talents and character add value that strengthens the House of God. This is a vehicle to help people who believe they are called to be financial leaders in life and who choose to honour the Lord with their increase and wealth.
 
-Account owner/Kontoinhaber: Berlin Christian Life Centre e.V.
+Kingdom giving starts at € 3,000.00 or more and is an annual commitment, over and above your normal tithes and offerings, to resource the ongoing work of Berlin Connect.
+
+(link:giving text:Give Online class: button center give-button)
+
+Online giving opens 1 October 2015.
+Giving envelopes ready on 30 September 2015.
+All Heart for the House giving to be completed before 31 October 2015.
+
+1 CHRONICLES 29 MSG
+
+Dear Lord, who am I, and who are these my people, that we should presume to be giving something to you? Everything
+comes from you; all we’re doing is giving back what we’ve been given from your generous hand..... so I have given from the heart, honestly and happily...
+
+**Account owner**: Berlin Christian Life Centre e.V.
 Commerzbank Berlin
-SWIFT Code (BIC): COBADEFF120
-IBAN: DE771204000000623459501
-Reference/Verwendungszweck: Kingdom Giver
+**SWIFT Code (BIC)**: COBADEFF120
+**IBAN**: DE771204000000623459501
+**Reference**: Kingdom Giver
 
 ----
 

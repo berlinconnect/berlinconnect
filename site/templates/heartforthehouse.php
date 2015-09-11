@@ -16,23 +16,8 @@
     </div>
   </div>
 </div>
-<div class="event">
-  <div class="content">
-    <div class="wrapper">
-      <div class="heading-container center">
-        <h4><?= $page->specialguest() ?></h4>
-        <p>
-          <?= $page->specialguestcopy() ?>
-        </p>
-        <h3 class="center">Andrew Denton</h3>
-        <div class="adphoto">
-
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
 <div class="content">
+
   <div class="threeways">
     <div class="cols">
       <div class="col col-33 center faithfulgiver">
@@ -61,6 +46,24 @@
       </div>
     </div>
   </div>
+</div>
+<div class="event">
+  <div class="content">
+    <div class="wrapper">
+      <div class="heading-container center">
+        <h4><?= $page->specialguest() ?></h4>
+        <p>
+          <?= $page->specialguestcopy() ?>
+        </p>
+        <h3 class="center">Andrew Denton</h3>
+        <div class="adphoto">
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="content">
 
   <div class="verse">
     <div class="wrapper">
