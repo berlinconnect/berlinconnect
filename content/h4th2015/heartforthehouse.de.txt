@@ -43,7 +43,12 @@ Faithful Givers sind Menschen die bereitwillig sind und einen großzügigen Blic
 
 Lasst uns unser Herz durch Gebet und mit Freude vorbereiten für unseren Beitrag zu Herz für Sein Haus am 4. Oktober 2015, der uns in die Lage versetzt, unsere Kirche zu stärken und das zu beschleunigen, was Jesus hier in unserer Stadt Berlin tut.
 
-(link:giving text:Give Online class: button center give-button)
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank"><input type="hidden" name="cmd" value="_s-xclick" />
+  <input type="hidden" name="hosted_button_id" value="P67SBR8J2RHYE" />
+  <button data-track="<?= $page->title() ?>:Give Now:Online Giving Section"  type="submit" class="giving button give-button" border="0" name="submit" alt="Support us now by donating through PayPal.">Online Giving</button>
+  <img alt="" src="https://www.paypalobjects.com/de_DE/i/scr/pixel.gif" width="1" height="1" border="0" />
+  <div class="payment-icons"></div>
+</form>
 
 Online zu geben ist ab 1. Oktober 2015 möglich.
 Umschläge für Herz für Sein Haus können im Foyer am 30. September mitgenommen werden.
@@ -67,7 +72,12 @@ Visiongivercopy:
 
 Vision Givers geben einen Beitrag am 4. Oktober und sagen darüber hinaus für 12 Monate einen bestimmten Betrag zu, um die fortlaufende Umsetzung der Vision von Berlin Connect zu unterstützen. Dieser geht über den regelmäßigen Zehnten und Beiträge hinaus. Als Vision Giver ist der monatliche Mindestbeitrag € 10 oder mehr und wird für die Dauer von 12 Monaten gegeben.
 
-(link:giving text:Give Online class: button center give-button)
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank"><input type="hidden" name="cmd" value="_s-xclick" />
+  <input type="hidden" name="hosted_button_id" value="P67SBR8J2RHYE" />
+  <button data-track="<?= $page->title() ?>:Give Now:Online Giving Section"  type="submit" class="giving button give-button" border="0" name="submit" alt="Support us now by donating through PayPal.">Online Giving</button>
+  <img alt="" src="https://www.paypalobjects.com/de_DE/i/scr/pixel.gif" width="1" height="1" border="0" />
+  <div class="payment-icons"></div>
+</form>
 
 Online zu geben ist ab 1. Oktober 2015 möglich.
 Umschläge für Herz für Sein Haus können im Foyer am 30. September mitgenommen werden.
@@ -94,7 +104,12 @@ finanziellen Zuwächsen zu ehren.
 
 Der Jahresbeitrag der Kingdom Givers beginnt bei € 3.000,00 oder mehr (über deinen normalen Zehnten und regelmäßige Beiträge hinaus) und unterstützt die laufende Arbeit von Berlin Connect.
 
-(link:giving text:Give Online class: button center give-button)
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank"><input type="hidden" name="cmd" value="_s-xclick" />
+  <input type="hidden" name="hosted_button_id" value="P67SBR8J2RHYE" />
+  <button data-track="<?= $page->title() ?>:Give Now:Online Giving Section"  type="submit" class="giving button give-button" border="0" name="submit" alt="Support us now by donating through PayPal.">Online Giving</button>
+  <img alt="" src="https://www.paypalobjects.com/de_DE/i/scr/pixel.gif" width="1" height="1" border="0" />
+  <div class="payment-icons"></div>
+</form>
 
 Online zu geben ist ab 1. Oktober 2015 möglich.
 Umschläge für Herz für Sein Haus können im Foyer am 30. September mitgenommen werden.
