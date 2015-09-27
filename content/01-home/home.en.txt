@@ -2,29 +2,32 @@ Title: Welcome Home
 
 ----
 
-Herotitle: Welcome Home
+Herotitle: 6th Birthday Party
 
 ----
 
-Herocopy: A multicultural church in the heart of Berlin, changing people's perceptions about Jesus and His Church.
+Herocopy: 4th October 2015
 
 ----
 
-Sundaysubtitle: A bit more about...
+Sundaysubtitle: You are invited to celebrate with us
 
 ----
 
-Sundaytitle: Berlin Connect
+Sundaytitle: Heart for the house
 
 ----
 
-Sundaycopy: 
+Sundaycopy:
+Hillsong London Worship Team
+Funtastic Fun for Kids
+B/C Youth Dance Party
 
-Berlin Connect is a multicultural church in the heart of Berlin. Our philosophy is simply: 'Love God, love people, love life'. Our motto is 'Come as you are'.
+4th October 2015
+11:00 & 17:00
 
-Do you have any questions?
-Please ask!
-(email:questions@berlinclc.de text: questions@berlinclc.de)
+at Maritim ProArte Hotel
+Friedrichstrasse 151, 10117 Berlin
 
 ----
 
@@ -64,7 +67,7 @@ Joinustitle: Come join us
 
 ----
 
-Joinuscopy: 
+Joinuscopy:
 
 We are unashamedly passionate about the House of God. We welcome visitors at Berlin Connect and would love to have you join us in church this weekend.
 

@@ -1,47 +1,45 @@
 Title: (en)large
-----
-Discoverytitle: Disovery Notes
-----
-Discoverysubtitle: Discovery notes are blah blah
-----
-Identitytitle: Identity Collection
-----
-Identitysubtitle: Identity collection are blah blah
-----
-AboutTitle: About (EN)LARGE
-----
-About: (en)large is a learning and resources platform to equip you to be all God has called you to be, to shine brightly and add value to whatever sphere of society you find yourself in.
 
-(en)large has 3 aspects: "Discovering Jesus and His Church", "Life Builders" and "My Bible"
-
-You can join midweek (en)large sessions and workshops, meet new friends and experience a great learning environment. In the toolbox you'll find inspiring resources like podcasts, notes and books.
 ----
 
-DiscoveryTitle: DISCOVERING JESUS &amp; HIS CHURCH
+Discoverytitle: DISCOVERING JESUS &amp; HIS CHURCH
+
 ----
+
+Abouttitle: ABOUT (EN)LARGE
+
+----
+
 Discovery: focuses on the essentials of living your Christian faith. Topics include ‘Who is Jesus?’, Water baptism, prayer and more.
+
 ----
 
-LifeTitle: LIFE BUILDERS
-----
-Life: will equip you with practical skills in key areas such as finances, work, career and relationships.
+Lifetitle: LIFE SKILLS
+
 ----
 
-BibleTitle: MY BIBLE
-----
-Bible: will equip you with practical skills in key areas such as finances, work, career and relationships.
+Life: will equip you with practical skills in key areas of life such as finances, relationships, leadership, and work.
+
 ----
 
-WorkshopsTitle: SESSION &amp; WORKSHOP Dates
+Bibletitle: MY BIBLE
+
 ----
 
-ToolboxTitle: Toolbox
+Bible: learn the basic framework for reading and studying your Bible in order to better understand and enjoy God’s word.
+
 ----
 
-SessionsTitle: Session & Workshop Dates
+Workshopstitle: SESSION &amp; WORKSHOP Dates
+
 ----
 
-Sessions: Sessions include biblical teaching, resources, lively small group discussions where you can ask questions and practical tips as well as make new friends.
+Toolboxtitle: Toolbox
+
 ----
-ContinueConversation: Continue the conversation by (email:mailto:conny@berlinclc.com text: joining a Dinner Party)
+
+Sessionstitle: Sessions & Workshop Dates
+
 ----
+
+Sessions: Sessions include biblical teaching and lively small group discussions where you can ask questions, gain clarity on various topics as well as make new friends.
