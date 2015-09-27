@@ -12,9 +12,10 @@
   <section class="sundays">
     <div class="wrapper">
       <div id="about" class="intro center">
+        <div class="h4h-bc"></div>
         <h2><?= $page->sundaysubtitle() ?></h2>
         <h1><?= $page->sundaytitle() ?></h1>
-        <?= kirbytext($page->sundaycopy()) ?>
+        <?= $page->sundaycopy()->kirbytext() ?>
         <div class="welcome-home hidden">
           <span class="entypo play"></span>
         </div>
