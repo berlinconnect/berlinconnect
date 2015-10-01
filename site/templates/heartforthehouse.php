@@ -65,22 +65,6 @@
     </div>
   </div>
 </div>
-<div class="event">
-  <div class="content">
-    <div class="wrapper">
-      <div class="heading-container center">
-        <h4><?= $page->specialguest() ?></h4>
-        <p>
-          <?= $page->specialguestcopy() ?>
-        </p>
-        <h3 class="center">Andrew Denton</h3>
-        <div class="adphoto">
-
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
 <div class="hidden content">
 
   <div class="verse">
